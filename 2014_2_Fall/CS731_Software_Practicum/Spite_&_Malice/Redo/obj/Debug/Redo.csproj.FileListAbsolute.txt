@@ -1,0 +1,92 @@
+Y:\Dropbox\2_Software Practicum\00_Code\workSpace\01_Card Game\1203\Redo\Redo\bin\Debug\Redo.exe.config
+Y:\Dropbox\2_Software Practicum\00_Code\workSpace\01_Card Game\1203\Redo\Redo\bin\Debug\Redo.exe
+Y:\Dropbox\2_Software Practicum\00_Code\workSpace\01_Card Game\1203\Redo\Redo\bin\Debug\Redo.pdb
+Y:\Dropbox\2_Software Practicum\00_Code\workSpace\01_Card Game\1203\Redo\Redo\obj\Debug\Redo.csprojResolveAssemblyReference.cache
+Y:\Dropbox\2_Software Practicum\00_Code\workSpace\01_Card Game\1203\Redo\Redo\obj\Debug\Redo.Form1.resources
+Y:\Dropbox\2_Software Practicum\00_Code\workSpace\01_Card Game\1203\Redo\Redo\obj\Debug\Redo.Properties.Resources.resources
+Y:\Dropbox\2_Software Practicum\00_Code\workSpace\01_Card Game\1203\Redo\Redo\obj\Debug\Redo.csproj.GenerateResource.Cache
+Y:\Dropbox\2_Software Practicum\00_Code\workSpace\01_Card Game\1203\Redo\Redo\obj\Debug\Redo.exe
+Y:\Dropbox\2_Software Practicum\00_Code\workSpace\01_Card Game\1203\Redo\Redo\obj\Debug\Redo.pdb
+C:\Users\reyo8494.CSLAB.000\Desktop\1203\Redo\Redo\bin\Debug\Redo.exe.config
+C:\Users\reyo8494.CSLAB.000\Desktop\1203\Redo\Redo\obj\Debug\Redo.exe
+C:\Users\reyo8494.CSLAB.000\Desktop\1203\Redo\Redo\obj\Debug\Redo.pdb
+C:\Users\reyo8494.CSLAB.000\Desktop\1203\Redo\Redo\bin\Debug\Redo.exe
+C:\Users\reyo8494.CSLAB.000\Desktop\1203\Redo\Redo\bin\Debug\Redo.pdb
+C:\Users\reyo8494.CSLAB.000\Desktop\1203\Redo\Redo\obj\Debug\Redo.csprojResolveAssemblyReference.cache
+C:\Users\reyo8494.CSLAB.000\Desktop\1203\Redo\Redo\obj\Debug\Redo.Form1.resources
+C:\Users\reyo8494.CSLAB.000\Desktop\1203\Redo\Redo\obj\Debug\Redo.Properties.Resources.resources
+C:\Users\reyo8494.CSLAB.000\Desktop\1203\Redo\Redo\obj\Debug\Redo.csproj.GenerateResource.Cache
+\\psf\Home\Dropbox\2_Software Practicum\00_Code\workSpace\01_Card Game\1203_2315\Redo\Redo\bin\Debug\Redo.exe.config
+\\psf\Home\Dropbox\2_Software Practicum\00_Code\workSpace\01_Card Game\1203_2315\Redo\Redo\obj\Debug\Redo.exe
+\\psf\Home\Dropbox\2_Software Practicum\00_Code\workSpace\01_Card Game\1203_2315\Redo\Redo\obj\Debug\Redo.pdb
+\\psf\Home\Dropbox\2_Software Practicum\00_Code\workSpace\01_Card Game\1203_2315\Redo\Redo\bin\Debug\Redo.exe
+\\psf\Home\Dropbox\2_Software Practicum\00_Code\workSpace\01_Card Game\1203_2315\Redo\Redo\bin\Debug\Redo.pdb
+\\psf\Home\Dropbox\2_Software Practicum\00_Code\workSpace\01_Card Game\1203_2315\Redo\Redo\obj\Debug\Redo.csprojResolveAssemblyReference.cache
+\\psf\Home\Dropbox\2_Software Practicum\00_Code\workSpace\01_Card Game\1203_2315\Redo\Redo\obj\Debug\Redo.Form1.resources
+\\psf\Home\Dropbox\2_Software Practicum\00_Code\workSpace\01_Card Game\1203_2315\Redo\Redo\obj\Debug\Redo.Properties.Resources.resources
+\\psf\Home\Dropbox\2_Software Practicum\00_Code\workSpace\01_Card Game\1203_2315\Redo\Redo\obj\Debug\Redo.csproj.GenerateResource.Cache
+C:\Users\reyo8494.CSLAB.000\Desktop\Redo\Redo\bin\Debug\Redo.exe.config
+C:\Users\reyo8494.CSLAB.000\Desktop\Redo\Redo\obj\Debug\Redo.exe
+C:\Users\reyo8494.CSLAB.000\Desktop\Redo\Redo\obj\Debug\Redo.pdb
+C:\Users\reyo8494.CSLAB.000\Desktop\Redo\Redo\bin\Debug\Redo.exe
+C:\Users\reyo8494.CSLAB.000\Desktop\Redo\Redo\bin\Debug\Redo.pdb
+C:\Users\reyo8494.CSLAB.000\Desktop\Redo\Redo\obj\Debug\Redo.csprojResolveAssemblyReference.cache
+C:\Users\reyo8494.CSLAB.000\Desktop\Redo\Redo\obj\Debug\Redo.Form1.resources
+C:\Users\reyo8494.CSLAB.000\Desktop\Redo\Redo\obj\Debug\Redo.Properties.Resources.resources
+C:\Users\reyo8494.CSLAB.000\Desktop\Redo\Redo\obj\Debug\Redo.csproj.GenerateResource.Cache
+C:\Users\reyo8494.CSLAB.000\Desktop\Redo_1209\Redo\bin\Debug\Redo.exe.config
+C:\Users\reyo8494.CSLAB.000\Desktop\Redo_1209\Redo\obj\Debug\Redo.exe
+C:\Users\reyo8494.CSLAB.000\Desktop\Redo_1209\Redo\obj\Debug\Redo.pdb
+C:\Users\reyo8494.CSLAB.000\Desktop\Redo_1209\Redo\bin\Debug\Redo.exe
+C:\Users\reyo8494.CSLAB.000\Desktop\Redo_1209\Redo\bin\Debug\Redo.pdb
+C:\Users\reyo8494.CSLAB.000\Desktop\Redo_1209\Redo\obj\Debug\Redo.csprojResolveAssemblyReference.cache
+C:\Users\reyo8494.CSLAB.000\Desktop\Redo_1209\Redo\obj\Debug\Redo.Form1.resources
+C:\Users\reyo8494.CSLAB.000\Desktop\Redo_1209\Redo\obj\Debug\Redo.Properties.Resources.resources
+C:\Users\reyo8494.CSLAB.000\Desktop\Redo_1209\Redo\obj\Debug\Redo.Welcome.resources
+C:\Users\reyo8494.CSLAB.000\Desktop\Redo_1209\Redo\obj\Debug\Redo.csproj.GenerateResource.Cache
+\\psf\Home\Dropbox\2_Software Practicum\00_Code\workSpace\01_Card Game\1211\Redo_1211\Redo\bin\Debug\Redo.exe.config
+\\psf\Home\Dropbox\2_Software Practicum\00_Code\workSpace\01_Card Game\1211\Redo_1211\Redo\obj\Debug\Redo.exe
+\\psf\Home\Dropbox\2_Software Practicum\00_Code\workSpace\01_Card Game\1211\Redo_1211\Redo\obj\Debug\Redo.pdb
+\\psf\Home\Dropbox\2_Software Practicum\00_Code\workSpace\01_Card Game\1211\Redo_1211_Home\Redo\bin\Debug\Redo.exe.config
+\\psf\Home\Dropbox\2_Software Practicum\00_Code\workSpace\01_Card Game\1211\Redo_1211_Home\Redo\obj\Debug\Redo.exe
+\\psf\Home\Dropbox\2_Software Practicum\00_Code\workSpace\01_Card Game\1211\Redo_1211_Home\Redo\obj\Debug\Redo.pdb
+\\psf\Home\Dropbox\2_Software Practicum\00_Code\workSpace\01_Card Game\1211\Redo_1211_Home\Redo\obj\Debug\Redo.csprojResolveAssemblyReference.cache
+\\psf\Home\Dropbox\2_Software Practicum\00_Code\workSpace\01_Card Game\1211\Redo_1211_Home\Redo\obj\Debug\Redo.Form1.resources
+\\psf\Home\Dropbox\2_Software Practicum\00_Code\workSpace\01_Card Game\1211\Redo_1211_Home\Redo\obj\Debug\Redo.Properties.Resources.resources
+\\psf\Home\Dropbox\2_Software Practicum\00_Code\workSpace\01_Card Game\1211\Redo_1211_Home\Redo\obj\Debug\Redo.Welcome.resources
+\\psf\Home\Dropbox\2_Software Practicum\00_Code\workSpace\01_Card Game\1211\Redo_1211_Home\Redo\obj\Debug\Redo.csproj.GenerateResource.Cache
+\\psf\Home\Dropbox\2_Software Practicum\00_Code\workSpace\01_Card Game\1211\Redo_1211_Home\Redo\bin\Debug\Redo.exe
+\\psf\Home\Dropbox\2_Software Practicum\00_Code\workSpace\01_Card Game\1211\Redo_1211_Home\Redo\bin\Debug\Redo.pdb
+\\psf\Home\Dropbox\2_Software Practicum\00_Code\workSpace\01_Card Game\Final\1211\Redo_1211_Home\Redo\bin\Debug\Redo.exe.config
+\\psf\Home\Dropbox\2_Software Practicum\00_Code\workSpace\01_Card Game\Final\1211\Redo_1211_Home\Redo\obj\Debug\Redo.exe
+\\psf\Home\Dropbox\2_Software Practicum\00_Code\workSpace\01_Card Game\Final\1211\Redo_1211_Home\Redo\obj\Debug\Redo.pdb
+C:\Users\reyo8494\Desktop\Final_1215\1211\Redo_1211_Home\Redo\bin\Debug\Redo.exe.config
+C:\Users\reyo8494\Desktop\Final_1215\1211\Redo_1211_Home\Redo\obj\Debug\Redo.exe
+C:\Users\reyo8494\Desktop\Final_1215\1211\Redo_1211_Home\Redo\obj\Debug\Redo.pdb
+C:\Users\reyo8494\Desktop\Final_1215\1211\Redo_1211_Home\Redo\bin\Debug\Redo.exe
+C:\Users\reyo8494\Desktop\Final_1215\1211\Redo_1211_Home\Redo\bin\Debug\Redo.pdb
+C:\Users\reyo8494\Desktop\Final_1215\1211\Redo_1211_Home\Redo\obj\Debug\Redo.csprojResolveAssemblyReference.cache
+C:\Users\reyo8494\Desktop\Final_1215\1211\Redo_1211_Home\Redo\obj\Debug\Redo.Form1.resources
+C:\Users\reyo8494\Desktop\Final_1215\1211\Redo_1211_Home\Redo\obj\Debug\Redo.Properties.Resources.resources
+C:\Users\reyo8494\Desktop\Final_1215\1211\Redo_1211_Home\Redo\obj\Debug\Redo.Welcome.resources
+C:\Users\reyo8494\Desktop\Final_1215\1211\Redo_1211_Home\Redo\obj\Debug\Redo.csproj.GenerateResource.Cache
+\\psf\MINGJING\Final_1215\1211\Redo_1211_Home\Redo\bin\Debug\Redo.exe.config
+\\psf\MINGJING\Final_1215\1211\Redo_1211_Home\Redo\obj\Debug\Redo.exe
+\\psf\MINGJING\Final_1215\1211\Redo_1211_Home\Redo\obj\Debug\Redo.pdb
+\\psf\MINGJING\Final_1215\1211\Redo_1211_Home\Redo\bin\Debug\Redo.exe
+\\psf\MINGJING\Final_1215\1211\Redo_1211_Home\Redo\bin\Debug\Redo.pdb
+\\psf\MINGJING\Final_1215\1211\Redo_1211_Home\Redo\obj\Debug\Redo.csprojResolveAssemblyReference.cache
+\\psf\MINGJING\Final_1215\1211\Redo_1211_Home\Redo\obj\Debug\Redo.Form1.resources
+\\psf\MINGJING\Final_1215\1211\Redo_1211_Home\Redo\obj\Debug\Redo.Properties.Resources.resources
+\\psf\MINGJING\Final_1215\1211\Redo_1211_Home\Redo\obj\Debug\Redo.Welcome.resources
+\\psf\MINGJING\Final_1215\1211\Redo_1211_Home\Redo\obj\Debug\Redo.csproj.GenerateResource.Cache
+\\psf\Home\Dropbox\2_Software Practicum\00_Code\workSpace\01_Card Game\Final\1211\Redo_1211_Home\Redo\bin\Debug\Redo.exe
+\\psf\Home\Dropbox\2_Software Practicum\00_Code\workSpace\01_Card Game\Final\1211\Redo_1211_Home\Redo\bin\Debug\Redo.pdb
+\\psf\Home\Dropbox\2_Software Practicum\00_Code\workSpace\01_Card Game\Final\1211\Redo_1211_Home\Redo\obj\Debug\Redo.csprojResolveAssemblyReference.cache
+\\psf\Home\Dropbox\2_Software Practicum\00_Code\workSpace\01_Card Game\Final\1211\Redo_1211_Home\Redo\obj\Debug\Redo.Form1.resources
+\\psf\Home\Dropbox\2_Software Practicum\00_Code\workSpace\01_Card Game\Final\1211\Redo_1211_Home\Redo\obj\Debug\Redo.Properties.Resources.resources
+\\psf\Home\Dropbox\2_Software Practicum\00_Code\workSpace\01_Card Game\Final\1211\Redo_1211_Home\Redo\obj\Debug\Redo.csproj.GenerateResource.Cache
+\\psf\Home\Dropbox\2_Software Practicum\00_Code\workSpace\01_Card Game\Final\1211\Redo_1211_Home\Redo\bin\Debug\Redo.exe.manifest
+\\psf\Home\Dropbox\2_Software Practicum\00_Code\workSpace\01_Card Game\Final\1211\Redo_1211_Home\Redo\bin\Debug\Redo.application
+\\psf\Home\Dropbox\2_Software Practicum\00_Code\workSpace\01_Card Game\Final\1211\Redo_1211_Home\Redo\obj\Debug\Redo.exe.manifest
+\\psf\Home\Dropbox\2_Software Practicum\00_Code\workSpace\01_Card Game\Final\1211\Redo_1211_Home\Redo\obj\Debug\Redo.application

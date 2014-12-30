@@ -1,0 +1,12 @@
+\\psf\Home\Dropbox\2_Software Practicum\00_Code\workSpace\01_Card Game\Final\1211\Redo_1211_Home\Redo\bin\Debug\Redo.exe.config
+\\psf\Home\Dropbox\2_Software Practicum\00_Code\workSpace\01_Card Game\Final\1211\Redo_1211_Home\Redo\bin\Debug\Redo.exe.manifest
+\\psf\Home\Dropbox\2_Software Practicum\00_Code\workSpace\01_Card Game\Final\1211\Redo_1211_Home\Redo\bin\Debug\Redo.application
+\\psf\Home\Dropbox\2_Software Practicum\00_Code\workSpace\01_Card Game\Final\1211\Redo_1211_Home\Redo\bin\Debug\Redo.exe
+\\psf\Home\Dropbox\2_Software Practicum\00_Code\workSpace\01_Card Game\Final\1211\Redo_1211_Home\Redo\bin\Debug\Redo.pdb
+\\psf\Home\Dropbox\2_Software Practicum\00_Code\workSpace\01_Card Game\Final\1211\Redo_1211_Home\Redo\obj\Debug\Redo.Form1.resources
+\\psf\Home\Dropbox\2_Software Practicum\00_Code\workSpace\01_Card Game\Final\1211\Redo_1211_Home\Redo\obj\Debug\Redo.Properties.Resources.resources
+\\psf\Home\Dropbox\2_Software Practicum\00_Code\workSpace\01_Card Game\Final\1211\Redo_1211_Home\Redo\obj\Debug\SpiteMalice.csproj.GenerateResource.Cache
+\\psf\Home\Dropbox\2_Software Practicum\00_Code\workSpace\01_Card Game\Final\1211\Redo_1211_Home\Redo\obj\Debug\Redo.exe.manifest
+\\psf\Home\Dropbox\2_Software Practicum\00_Code\workSpace\01_Card Game\Final\1211\Redo_1211_Home\Redo\obj\Debug\Redo.application
+\\psf\Home\Dropbox\2_Software Practicum\00_Code\workSpace\01_Card Game\Final\1211\Redo_1211_Home\Redo\obj\Debug\Redo.exe
+\\psf\Home\Dropbox\2_Software Practicum\00_Code\workSpace\01_Card Game\Final\1211\Redo_1211_Home\Redo\obj\Debug\Redo.pdb

@@ -1,0 +1,12 @@
+C:\Users\reyo8494\Desktop\Final\Test\Final_1_Othello\Final_1_Othello\bin\Debug\Final_1_Othello.exe.config
+C:\Users\reyo8494\Desktop\Final\Test\Final_1_Othello\Final_1_Othello\bin\Debug\Final_1_Othello.exe
+C:\Users\reyo8494\Desktop\Final\Test\Final_1_Othello\Final_1_Othello\bin\Debug\Final_1_Othello.pdb
+C:\Users\reyo8494\Desktop\Final\Test\Final_1_Othello\Final_1_Othello\obj\Debug\Final_1_Othello.csprojResolveAssemblyReference.cache
+C:\Users\reyo8494\Desktop\Final\Test\Final_1_Othello\Final_1_Othello\obj\Debug\Final_1_Othello.Form1.resources
+C:\Users\reyo8494\Desktop\Final\Test\Final_1_Othello\Final_1_Othello\obj\Debug\Final_1_Othello.Properties.Resources.resources
+C:\Users\reyo8494\Desktop\Final\Test\Final_1_Othello\Final_1_Othello\obj\Debug\Final_1_Othello.csproj.GenerateResource.Cache
+C:\Users\reyo8494\Desktop\Final\Test\Final_1_Othello\Final_1_Othello\obj\Debug\Final_1_Othello.exe
+C:\Users\reyo8494\Desktop\Final\Test\Final_1_Othello\Final_1_Othello\obj\Debug\Final_1_Othello.pdb
+\\psf\Home\Dropbox\2_Software Practicum\00_Code\workSpace\01_Card Game\Final\Test\Final_1_Othello\Final_1_Othello\bin\Debug\Final_1_Othello.exe.config
+\\psf\Home\Dropbox\2_Software Practicum\00_Code\workSpace\01_Card Game\Final\Test\Final_1_Othello\Final_1_Othello\obj\Debug\Final_1_Othello.exe
+\\psf\Home\Dropbox\2_Software Practicum\00_Code\workSpace\01_Card Game\Final\Test\Final_1_Othello\Final_1_Othello\obj\Debug\Final_1_Othello.pdb

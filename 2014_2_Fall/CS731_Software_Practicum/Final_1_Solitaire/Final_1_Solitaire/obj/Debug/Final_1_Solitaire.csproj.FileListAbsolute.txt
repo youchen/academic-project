@@ -1,0 +1,20 @@
+C:\Users\reyo8494\Desktop\Final\Test\Final_1_Solitaire\Final_1_Solitaire\bin\Debug\Final_1_Solitaire.exe.config
+C:\Users\reyo8494\Desktop\Final\Test\Final_1_Solitaire\Final_1_Solitaire\bin\Debug\Final_1_Solitaire.exe
+C:\Users\reyo8494\Desktop\Final\Test\Final_1_Solitaire\Final_1_Solitaire\bin\Debug\Final_1_Solitaire.pdb
+C:\Users\reyo8494\Desktop\Final\Test\Final_1_Solitaire\Final_1_Solitaire\obj\Debug\Final_1_Solitaire.csprojResolveAssemblyReference.cache
+C:\Users\reyo8494\Desktop\Final\Test\Final_1_Solitaire\Final_1_Solitaire\obj\Debug\Final_1_Solitaire.Form1.resources
+C:\Users\reyo8494\Desktop\Final\Test\Final_1_Solitaire\Final_1_Solitaire\obj\Debug\Final_1_Solitaire.Properties.Resources.resources
+C:\Users\reyo8494\Desktop\Final\Test\Final_1_Solitaire\Final_1_Solitaire\obj\Debug\Final_1_Solitaire.csproj.GenerateResource.Cache
+C:\Users\reyo8494\Desktop\Final\Test\Final_1_Solitaire\Final_1_Solitaire\obj\Debug\Final_1_Solitaire.exe
+C:\Users\reyo8494\Desktop\Final\Test\Final_1_Solitaire\Final_1_Solitaire\obj\Debug\Final_1_Solitaire.pdb
+C:\Users\reyo8494\Desktop\Final\Test\Final_1_Solitaire\Final_1_Solitaire\obj\Debug\Final_1_Solitaire.howManyTimeShuffle.resources
+\\psf\Home\Dropbox\2_Software Practicum\00_Code\workSpace\01_Card Game\Final\Test\Final_1_Solitaire\Final_1_Solitaire\bin\Debug\Final_1_Solitaire.exe.config
+\\psf\Home\Dropbox\2_Software Practicum\00_Code\workSpace\01_Card Game\Final\Test\Final_1_Solitaire\Final_1_Solitaire\obj\Debug\Final_1_Solitaire.exe
+\\psf\Home\Dropbox\2_Software Practicum\00_Code\workSpace\01_Card Game\Final\Test\Final_1_Solitaire\Final_1_Solitaire\obj\Debug\Final_1_Solitaire.pdb
+\\psf\Home\Dropbox\2_Software Practicum\00_Code\workSpace\01_Card Game\Final\Test\Final_1_Solitaire\Final_1_Solitaire\bin\Debug\Final_1_Solitaire.exe
+\\psf\Home\Dropbox\2_Software Practicum\00_Code\workSpace\01_Card Game\Final\Test\Final_1_Solitaire\Final_1_Solitaire\bin\Debug\Final_1_Solitaire.pdb
+\\psf\Home\Dropbox\2_Software Practicum\00_Code\workSpace\01_Card Game\Final\Test\Final_1_Solitaire\Final_1_Solitaire\obj\Debug\Final_1_Solitaire.csprojResolveAssemblyReference.cache
+\\psf\Home\Dropbox\2_Software Practicum\00_Code\workSpace\01_Card Game\Final\Test\Final_1_Solitaire\Final_1_Solitaire\obj\Debug\Final_1_Solitaire.Form1.resources
+\\psf\Home\Dropbox\2_Software Practicum\00_Code\workSpace\01_Card Game\Final\Test\Final_1_Solitaire\Final_1_Solitaire\obj\Debug\Final_1_Solitaire.howManyTimeShuffle.resources
+\\psf\Home\Dropbox\2_Software Practicum\00_Code\workSpace\01_Card Game\Final\Test\Final_1_Solitaire\Final_1_Solitaire\obj\Debug\Final_1_Solitaire.Properties.Resources.resources
+\\psf\Home\Dropbox\2_Software Practicum\00_Code\workSpace\01_Card Game\Final\Test\Final_1_Solitaire\Final_1_Solitaire\obj\Debug\Final_1_Solitaire.csproj.GenerateResource.Cache

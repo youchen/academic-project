@@ -1,0 +1,245 @@
+Parameter Transmitted Successfully!
+[2] Announcer  initialized.
+[78] Contestant-2 initialized.
+[81] Contestant-1 initialized.
+[82] Contestant-3 initialized.
+[86] Contestant-4 initialized.
+[86] Announcer  Group 1 formed!
+	Your group could enter the classroom.
+[86] Contestant-4 going to enter the classroom.
+[86] Contestant-3 going to enter the classroom.
+[86] Contestant-1 going to enter the classroom.
+[87] Contestant-2 going to enter the classroom.
+[87] Contestant-5 initialized.
+[87] Contestant-6 initialized.
+[88] Announcer  Exam 1 will start.
+[88] Announcer  Exam 1 stars!
+[90] Contestant-8 initialized.
+[90] Contestant-7 initialized.
+[90] Announcer  Group 2 formed!
+	Your group could enter the classroom.
+[91] Contestant-7 going to enter the classroom.
+[91] Contestant-9 initialized.
+[93] Contestant-8 going to enter the classroom.
+[93] Contestant-6 going to enter the classroom.
+[93] Contestant-5 going to enter the classroom.
+[94] Contestant-10 initialized.
+[94] Contestant-11 initialized.
+[95] Contestant-13 initialized.
+[95] Announcer  Group 3 formed!
+	Your group could enter the classroom.
+[95] Contestant-13 going to enter the classroom.
+[96] Contestant-11 going to enter the classroom.
+[96] Contestant-12 initialized.
+[96] Announcer  Group 4 formed!
+	Your group could enter the classroom.
+[96] Contestant-12 going to enter the classroom.
+[96] Contestant-10 going to enter the classroom.
+[96] Contestant-9 going to enter the classroom.
+[588] Announcer  Exam 1 ends!
+[588] Contestant-2 I've finished the exam, I am gonna wait for my score.
+[588] Contestant-3 I've finished the exam, I am gonna wait for my score.
+[588] Contestant-1 I've finished the exam, I am gonna wait for my score.
+[589] Contestant-4 I've finished the exam, I am gonna wait for my score.
+[589] Announcer  Exam 2 will start.
+[589] Announcer  Exam 2 stars!
+[589] Announcer  one contestants waiting for his score.
+[589] Announcer  one contestants waiting for his score.
+[589] Announcer  one contestants waiting for his score.
+[590] Announcer  one contestants waiting for his score.
+[1094] Announcer  Exam 2 ends!
+[1094] Contestant-11 I've finished the exam, I am gonna wait for my score.
+[1094] Announcer  Exam 3 will start.
+[1095] Announcer  Exam 3 stars!
+[1095] Announcer  one contestants waiting for his score.
+[1596] Announcer  Exam 3 ends!
+[1596] Contestant-6 I've finished the exam, I am gonna wait for my score.
+[1597] Announcer  Exam 4 will start.
+[1597] Announcer  Exam 4 stars!
+[1597] Announcer  one contestants waiting for his score.
+[2098] Announcer  Exam 4 ends!
+[2098] Contestant-7 I've finished the exam, I am gonna wait for my score.
+[2098] Contestant-5 I've finished the exam, I am gonna wait for my score.
+[2098] Contestant-13 I've finished the exam, I am gonna wait for my score.
+[2098] Contestant-8 I've finished the exam, I am gonna wait for my score.
+[2098] Contestant-9 I've finished the exam, I am gonna wait for my score.
+[2098] Contestant-10 I've finished the exam, I am gonna wait for my score.
+[2098] Contestant-12 I've finished the exam, I am gonna wait for my score.
+[2099] Announcer  one contestants waiting for his score.
+[2099] Announcer  one contestants waiting for his score.
+[2099] Announcer  one contestants waiting for his score.
+[2100] Announcer  one contestants waiting for his score.
+[2100] Announcer  one contestants waiting for his score.
+[2100] Announcer  one contestants waiting for his score.
+[2101] Announcer  All contestants finished Exam.
+[2115] Contestant-5 I've got 61 in Exam. I'm gonna be told if I'm in the top Four.
+[2115] Contestant-9 I've got 46 in Exam. I'm gonna be told if I'm in the top Four.
+[2115] Contestant-10 I've got 92 in Exam. I'm gonna be told if I'm in the top Four.
+[2115] Contestant-13 I've got 29 in Exam. I'm gonna be told if I'm in the top Four.
+[2115] Contestant-7 I've got 21 in Exam. I'm gonna be told if I'm in the top Four.
+[2115] Contestant-6 I've got 93 in Exam. I'm gonna be told if I'm in the top Four.
+[2115] Contestant-11 I've got 37 in Exam. I'm gonna be told if I'm in the top Four.
+[2115] Contestant-12 I've got 90 in Exam. I'm gonna be told if I'm in the top Four.
+[2115] Contestant-4 I've got 15 in Exam. I'm gonna be told if I'm in the top Four.
+[2115] Contestant-8 I've got 76 in Exam. I'm gonna be told if I'm in the top Four.
+[2115] Announcer  Contestant 10, You are in the top Four!
+[2115] Contestant-10 I'am one of top four!
+[2116] Contestant-1 I've got 97 in Exam. I'm gonna be told if I'm in the top Four.
+[2116] Announcer  Contestant 6, You are in the top Four!
+[2116] Contestant-6 I'am one of top four!
+[2116] Contestant-3 I've got 80 in Exam. I'm gonna be told if I'm in the top Four.
+[2116] Announcer  Contestant 12, You are in the top Four!
+[2116] Contestant-12 I'am one of top four!
+[2117] Announcer  Contestant 1, You are in the top Four!
+[2117] Contestant-1 I'am one of top four!
+[2117] Contestant-2 I've got 15 in Exam. I'm gonna be told if I'm in the top Four.
+[2165] Contestant-5 I did not get chance, I will back home.
+[2166] Contestant-13 I did not get chance, I will back home.
+[2166] Contestant-7 I did not get chance, I will back home.
+[2166] Contestant-9 I did not get chance, I will back home.
+[2167] Announcer Openning Message: Show will Start!
+[2167] Contestant-11 I did not get chance, I will back home.
+[2167] Contestant-8 I did not get chance, I will back home.
+[2168] Contestant-4 I did not get chance, I will back home.
+[2168] Contestant-3 I did not get chance, I will back home.
+[2168] Host: Hello, I am the host of the show tonight. Welcome!
+[2168] Contestant-2 I did not get chance, I will back home.
+[2191] Host: Show is started!
+[2191] Host: This is Round 1, I am asking Question #1.
+[2397] Announcer Introducing our 4 contestants.
+[2397] Contestant-1 Hi, Host! I am contestant 1.
+	I'm ready and waiting for the Host to begin the game.
+[2397] Contestant-6 Hi, Host! I am contestant 6.
+	I'm ready and waiting for the Host to begin the game.
+[2397] Contestant-12 Hi, Host! I am contestant 12.
+	I'm ready and waiting for the Host to begin the game.
+[2397] Contestant-10 Hi, Host! I am contestant 10.
+	I'm ready and waiting for the Host to begin the game.
+[2397] Contestant-10 I'm thinking Question.
+[2397] Contestant-12 I'm thinking Question.
+[2397] Contestant-6 I'm thinking Question.
+[2397] Contestant-1 I'm thinking Question.
+[2422] Contestant-10 I have the answer!
+[2423] Host: Your answer is right!
+[2423] Contestant-10 I got it right! My current score is 10.
+[2429] Contestant-12 I lost the chance, others answerd question.
+[2444] Contestant-1 I lost the chance, others answerd question.
+[2494] Contestant-6 I lost the chance, others answerd question.
+[2495] Contestant-6 I'm thinking Question.
+[2523] Host: This is Round 1, I am asking Question #2.
+[2523] Contestant-1 I'm thinking Question.
+[2523] Contestant-10 I'm thinking Question.
+[2523] Contestant-12 I'm thinking Question.
+[2572] Contestant-1 I have the answer!
+[2572] Host: Your answer is wrong!
+[2572] Contestant-1 Oh, I was wrong. My current score is -5.
+[2591] Contestant-6 I lost the chance, others answerd question.
+[2597] Contestant-10 I lost the chance, others answerd question.
+[2620] Contestant-12 I lost the chance, others answerd question.
+[2620] Contestant-12 I'm thinking Question.
+[2675] Host: This is Round 1, I am asking Question #3.
+[2675] Contestant-6 I'm thinking Question.
+[2675] Contestant-10 I'm thinking Question.
+[2675] Contestant-1 I'm thinking Question.
+[2679] Contestant-12 I have the answer!
+[2679] Host: Your answer is right!
+[2679] Contestant-12 I got it right! My current score is 10.
+[2764] Contestant-1 I lost the chance, others answerd question.
+[2764] Contestant-6 I lost the chance, others answerd question.
+[2778] Contestant-10 I lost the chance, others answerd question.
+[2778] Contestant-10 I'm thinking Question.
+[2784] Host: This is Round 1, I am asking Question #4.
+[2784] Contestant-1 I'm thinking Question.
+[2784] Contestant-12 I'm thinking Question.
+[2784] Contestant-6 I'm thinking Question.
+[2789] Contestant-10 I have the answer!
+[2789] Host: Your answer is wrong!
+[2789] Contestant-10 Oh, I was wrong. My current score is 5.
+[2796] Contestant-6 I lost the chance, others answerd question.
+[2830] Contestant-1 I lost the chance, others answerd question.
+[2860] Contestant-12 I lost the chance, others answerd question.
+[2860] Contestant-12 I'm thinking Question.
+[2894] Host: This is Round 1, I am asking Question #5.
+[2895] Contestant-1 I'm thinking Question.
+[2895] Contestant-10 I'm thinking Question.
+[2895] Contestant-6 I'm thinking Question.
+[2948] Contestant-12 I have the answer!
+[2949] Host: Your answer is right!
+[2949] Contestant-12 I got it right! My current score is 20.
+[2950] Contestant-6 I lost the chance, others answerd question.
+[2969] Contestant-1 I lost the chance, others answerd question.
+[2974] Contestant-10 I lost the chance, others answerd question.
+[2974] Contestant-10 I'm thinking Question.
+[3049] Host: This is Round 2, I am asking Question #1.
+[3049] Contestant-10 I lost the chance, others answerd question.
+[3049] Contestant-1 I'm thinking Question.
+[3049] Contestant-12 I'm thinking Question.
+[3049] Contestant-6 I'm thinking Question.
+[3107] Contestant-12 I have the answer!
+[3107] Host: Your answer is right!
+[3107] Contestant-12 I got it right! My current score is 30.
+[3114] Contestant-6 I lost the chance, others answerd question.
+[3134] Contestant-1 I lost the chance, others answerd question.
+[3134] Contestant-1 I'm thinking Question.
+[3180] Contestant-1 I lost the chance, others answerd question.
+[3180] Contestant-1 I'm thinking Question.
+[3195] Contestant-1 I lost the chance, others answerd question.
+[3195] Contestant-1 I'm thinking Question.
+[3212] Host: This is Round 2, I am asking Question #2.
+[3212] Contestant-6 I'm thinking Question.
+[3212] Contestant-10 I'm thinking Question.
+[3212] Contestant-12 I'm thinking Question.
+[3216] Contestant-6 I have the answer!
+[3216] Host: Your answer is right!
+[3216] Contestant-6 I got it right! My current score is 10.
+[3244] Contestant-10 I lost the chance, others answerd question.
+[3273] Contestant-12 I lost the chance, others answerd question.
+[3280] Contestant-1 I lost the chance, others answerd question.
+[3280] Contestant-1 I'm thinking Question.
+[3283] Contestant-1 I lost the chance, others answerd question.
+[3283] Contestant-1 I'm thinking Question.
+[3317] Host: This is Round 2, I am asking Question #3.
+[3317] Contestant-12 I'm thinking Question.
+[3317] Contestant-10 I'm thinking Question.
+[3317] Contestant-6 I'm thinking Question.
+[3322] Contestant-12 I have the answer!
+[3322] Host: Your answer is right!
+[3322] Contestant-12 I got it right! My current score is 40.
+[3373] Contestant-1 I lost the chance, others answerd question.
+[3385] Contestant-10 I lost the chance, others answerd question.
+[3401] Contestant-6 I lost the chance, others answerd question.
+[3401] Contestant-6 I'm thinking Question.
+[3428] Host: This is Round 2, I am asking Question #4.
+[3428] Contestant-1 I'm thinking Question.
+[3428] Contestant-10 I'm thinking Question.
+[3428] Contestant-12 I'm thinking Question.
+[3444] Contestant-12 I have the answer!
+[3444] Host: Your answer is right!
+[3444] Contestant-12 I got it right! My current score is 50.
+[3464] Contestant-6 I lost the chance, others answerd question.
+[3480] Contestant-10 I lost the chance, others answerd question.
+[3509] Contestant-1 I lost the chance, others answerd question.
+[3509] Contestant-1 I'm thinking Question.
+[3545] Host: This is Round 2, I am asking Question #5.
+[3545] Contestant-10 I'm thinking Question.
+[3545] Contestant-12 I'm thinking Question.
+[3545] Contestant-6 I'm thinking Question.
+[3551] Contestant-12 I have the answer!
+[3551] Host: Your answer is right!
+[3551] Contestant-12 I got it right! My current score is 60.
+[3564] Contestant-1 I lost the chance, others answerd question.
+[3629] Contestant-6 I lost the chance, others answerd question.
+[3646] Contestant-10 I lost the chance, others answerd question.
+[3747] Contestant-6 I'm done for answering the question.
+[3747] Contestant-10 I'm done for answering the question.
+[3747] Contestant-12 I'm done for answering the question.
+[3751] Contestant-1 I'm done for answering the question.
+[3751] Host:  Sorry, Contestant-1, Your score is negative.
+[3751] Contestant-1 Oh, I've got negative score, I'll back home. Good-bye.
+[3900] Contestant-12 Final is done, I am going home.
+[3900] Host:  I'm updating the score, winner will be revealed soon.
+[3900] Host:  Score updating...
+[3900] Contestant-10 Final is done, I am going home.
+[3900] Contestant-6 Final is done, I am going home.
+[4050] Host:  The winner is contestant-10, his score is 119.
+		Thank you for watching the show, I am going home.
