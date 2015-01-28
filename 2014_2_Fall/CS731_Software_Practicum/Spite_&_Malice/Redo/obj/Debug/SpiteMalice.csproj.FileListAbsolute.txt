@@ -10,3 +10,16 @@
 \\psf\Home\Dropbox\2_Software Practicum\00_Code\workSpace\01_Card Game\Final\1211\Redo_1211_Home\Redo\obj\Debug\Redo.application
 \\psf\Home\Dropbox\2_Software Practicum\00_Code\workSpace\01_Card Game\Final\1211\Redo_1211_Home\Redo\obj\Debug\Redo.exe
 \\psf\Home\Dropbox\2_Software Practicum\00_Code\workSpace\01_Card Game\Final\1211\Redo_1211_Home\Redo\obj\Debug\Redo.pdb
+\\psf\LaCie 1\【Queens College_Course & Schedules】\7_2014 Fall_140828-141227\2_Software Practicum\00_Code\workSpace\01_Card Game\Final\1211\Redo_1211_Home\Redo\bin\Debug\Redo.exe.config
+\\psf\LaCie 1\【Queens College_Course & Schedules】\7_2014 Fall_140828-141227\2_Software Practicum\00_Code\workSpace\01_Card Game\Final\1211\Redo_1211_Home\Redo\obj\Debug\Redo.exe
+\\psf\LaCie 1\【Queens College_Course & Schedules】\7_2014 Fall_140828-141227\2_Software Practicum\00_Code\workSpace\01_Card Game\Final\1211\Redo_1211_Home\Redo\obj\Debug\Redo.pdb
+\\psf\LaCie 1\【Queens College_Course & Schedules】\7_2014 Fall_140828-141227\2_Software Practicum\00_Code\workSpace\01_Card Game\Final\1211\Redo_1211_Home\Redo\bin\Debug\Redo.exe.manifest
+\\psf\LaCie 1\【Queens College_Course & Schedules】\7_2014 Fall_140828-141227\2_Software Practicum\00_Code\workSpace\01_Card Game\Final\1211\Redo_1211_Home\Redo\bin\Debug\Redo.application
+\\psf\LaCie 1\【Queens College_Course & Schedules】\7_2014 Fall_140828-141227\2_Software Practicum\00_Code\workSpace\01_Card Game\Final\1211\Redo_1211_Home\Redo\bin\Debug\Redo.exe
+\\psf\LaCie 1\【Queens College_Course & Schedules】\7_2014 Fall_140828-141227\2_Software Practicum\00_Code\workSpace\01_Card Game\Final\1211\Redo_1211_Home\Redo\bin\Debug\Redo.pdb
+\\psf\LaCie 1\【Queens College_Course & Schedules】\7_2014 Fall_140828-141227\2_Software Practicum\00_Code\workSpace\01_Card Game\Final\1211\Redo_1211_Home\Redo\obj\Debug\SpiteMalice.csprojResolveAssemblyReference.cache
+\\psf\LaCie 1\【Queens College_Course & Schedules】\7_2014 Fall_140828-141227\2_Software Practicum\00_Code\workSpace\01_Card Game\Final\1211\Redo_1211_Home\Redo\obj\Debug\Redo.Form1.resources
+\\psf\LaCie 1\【Queens College_Course & Schedules】\7_2014 Fall_140828-141227\2_Software Practicum\00_Code\workSpace\01_Card Game\Final\1211\Redo_1211_Home\Redo\obj\Debug\Redo.Properties.Resources.resources
+\\psf\LaCie 1\【Queens College_Course & Schedules】\7_2014 Fall_140828-141227\2_Software Practicum\00_Code\workSpace\01_Card Game\Final\1211\Redo_1211_Home\Redo\obj\Debug\SpiteMalice.csproj.GenerateResource.Cache
+\\psf\LaCie 1\【Queens College_Course & Schedules】\7_2014 Fall_140828-141227\2_Software Practicum\00_Code\workSpace\01_Card Game\Final\1211\Redo_1211_Home\Redo\obj\Debug\Redo.exe.manifest
+\\psf\LaCie 1\【Queens College_Course & Schedules】\7_2014 Fall_140828-141227\2_Software Practicum\00_Code\workSpace\01_Card Game\Final\1211\Redo_1211_Home\Redo\obj\Debug\Redo.application
