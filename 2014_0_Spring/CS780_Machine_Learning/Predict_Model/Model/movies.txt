@@ -1,0 +1,1028 @@
+12 Years a Slave,2013,Historical Fiction,Drama,20000000.00,56671993.00,121700000.00,178371993.00,Chiwetel Ejiofor,Leading,1,158371993.00,,Limited,133
+12 Years a Slave,2013,Historical Fiction,Drama,20000000.00,56671993.00,121700000.00,178371993.00,Michael Fassbender,Supporting,2,100858925.30,,Limited,133
+12 Years a Slave,2013,Historical Fiction,Drama,20000000.00,56671993.00,121700000.00,178371993.00,Steve Rodney McQueen,Director,,81326840.50,,Limited,133
+2 Guns,2012,Contemporary Fiction,Action,61000000.00,75612460.00,56880555.00,132493015.00,Mark Wahlberg,Leading,1,131927016.80,,Wide,109
+2 Guns,2012,Contemporary Fiction,Action,61000000.00,75612460.00,56880555.00,132493015.00,Denzel Washington,Leading,2,101132695.00,,Wide,109
+2 Guns,2012,Contemporary Fiction,Action,61000000.00,75612460.00,56880555.00,132493015.00,Baltasar Kormakur,Director,,72449935.00,,Wide,109
+21 and Over,2013,Contemporary Fiction,Comedy,13000000.00,25682380.00,16513386.00,42195766.00,Miles Teller,Leading,1,37132360.50,,Wide,93
+21 and Over,2013,Contemporary Fiction,Comedy,13000000.00,25682380.00,16513386.00,42195766.00,Skylar Astin,Leading,2,63763471.50,,Wide,93
+21 and Over,2013,Contemporary Fiction,Comedy,13000000.00,25682380.00,16513386.00,42195766.00,Jon Lucas,Director,,29195766.00,,Wide,93
+21 and Over,2013,Contemporary Fiction,Comedy,13000000.00,25682380.00,16513386.00,42195766.00,Scott Moore,Director,,29195766.00,,Wide,93
+3,2011,Contemporary Fiction,Drama,7200000.00,59774.00,0.00,59774.00,Sebastian Schipper,Supporting,2,-7140226.00,,Limited,119
+3,2011,Contemporary Fiction,Drama,7200000.00,59774.00,0.00,59774.00,Sophie Rois,Leading,1,-7140226.00,,Limited,119
+3,2011,Contemporary Fiction,Drama,7200000.00,59774.00,0.00,59774.00,Tom Tykwer,Director,,8439169.00,,Limited,119
+3 Days to Kill,2013,Contemporary Fiction,Thriller/Suspense,28000000.00,30665662.00,1400000.00,32065662.00,Kevin Costner,Leading,1,38499914.50,,Wide,100
+3 Days to Kill,2013,Contemporary Fiction,Thriller/Suspense,28000000.00,30665662.00,1400000.00,32065662.00,Amber Heard,Supporting,2,5622417.00,,Wide,100
+3 Days to Kill,2013,Contemporary Fiction,Thriller/Suspense,28000000.00,30665662.00,1400000.00,32065662.00,Joseph McGinty Nichol,Director,,5622417.00,,Wide,100
+30 Minutes or Less,2011,Contemporary Fiction,Comedy,28000000.00,37053924.00,3912792.00,40966716.00,Danny McBride,Leading,2,12966716.00,,Wide,83
+30 Minutes or Less,2011,Contemporary Fiction,Comedy,28000000.00,37053924.00,3912792.00,40966716.00,Jesse Eisenberg,Leading,1,229070171.30,,Wide,83
+30 Minutes or Less,2011,Contemporary Fiction,Comedy,28000000.00,37053924.00,3912792.00,40966716.00,Ruben Fleischer,Director,,28533809.50,,Wide,83
+300: Rise of an Empire,2013,Historical Fiction,Action,110000000.00,106091502.00,224200000.00,330291502.00,Eva Green,Supporting,2,220406846.00,300,Wide,102
+300: Rise of an Empire,2013,Historical Fiction,Action,110000000.00,106091502.00,224200000.00,330291502.00,Noam Murro,Director,,220406846.00,300,Wide,102
+300: Rise of an Empire,2013,Historical Fiction,Action,110000000.00,106091502.00,224200000.00,330291502.00,Sullivan Stapleton,Supporting,1,220406846.00,300,Wide,102
+42,2012,Dramatization,Drama,40000000.00,95020213.00,0.00,95020213.00,Chadwick Boseman,Leading,1,55020213.00,,Wide,88
+42,2012,Dramatization,Drama,40000000.00,95020213.00,0.00,95020213.00,Harrison Ford,Leading,2,17378702.00,,Wide,88
+42,2012,Dramatization,Drama,40000000.00,95020213.00,0.00,95020213.00,Brian Helgeland,Director,,55020213.00,,Wide,88
+47 Ronin,2013,Fantasy,Action,175000000.00,38362475.00,112600000.00,150962475.00,Hiroyuki Sanada,Supporting,2,138709663.50,,Wide,127
+47 Ronin,2013,Fantasy,Action,175000000.00,38362475.00,112600000.00,150962475.00,Keanu Reeves,Leading,1,-24037525.00,,Wide,127
+47 Ronin,2013,Fantasy,Action,175000000.00,38362475.00,112600000.00,150962475.00,Carl Rinsch,Director,,-24037525.00,,Wide,127
+5 Days of War,2011,Dramatization,Drama,12000000.00,17479.00,0.00,17479.00,Richard Coyle,Leading,2,-11982521.00,,Limited,113
+5 Days of War,2011,Dramatization,Drama,12000000.00,17479.00,0.00,17479.00,Rupert Friend,Leading,1,-11982521.00,,Limited,113
+5 Days of War,2011,Dramatization,Drama,12000000.00,17479.00,0.00,17479.00,Renny Harlin,Director,,-10351534.50,,Limited,113
+50/50,2011,Contemporary Fiction,Black Comedy,8000000.00,35016118.00,6318617.00,41334735.00,Joseph Gordon-Levitt,Leading,1,16868546.67,,Wide,100
+50/50,2011,Contemporary Fiction,Black Comedy,8000000.00,35016118.00,6318617.00,41334735.00,Seth Rogen,Leading,2,37006833.67,,Wide,100
+50/50,2011,Contemporary Fiction,Black Comedy,8000000.00,35016118.00,6318617.00,41334735.00,Jonathan Levine,Director,,59989172.50,,Wide,100
+A Dangerous Method,2011,Dramatization,Drama,20000000.00,5702083.00,9105448.00,14807531.00,Keira Knightley,Leading,1,8271535.50,,Limited,99
+A Dangerous Method,2011,Dramatization,Drama,20000000.00,5702083.00,9105448.00,14807531.00,Viggo Mortensen,Leading,2,-5192469.00,,Limited,99
+A Dangerous Method,2011,Dramatization,Drama,20000000.00,5702083.00,9105448.00,14807531.00,David Cronenberg,Director,,-5192469.00,,Limited,99
+A Good Day to Die Hard,2012,Contemporary Fiction,Action,92000000.00,67349198.00,236900000.00,304249198.00,Jai Courtney,Leading,2,212249198.00,Die Hard,Wide,98
+A Good Day to Die Hard,2012,Contemporary Fiction,Action,92000000.00,67349198.00,236900000.00,304249198.00,John Moore,Director,,212249198.00,Die Hard,Wide,98
+A Good Day to Die Hard,2012,Contemporary Fiction,Action,92000000.00,67349198.00,236900000.00,304249198.00,Bruce Willis,Leading,1,136336821.00,Die Hard,Wide,98
+A Haunted House,2012,Multiple Creative Types,Comedy,2500000.00,40041683.00,19880875.00,59922558.00,Essence Atkins,Lead Ensemble Member,2,57422558.00,A Haunted House,Wide,86
+A Haunted House,2012,Multiple Creative Types,Comedy,2500000.00,40041683.00,19880875.00,59922558.00,Marlon Wayans,Lead Ensemble Member,1,57422558.00,A Haunted House,Wide,86
+A Haunted House,2012,Multiple Creative Types,Comedy,2500000.00,40041683.00,19880875.00,59922558.00,Michel Tiddes,Director,,57422558.00,A Haunted House,Wide,86
+A Thousand Words,2011,Contemporary Fiction,Comedy,40000000.00,18450127.00,0.00,18450127.00,Eddie Murphy,Leading,1,23460239.50,,Wide,91
+A Thousand Words,2011,Contemporary Fiction,Comedy,40000000.00,18450127.00,0.00,18450127.00,Kerry Washington,Supporting,2,-13686404.00,,Wide,91
+A Thousand Words,2011,Contemporary Fiction,Comedy,40000000.00,18450127.00,0.00,18450127.00,Brian Robbins,Director,,-21549873.00,,Wide,91
+About Time,2013,Science Fiction,Romantic Comedy,12000000.00,15323921.00,72184326.00,87508247.00,Domhnall Gleeson,Leading,1,75508247.00,,Limited,123
+About Time,2013,Science Fiction,Romantic Comedy,12000000.00,15323921.00,72184326.00,87508247.00,Richard Curtis,Director,,75508247.00,,Limited,123
+About Time,2013,Science Fiction,Romantic Comedy,12000000.00,15323921.00,72184326.00,87508247.00,Rachel McAdams,Leading,2,121563203.50,,Limited,123
+Abraham Lincoln: Vampire Hunter,2011,Fantasy,Horror,67500000.00,37519139.00,77600000.00,115119139.00,Dominic Cooper,Supporting,2,15462902.50,,Wide,105
+Abraham Lincoln: Vampire Hunter,2011,Fantasy,Horror,67500000.00,37519139.00,77600000.00,115119139.00,Benjamin Walker,Leading,1,47619139.00,,Wide,105
+Abraham Lincoln: Vampire Hunter,2011,Fantasy,Horror,67500000.00,37519139.00,77600000.00,115119139.00,Timur Bekmambetov,Director,,47619139.00,,Wide,105
+Act of Valor,2011,Contemporary Fiction,Action,12000000.00,70012847.00,12484188.00,82497035.00,"Mike ""Mouse"" McCoy",Director,,70497035.00,,Wide,101
+Act of Valor,2011,Contemporary Fiction,Action,12000000.00,70012847.00,12484188.00,82497035.00,Roselyn Sanchez,Lead Ensemble Member,1,70497035.00,,Wide,101
+Act of Valor,2011,Contemporary Fiction,Action,12000000.00,70012847.00,12484188.00,82497035.00,Scott Waugh,Director,,70497035.00,,Wide,101
+Act of Valor,2011,Contemporary Fiction,Action,12000000.00,70012847.00,12484188.00,82497035.00,Alex Veadov,Supporting,2,70497035.00,,Wide,101
+Admission,2012,Contemporary Fiction,Romantic Comedy,13000000.00,18007317.00,0.00,18007317.00,Paul Weitz,Director,,5007317.00,,Wide,117
+Admission,2012,Contemporary Fiction,Romantic Comedy,13000000.00,18007317.00,0.00,18007317.00,Paul Rudd,Leading,2,5007317.00,,Wide,117
+Admission,2012,Contemporary Fiction,Romantic Comedy,13000000.00,18007317.00,0.00,18007317.00,Tina Fey,Leading,1,5007317.00,,Wide,117
+After Earth,2012,Science Fiction,Action,130000000.00,60522097.00,183851101.00,244373198.00,Will Smith,Leading,1,262097176.00,,Wide,99
+After Earth,2012,Science Fiction,Action,130000000.00,60522097.00,183851101.00,244373198.00,Jaden Smith,Leading,2,114373198.00,,Wide,99
+After Earth,2012,Science Fiction,Action,130000000.00,60522097.00,183851101.00,244373198.00,M. Night Shyamalan,Director,,114373198.00,,Wide,99
+Albert Nobbs,2011,Historical Fiction,Drama,7500000.00,3014696.00,0.00,3014696.00,Glenn Close,Leading,1,-4485304.00,,Limited,113
+Albert Nobbs,2011,Historical Fiction,Drama,7500000.00,3014696.00,0.00,3014696.00,Rodrigo Garcia,Director,,-4485304.00,,Limited,113
+American Hustle,2013,Dramatization,Black Comedy,40000000.00,150117807.00,98842777.00,248960584.00,Amy Adams,Lead Ensemble Member,2,155748212.60,,Limited,138
+American Hustle,2013,Dramatization,Black Comedy,40000000.00,150117807.00,98842777.00,248960584.00,David O. Russell,Director,,207638990.50,,Limited,138
+American Hustle,2013,Dramatization,Black Comedy,40000000.00,150117807.00,98842777.00,248960584.00,Christian Bale,Lead Ensemble Member,1,335675320.33,,Limited,138
+American Reunion,2012,Contemporary Fiction,Comedy,50000000.00,56758835.00,178626646.00,235385481.00,Alyson Hannigan,Lead Ensemble Member,2,185385481.00,American Pie,Wide,112
+American Reunion,2012,Contemporary Fiction,Comedy,50000000.00,56758835.00,178626646.00,235385481.00,Jason Biggs,Lead Ensemble Member,1,185385481.00,American Pie,Wide,112
+American Reunion,2012,Contemporary Fiction,Comedy,50000000.00,56758835.00,178626646.00,235385481.00,Hayden Schlossberg,Director,,185385481.00,American Pie,Wide,112
+American Reunion,2012,Contemporary Fiction,Comedy,50000000.00,56758835.00,178626646.00,235385481.00,Jon Hurwitz,Director,,185385481.00,American Pie,Wide,112
+Amour,2012,Contemporary Fiction,Drama,9700000.00,6738954.00,19176765.00,25915719.00,Emmanuelle Riva,Leading,2,16215719.00,,Limited,127
+Amour,2012,Contemporary Fiction,Drama,9700000.00,6738954.00,19176765.00,25915719.00,Jean-Louis Trintignant,Supporting,1,16215719.00,,Limited,127
+Amour,2012,Contemporary Fiction,Drama,9700000.00,6738954.00,19176765.00,25915719.00,Michael Haneke,Director,,16215719.00,,Limited,127
+Anchorman: The Legend Continues,2011,Historical Fiction,Comedy,50000000.00,127359575.00,45600000.00,172959575.00,Steve Carell,Leading,2,257688615.50,Anchorman,Wide,118
+Anchorman: The Legend Continues,2011,Historical Fiction,Comedy,50000000.00,127359575.00,45600000.00,172959575.00,Will Ferrell,Leading,1,173074726.30,Anchorman,Wide,118
+Anchorman: The Legend Continues,2011,Historical Fiction,Comedy,50000000.00,127359575.00,45600000.00,172959575.00,Adam McKay,Director,,122959575.00,Anchorman,Wide,118
+Anna Karenina,2012,Historical Fiction,Drama,49000000.00,12816367.00,57919173.00,70735540.00,Jude Law,Leading,2,71308268.33,,Limited,129
+Anna Karenina,2012,Historical Fiction,Drama,49000000.00,12816367.00,57919173.00,70735540.00,Keira Knightley,Leading,1,8271535.50,,Limited,129
+Anna Karenina,2012,Historical Fiction,Drama,49000000.00,12816367.00,57919173.00,70735540.00,Joe Wright,Director,,21735540.00,,Limited,129
+Anonymous,2011,Historical Fiction,Thriller/Suspense,27500000.00,4463292.00,11352217.00,15815509.00,Roland Emmerich,Director,,21877948.00,,Limited,130
+Anonymous,2011,Historical Fiction,Thriller/Suspense,27500000.00,4463292.00,11352217.00,15815509.00,Rhys Ifans,Leading,1,-11684491.00,,Limited,130
+Anonymous,2011,Historical Fiction,Thriller/Suspense,27500000.00,4463292.00,11352217.00,15815509.00,Vanessa Redgrave,Supporting,2,-11684491.00,,Limited,130
+Argo,2012,Historical Fiction,Thriller/Suspense,44500000.00,136025503.00,85275191.00,221300694.00,Alan Arkin,Leading,2,176800694.00,,Wide,120
+Argo,2012,Historical Fiction,Thriller/Suspense,44500000.00,136025503.00,85275191.00,221300694.00,Ben Affleck,Director,,176800694.00,,Wide,120
+Argo,2012,Historical Fiction,Thriller/Suspense,44500000.00,136025503.00,85275191.00,221300694.00,Ben Affleck,Leading,1,176800694.00,,Wide,120
+Arthur Christmas,2011,Kids Fiction,Adventure,85000000.00,46462469.00,101162180.00,147624649.00,James McAvoy,Lead Ensemble Member,1,88209002.00,,Wide,100
+Arthur Christmas,2011,Kids Fiction,Adventure,85000000.00,46462469.00,101162180.00,147624649.00,Hugh Laurie,Lead Ensemble Member,2,62624649.00,,Wide,100
+Arthur Christmas,2011,Kids Fiction,Adventure,85000000.00,46462469.00,101162180.00,147624649.00,Sarah Smith,Director,,62624649.00,,Wide,100
+Attack the Block,2011,Fantasy,Action,13000000.00,1024175.00,4382247.00,5406422.00,Joe Cornish,Director,,-7593578.00,,Limited,87
+Attack the Block,2011,Fantasy,Action,13000000.00,1024175.00,4382247.00,5406422.00,Jodie Whittaker,Lead Ensemble Member,2,-7593578.00,,Limited,87
+Attack the Block,2011,Fantasy,Action,13000000.00,1024175.00,4382247.00,5406422.00,John Boyega,Lead Ensemble Member,1,-7593578.00,,Limited,87
+Bad Teacher,2011,Contemporary Fiction,Comedy,19000000.00,100292856.00,116119409.00,216412265.00,Cameron Diaz,Leading,1,120282234.00,,Wide,92
+Bad Teacher,2011,Contemporary Fiction,Comedy,19000000.00,100292856.00,116119409.00,216412265.00,Lucy Punch,Supporting,2,197412265.00,,Wide,92
+Bad Teacher,2011,Contemporary Fiction,Comedy,19000000.00,100292856.00,116119409.00,216412265.00,Jake Kasdan,Director,,197412265.00,,Wide,92
+Baggage Claim,2013,Contemporary Fiction,Romantic Comedy,8500000.00,21569509.00,0.00,21569509.00,David E. Talbert,Director,,13069509.00,,Wide,96
+Baggage Claim,2013,Contemporary Fiction,Romantic Comedy,8500000.00,21569509.00,0.00,21569509.00,Derek Luke,Lead Ensemble Member,2,13069509.00,,Wide,96
+Baggage Claim,2013,Contemporary Fiction,Romantic Comedy,8500000.00,21569509.00,0.00,21569509.00,Paula Patton,Lead Ensemble Member,1,197980446.67,,Wide,96
+Battle of the Year,2013,Contemporary Fiction,Drama,20000000.00,8888355.00,7835022.00,16723377.00,Josh Holloway,Lead Ensemble Member,1,-3276623.00,,Wide,109
+Battle of the Year,2013,Contemporary Fiction,Drama,20000000.00,8888355.00,7835022.00,16723377.00,Laz Alonso,Lead Ensemble Member,2,-3276623.00,,Wide,109
+Battle of the Year,2013,Contemporary Fiction,Drama,20000000.00,8888355.00,7835022.00,16723377.00,Benson Lee,Director,,-3276623.00,,Wide,109
+Battleship,2011,Contemporary Fiction,Action,209000000.00,65235400.00,238907320.00,304142720.00,Peter Berg,Director,,95669160.50,,Wide,130
+Battleship,2011,Contemporary Fiction,Action,209000000.00,65235400.00,238907320.00,304142720.00,Alexander Skarsgård,Leading,2,95142720.00,,Wide,130
+Battleship,2011,Contemporary Fiction,Action,209000000.00,65235400.00,238907320.00,304142720.00,Taylor Kitsch,Leading,1,58284119.25,,Wide,130
+Beasts of the Southern Wild,2012,Fantasy,Drama,1800000.00,12795746.00,8284312.00,21080058.00,Dwight Henry,Supporting,2,19280058.00,,Limited,93
+Beasts of the Southern Wild,2012,Fantasy,Drama,1800000.00,12795746.00,8284312.00,21080058.00,Quvenzhané Wallis,Leading,1,19280058.00,,Limited,93
+Beasts of the Southern Wild,2012,Fantasy,Drama,1800000.00,12795746.00,8284312.00,21080058.00,Behn Zeitlin,Director,,19280058.00,,Limited,93
+Beautiful Creatures,2012,Fantasy,Thriller/Suspense,50000000.00,19452138.00,36488533.00,55940671.00,Alden Ehrenreich,Lead Ensemble Member,1,5940671.00,,Wide,123
+Beautiful Creatures,2012,Fantasy,Thriller/Suspense,50000000.00,19452138.00,36488533.00,55940671.00,Alice Englert,Lead Ensemble Member,2,5940671.00,,Wide,123
+Beautiful Creatures,2012,Fantasy,Thriller/Suspense,50000000.00,19452138.00,36488533.00,55940671.00,Richard LaGravenese,Director,,5940671.00,,Wide,123
+Beyond the Black Rainbow,2011,Fantasy,Drama,1100000.00,56491.00,0.00,56491.00,Eva Allan,Leading,2,-1043509.00,,Limited,110
+Beyond the Black Rainbow,2011,Fantasy,Drama,1100000.00,56491.00,0.00,56491.00,Michael Rogers,Leading,1,-1043509.00,,Limited,110
+Beyond the Black Rainbow,2011,Fantasy,Drama,1100000.00,56491.00,0.00,56491.00,Panos Cosmatos,Director,,-1043509.00,,Limited,110
+Black Nativity,2013,Fantasy,Musical,17500000.00,7018188.00,0.00,7018188.00,Kasi Lemmons,Director,,-10481812.00,,Wide,95
+Black Nativity,2013,Fantasy,Musical,17500000.00,7018188.00,0.00,7018188.00,Angela Bassett,Lead Ensemble Member,2,10338394.50,,Wide,95
+Black Nativity,2013,Fantasy,Musical,17500000.00,7018188.00,0.00,7018188.00,Forest Whitaker,Lead Ensemble Member,1,43027305.33,,Wide,95
+Blackthorn,2011,Historical Fiction,Adventure,4500000.00,200558.00,1049207.00,1249765.00,Eduardo Noriega,Supporting,2,-3250235.00,,Limited,98
+Blackthorn,2011,Historical Fiction,Adventure,4500000.00,200558.00,1049207.00,1249765.00,Mateo Gil,Director,,-3250235.00,,Limited,98
+Blackthorn,2011,Historical Fiction,Adventure,4500000.00,200558.00,1049207.00,1249765.00,Sam Shepard,Leading,1,-3250235.00,,Limited,98
+Blue Jasmine,2013,Contemporary Fiction,Comedy,18000000.00,33404871.00,35101998.00,68506869.00,Alec Baldwin,Supporting,2,88423849.33,,Limited,98
+Blue Jasmine,2013,Contemporary Fiction,Comedy,18000000.00,33404871.00,35101998.00,68506869.00,Cate Blanchett,Leading,1,50506869.00,,Limited,98
+Blue Jasmine,2013,Contemporary Fiction,Comedy,18000000.00,33404871.00,35101998.00,68506869.00,Woody Allen,Director,,51685323.00,,Limited,98
+Blue Like Jazz,2012,Contemporary Fiction,Comedy,1200000.00,595018.00,0.00,595018.00,Claire Holt,Leading,2,-604982.00,,Limited,107
+Blue Like Jazz,2012,Contemporary Fiction,Comedy,1200000.00,595018.00,0.00,595018.00,Marshall Allman,Leading,1,-604982.00,,Limited,107
+Blue Like Jazz,2012,Contemporary Fiction,Comedy,1200000.00,595018.00,0.00,595018.00,Steve Taylor,Director,,-604982.00,,Limited,107
+Brave,2012,Kids Fiction,Adventure,185000000.00,237282182.00,317324350.00,554606532.00,Billy Connolly,Lead Ensemble Member,2,369606532.00,,Wide,100
+Brave,2012,Kids Fiction,Adventure,185000000.00,237282182.00,317324350.00,554606532.00,Brenda Chapman,Director,,369606532.00,,Wide,100
+Brave,2012,Kids Fiction,Adventure,185000000.00,237282182.00,317324350.00,554606532.00,Mark Andrews,Director,,369606532.00,,Wide,100
+Brave,2012,Kids Fiction,Adventure,185000000.00,237282182.00,317324350.00,554606532.00,Kelly MacDonald,Lead Ensemble Member,1,369606532.00,,Wide,100
+Bridesmaids,2011,Contemporary Fiction,Comedy,32500000.00,169106725.00,120156411.00,289263136.00,Kristen Wiig,Lead Ensemble Member,1,416225820.30,,Wide,120
+Bridesmaids,2011,Contemporary Fiction,Comedy,32500000.00,169106725.00,120156411.00,289263136.00,Maya Rudolph,Lead Ensemble Member,2,256763136.00,,Wide,120
+Bridesmaids,2011,Contemporary Fiction,Comedy,32500000.00,169106725.00,120156411.00,289263136.00,Paul Feig,Director,,222272361.50,,Wide,120
+Broken City,2012,Contemporary Fiction,Thriller/Suspense,35000000.00,19701164.00,11045601.00,30746765.00,Mark Wahlberg,Leading,1,131927016.80,,Wide,108
+Broken City,2012,Contemporary Fiction,Thriller/Suspense,35000000.00,19701164.00,11045601.00,30746765.00,Russell Crowe,Leading,2,126584918.00,,Wide,108
+Broken City,2012,Contemporary Fiction,Thriller/Suspense,35000000.00,19701164.00,11045601.00,30746765.00,Allen Hughes,Director,,-4253235.00,,Wide,108
+Bullet to the Head,2011,Contemporary Fiction,Action,55000000.00,9489829.00,4071686.00,13561515.00,Sylvester Stallone,Leading,1,68117958.00,,Wide,91
+Bullet to the Head,2011,Contemporary Fiction,Action,55000000.00,9489829.00,4071686.00,13561515.00,Sung Kang,Leading,2,-41438485.00,,Wide,91
+Bullet to the Head,2011,Contemporary Fiction,Action,55000000.00,9489829.00,4071686.00,13561515.00,Walter Hill,Director,,-41438485.00,,Wide,91
+Captain America: The First Avenger,2011,Super Hero,Action,140000000.00,176654505.00,193915271.00,370569776.00,Chris Evans,Leading,1,759924661.50,Captain America,Wide,124
+Captain America: The First Avenger,2011,Super Hero,Action,140000000.00,176654505.00,193915271.00,370569776.00,Tommy Lee Jones,Supporting,2,320195465.00,Captain America,Wide,124
+Captain America: The First Avenger,2011,Super Hero,Action,140000000.00,176654505.00,193915271.00,370569776.00,Joe Johnston,Director,,230569776.00,Captain America,Wide,124
+Captain Phillips,2013,Dramatization,Drama,55000000.00,107136417.00,111718326.00,218854743.00,Barkhad Abdi,Supporting,2,163854743.00,,Wide,133
+Captain Phillips,2013,Dramatization,Drama,55000000.00,107136417.00,111718326.00,218854743.00,Tom Hanks,Leading,1,84691022.67,,Wide,133
+Captain Phillips,2013,Dramatization,Drama,55000000.00,107136417.00,111698733.00,218835150.00,Paul Greengrass,Director,,163854743.00,,Wide,133
+Carrie,2013,Fantasy,Horror,30000000.00,35266619.00,49772655.00,85039274.00,Chloë Grace Moretz,Leading,1,55039274.00,,Wide,99
+Carrie,2013,Fantasy,Horror,30000000.00,35266619.00,49772655.00,85039274.00,Kimberly Peirce,Director,,55039274.00,,Wide,99
+Carrie,2013,Fantasy,Horror,30000000.00,35266619.00,49772655.00,85039274.00,Julianne Moore,Supporting,2,94096964.50,,Wide,99
+Cars 2,2011,Kids Fiction,Adventure,200000000.00,191450875.00,368704508.00,560155383.00,Dan Whitney,Leading,1,360155383.00,Cars,Wide,107
+Cars 2,2011,Kids Fiction,Adventure,200000000.00,191450875.00,368704508.00,560155383.00,John Lasseter,Director,,360155383.00,Cars,Wide,107
+Cars 2,2011,Kids Fiction,Adventure,200000000.00,191450875.00,368704508.00,560155383.00,Owen Wilson,Leading,2,138336042.30,Cars,Wide,107
+Casa de mi Padre,2011,Contemporary Fiction,Comedy,6000000.00,5909483.00,2537469.00,8446952.00,Gael Garcia Bernal,Supporting,2,2446952.00,,Limited,84
+Casa de mi Padre,2011,Contemporary Fiction,Comedy,6000000.00,5909483.00,2537469.00,8446952.00,Will Ferrell,Leading,1,173074726.30,,Limited,84
+Casa de mi Padre,2011,Contemporary Fiction,Comedy,6000000.00,5909483.00,2537469.00,8446952.00,Matt Piedmont,Director,,2446952.00,,Limited,84
+Chasing Mavericks,2012,Dramatization,Drama,20000000.00,6002756.00,2298065.00,8300821.00,Gerard Butler,Leading,1,34431492.50,,Wide,115
+Chasing Mavericks,2012,Dramatization,Drama,20000000.00,6002756.00,2298065.00,8300821.00,Jonny Weston,Leading,2,-11699179.00,,Wide,115
+Chasing Mavericks,2012,Dramatization,Drama,20000000.00,6002756.00,2298065.00,8300821.00,Curtis Hanson,Director,,-11699179.00,,Wide,115
+Chasing Mavericks,2012,Dramatization,Drama,20000000.00,6002756.00,2298065.00,8300821.00,Michael Apted,Director,,-11699179.00,,Wide,115
+Chronicle,2011,Science Fiction,Thriller/Suspense,12000000.00,64575175.00,62500000.00,127075175.00,Alex Russell,Leading,2,115075175.00,,Wide,106
+Chronicle,2011,Science Fiction,Thriller/Suspense,12000000.00,64575175.00,62500000.00,127075175.00,Dane DeHaan,Leading,1,115075175.00,,Wide,106
+Chronicle,2011,Science Fiction,Thriller/Suspense,12000000.00,64575175.00,62500000.00,127075175.00,Josh Trank,Director,,115075175.00,,Wide,106
+Cirque du Soleil: Worlds Away,2012,Fantasy,Drama,25000000.00,12512862.00,15500000.00,28012862.00,Erica Linz,Leading,1,3012862.00,Cirque du Soleil,Wide,91
+Cirque du Soleil: Worlds Away,2012,Fantasy,Drama,25000000.00,12512862.00,15500000.00,28012862.00,Igor Zaripov,Supporting,2,3012862.00,Cirque du Soleil,Wide,91
+Cirque du Soleil: Worlds Away,2012,Fantasy,Drama,25000000.00,12512862.00,15500000.00,28012862.00,Andrew Adamson,Director,,3012862.00,Cirque du Soleil,Wide,91
+Cloud Atlas,2011,Multiple Creative Types,Drama,102000000.00,27108272.00,98910292.00,126018564.00,Halle Berry,Lead Ensemble Member,2,27604283.33,,Wide,172
+Cloud Atlas,2011,Multiple Creative Types,Drama,102000000.00,27108272.00,98910292.00,126018564.00,Tom Hanks,Lead Ensemble Member,1,84691022.67,,Wide,172
+Cloud Atlas,2011,Multiple Creative Types,Drama,102000000.00,27108272.00,98910292.00,126018564.00,Andy Wachowski,Director,,24018564.00,,Wide,172
+Cloud Atlas,2011,Multiple Creative Types,Drama,102000000.00,27108272.00,98910292.00,126018564.00,Lana Wachowski,Director,,24018564.00,,Wide,172
+Cloud Atlas,2011,Multiple Creative Types,Drama,102000000.00,27108272.00,98910292.00,126018564.00,Tom Tykwer,Director,,8439169.00,,Wide,172
+Cloudy with a Chance of Meatballs 2,2013,Kids Fiction,Adventure,78000000.00,119793567.00,154559941.00,274353508.00,Bill Hader,Lead Ensemble Member,1,196357289.00,Cloudy with a Chance of Meatballs,Wide,95
+Cloudy with a Chance of Meatballs 2,2013,Kids Fiction,Adventure,78000000.00,119793567.00,154559941.00,274353508.00,Cody Cameron,Director,,196357289.00,Cloudy with a Chance of Meatballs,Wide,95
+Cloudy with a Chance of Meatballs 2,2013,Kids Fiction,Adventure,78000000.00,119793567.00,154559941.00,274353508.00,Kris Pearn,Director,,196357289.00,Cloudy with a Chance of Meatballs,Wide,95
+Cloudy with a Chance of Meatballs 2,2013,Kids Fiction,Adventure,78000000.00,119793567.00,154559941.00,274353508.00,Anna Faris,Lead Ensemble Member,2,155368410.50,Cloudy with a Chance of Meatballs,Wide,95
+Colombiana,2011,Contemporary Fiction,Thriller/Suspense,40000000.00,36665854.00,35032225.00,71698079.00,Jordi Molla,Supporting,2,43061607.00,,Wide,107
+Colombiana,2011,Contemporary Fiction,Thriller/Suspense,40000000.00,36665854.00,35032225.00,71698079.00,Olivier Megaton,Director,,31698079.00,,Wide,107
+Colombiana,2011,Contemporary Fiction,Thriller/Suspense,40000000.00,36665854.00,35032225.00,71698079.00,Zoe Saldana,Leading,1,31698079.00,,Wide,107
+Contagion,2011,Science Fiction,Thriller/Suspense,60000000.00,75658097.00,61893497.00,137551594.00,Gwyneth Paltrow,Lead Ensemble Member,1,545121934.00,,Wide,105
+Contagion,2011,Science Fiction,Thriller/Suspense,60000000.00,75658097.00,61893497.00,137551594.00,Chui Tien You,Supporting,2,77551594.00,,Wide,105
+Contagion,2011,Science Fiction,Thriller/Suspense,60000000.00,75658097.00,61893497.00,137551594.00,Steven Soderbergh,Director,,35672049.00,,Wide,105
+Contraband,2011,Contemporary Fiction,Action,25000000.00,66528000.00,31878855.00,98406855.00,Mark Wahlberg,Leading,1,131927016.80,,Wide,109
+Contraband,2011,Contemporary Fiction,Action,25000000.00,66528000.00,31878855.00,98406855.00,Kate Beckinsale,Leading,2,79134260.33,,Wide,109
+Contraband,2011,Contemporary Fiction,Action,25000000.00,66528000.00,31878855.00,98406855.00,Baltasar Kormakur,Director,,72449935.00,,Wide,109
+Courageous,2011,Contemporary Fiction,Drama,2000000.00,34522221.00,663663.00,35185884.00,Alex Kendrick,Leading,1,33185884.00,,Wide,129
+Courageous,2011,Contemporary Fiction,Drama,2000000.00,34522221.00,663663.00,35185884.00,Kevin Downs,Leading,2,33185884.00,,Wide,129
+Courageous,2011,Contemporary Fiction,Drama,2000000.00,34522221.00,663663.00,35185884.00,Alex Kendrick,Director,,33185884.00,,Wide,129
+Cowboys and Aliens,2011,Science Fiction,Action,163000000.00,100240551.00,75669764.00,175910315.00,Daniel Craig,Leading,1,354924878.00,,Wide,118
+Cowboys and Aliens,2011,Science Fiction,Action,163000000.00,100240551.00,75669764.00,175910315.00,Abigail Spencer,Supporting,2,12910315.00,,Wide,118
+Cowboys and Aliens,2011,Science Fiction,Action,163000000.00,100240551.00,75669764.00,175910315.00,Jon Favreau,Director,,12910315.00,,Wide,118
+Delivery Man,2013,Contemporary Fiction,Comedy,22000000.00,30659817.00,5758189.00,36418006.00,Chris Pratt,Supporting,2,204117829.00,,Wide,105
+Delivery Man,2013,Contemporary Fiction,Comedy,22000000.00,30659817.00,5758189.00,36418006.00,Vince Vaughn,Leading,1,20814590.00,,Wide,105
+Delivery Man,2013,Contemporary Fiction,Comedy,22000000.00,30659817.00,5758189.00,36418006.00,Ken Scott,Director,,14418006.00,,Wide,105
+Despicable Me 2,2013,Kids Fiction,Comedy,76000000.00,368065385.00,602312102.00,970377487.00,Kristen Wiig,Leading,2,416225820.30,Despicable Me,Wide,98
+Despicable Me 2,2013,Kids Fiction,Comedy,76000000.00,368065385.00,602312102.00,970377487.00,Steve Carell,Leading,1,257688615.50,Despicable Me,Wide,98
+Despicable Me 2,2013,Kids Fiction,Comedy,76000000.00,368065385.00,602312102.00,970377487.00,Chris Renaud,Director,,588828866.50,Despicable Me,Wide,98
+Despicable Me 2,2013,Kids Fiction,Comedy,76000000.00,368065385.00,602312102.00,970377487.00,Pierre Coffin,Director,,894377487.00,Despicable Me,Wide,98
+Devil's Due,2013,Fantasy,Horror,7000000.00,15821461.00,18200000.00,34021461.00,Allison Miller,Leading,1,27021461.00,,Wide,89
+Devil's Due,2013,Fantasy,Horror,7000000.00,15821461.00,18200000.00,34021461.00,Matt Bettinelli-Olpin,Director,,27021461.00,,Wide,89
+Devil's Due,2013,Fantasy,Horror,7000000.00,15821461.00,18200000.00,34021461.00,Tyler Gillett,Director,,27021461.00,,Wide,89
+Devil's Due,2013,Fantasy,Horror,7000000.00,15821461.00,18200000.00,34021461.00,Zach Gilford,Supporting,2,27021461.00,,Wide,89
+Diary of a Wimpy Kid: Dog Days,2012,Kids Fiction,Comedy,22000000.00,49008662.00,28221033.00,77229695.00,Steve Zahn,Lead Ensemble Member,2,55229695.00,Diary of a Wimpy Kid,Wide,94
+Diary of a Wimpy Kid: Dog Days,2012,Kids Fiction,Comedy,22000000.00,49008662.00,28221033.00,77229695.00,Zachary Gordon,Lead Ensemble Member,1,55229695.00,Diary of a Wimpy Kid,Wide,94
+Diary of a Wimpy Kid: Dog Days,2012,Kids Fiction,Comedy,22000000.00,49008662.00,28221033.00,77229695.00,David Bowers,Director,,55229695.00,Diary of a Wimpy Kid,Wide,94
+Disney Planes,2013,Kids Fiction,Comedy,50000000.00,90282580.00,129500000.00,219782580.00,Dane Cook,Leading,1,169782580.00,Planes,Wide,91
+Disney Planes,2013,Kids Fiction,Comedy,50000000.00,90282580.00,129500000.00,219782580.00,Stacy Keach,Supporting,2,169782580.00,Planes,Wide,91
+Disney Planes,2013,Kids Fiction,Comedy,50000000.00,90282580.00,129500000.00,219782580.00,Klay Hall,Director,,169782580.00,Planes,Wide,91
+Django Unchained,2011,Historical Fiction,Western,100000000.00,162805434.00,262568254.00,425373688.00,Jamie Foxx,Leading,1,190407037.50,,Wide,165
+Django Unchained,2011,Historical Fiction,Western,100000000.00,162805434.00,262568254.00,425373688.00,Christoph Waltz,Leading,2,325373688.00,,Wide,165
+Django Unchained,2011,Historical Fiction,Western,100000000.00,162805434.00,262568254.00,425373688.00,Quentin Tarantino,Director,,325373688.00,,Wide,165
+Doctor Seuss' The Lorax,2011,Kids Fiction,Adventure,67500000.00,214030500.00,136749746.00,350780246.00,Chris Renaud,Director,,588828866.50,,Wide,101
+Doctor Seuss' The Lorax,2011,Kids Fiction,Adventure,67500000.00,214030500.00,136749746.00,350780246.00,Danny De Vito,Leading,1,283280246.00,,Wide,101
+Doctor Seuss' The Lorax,2011,Kids Fiction,Adventure,67500000.00,214030500.00,136749746.00,350780246.00,Ed Helms,Supporting,2,271140159.00,,Wide,101
+Dolphin Tale,2011,Dramatization,Drama,37000000.00,72286779.00,23781945.00,96068724.00,Ashley Judd,Lead Ensemble Member,2,59068724.00,,Wide,112
+Dolphin Tale,2011,Dramatization,Drama,37000000.00,72286779.00,23781945.00,96068724.00,Harry Connick Jr.,Lead Ensemble Member,1,59068724.00,,Wide,112
+Dolphin Tale,2011,Dramatization,Drama,37000000.00,72286779.00,23781945.00,96068724.00,Charles Martin Smith,Director,,59068724.00,,Wide,112
+Don Jon,2012,Contemporary Fiction,Romantic Comedy,5500000.00,24477704.00,1900000.00,26377704.00,Joseph Gordon-Levitt,Leading,1,16868546.67,,Wide,90
+Don Jon,2012,Contemporary Fiction,Romantic Comedy,5500000.00,24477704.00,1900000.00,26377704.00,Joseph Gordon-Levitt,Director,,20877704.00,,Wide,90
+Don Jon,2012,Contemporary Fiction,Romantic Comedy,5500000.00,24477704.00,1900000.00,26377704.00,Scarlett Johansson,Leading,2,44901127.00,,Wide,90
+Dredd,2011,Science Fiction,Action,45000000.00,13414714.00,27454280.00,40868994.00,Karl Urban,Leading,1,-4131006.00,,Wide,98
+Dredd,2011,Science Fiction,Action,45000000.00,13414714.00,27454280.00,40868994.00,Pete Travis,Director,,-4131006.00,,Wide,98
+Dredd,2011,Science Fiction,Action,45000000.00,13414714.00,27454280.00,40868994.00,Olivia Thirlby,Supporting,2,-4131006.00,,Wide,98
+Drive,2011,Contemporary Fiction,Action,15000000.00,35060689.00,42994136.00,78054825.00,Nicolas Winding Refn,Director,,63054825.00,,Wide,100
+Drive,2011,Contemporary Fiction,Action,15000000.00,35060689.00,42994136.00,78054825.00,Ryan Gosling,Leading,1,49934066.33,,Wide,100
+Drive,2011,Contemporary Fiction,Action,15000000.00,35060689.00,42994136.00,78054825.00,Carey Mulligan,Supporting,2,33668256.50,,Wide,100
+Elysium,2012,Science Fiction,Action,120000000.00,93050117.00,193141974.00,286192091.00,Jodie Foster,Supporting,2,166192091.00,,Wide,109
+Elysium,2012,Science Fiction,Action,120000000.00,93050117.00,193141974.00,286192091.00,Neill Blomkamp,Director,,166192091.00,,Wide,109
+Elysium,2012,Science Fiction,Action,120000000.00,93050117.00,193141974.00,286192091.00,Matt Damon,Leading,1,78617205.00,,Wide,109
+End of Watch,2012,Contemporary Fiction,Thriller/Suspense,15000000.00,41003371.00,12037903.00,53041274.00,Jake Gyllenhaal,Leading,1,52721788.00,,Wide,109
+End of Watch,2012,Contemporary Fiction,Thriller/Suspense,15000000.00,41003371.00,12037903.00,53041274.00,David Ayer,Director,,38041274.00,,Wide,109
+End of Watch,2012,Contemporary Fiction,Thriller/Suspense,15000000.00,41003371.00,12037903.00,53041274.00,Michael Peña,Leading,2,38041274.00,,Wide,109
+Ender's Game,2012,Science Fiction,Adventure,110000000.00,61737191.00,28000000.00,89737191.00,Harrison Ford,Lead Ensemble Member,2,17378702.00,,Wide,114
+Ender's Game,2012,Science Fiction,Adventure,110000000.00,61737191.00,28000000.00,89737191.00,Asa Butterfield,Lead Ensemble Member,1,-20262809.00,,Wide,114
+Ender's Game,2012,Science Fiction,Adventure,110000000.00,61737191.00,28000000.00,89737191.00,Gavin Hood,Director,,-20262809.00,,Wide,114
+Epic,2013,Kids Fiction,Adventure,100000000.00,107518682.00,160900000.00,268418682.00,Josh Hutcherson,Lead Ensemble Member,2,500199140.30,,Wide,103
+Epic,2013,Kids Fiction,Adventure,100000000.00,107518682.00,160900000.00,268418682.00,Chris Wedge,Director,,168418682.00,,Wide,103
+Epic,2013,Kids Fiction,Adventure,100000000.00,107518682.00,160900000.00,268418682.00,Colin Farrell,Lead Ensemble Member,1,53623905.00,,Wide,103
+Escape From Planet Earth,2012,Kids Fiction,Adventure,40000000.00,57012977.00,9441834.00,66454811.00,Brendan Fraser,Lead Ensemble Member,1,31353174.50,,Wide,89
+Escape From Planet Earth,2012,Kids Fiction,Adventure,40000000.00,57012977.00,9441834.00,66454811.00,Cal Brunker,Director,,26454811.00,,Wide,89
+Escape From Planet Earth,2012,Kids Fiction,Adventure,40000000.00,57012977.00,9441834.00,66454811.00,Sarah Jessica Parker,Lead Ensemble Member,2,13464637.00,,Wide,89
+Escape Plan,2012,Contemporary Fiction,Thriller/Suspense,70000000.00,25213103.00,78600000.00,103813103.00,Sylvester Stallone,Leading,1,68117958.00,,Wide,115
+Escape Plan,2012,Contemporary Fiction,Thriller/Suspense,70000000.00,25213103.00,78600000.00,103813103.00,Mikael Hafstrom,Director,,33813103.00,,Wide,115
+Escape Plan,2012,Contemporary Fiction,Thriller/Suspense,70000000.00,25213103.00,78600000.00,103813103.00,Arnold Schwarzenegger,Leading,2,25931701.00,,Wide,115
+Evil Dead,2012,Fantasy,Horror,17000000.00,54239856.00,43162193.00,97402049.00,Jane Levy,Leading,1,80402049.00,Evil Dead,Wide,91
+Evil Dead,2012,Fantasy,Horror,17000000.00,54239856.00,43162193.00,97402049.00,Fede Alverez,Director,,80402049.00,Evil Dead,Wide,91
+Evil Dead,2012,Fantasy,Horror,17000000.00,54239856.00,43162193.00,97402049.00,Shiloh Fernandez,Supporting,2,80402049.00,Evil Dead,Wide,91
+Fast and Furious 6,2012,Contemporary Fiction,Action,160000000.00,238679850.00,551238031.00,789917881.00,Justin Lin,Director,,567379582.50,Fast and the Furious,Wide,130
+Fast and Furious 6,2012,Contemporary Fiction,Action,160000000.00,238679850.00,551238031.00,789917881.00,Vin Diesel,Lead Ensemble Member,1,396394766.70,Fast and the Furious,Wide,130
+Fast and Furious 6,2012,Contemporary Fiction,Action,160000000.00,238679850.00,551238031.00,789917881.00,Michelle Rodriguez,Lead Ensemble Member,2,318663021.00,Fast and the Furious,Wide,130
+Fast Five,2011,Contemporary Fiction,Action,125000000.00,209837675.00,420003609.00,629841284.00,Justin Lin,Director,,567379582.50,Fast and the Furious,Wide,130
+Fast Five,2011,Contemporary Fiction,Action,125000000.00,209837675.00,420003609.00,629841284.00,Paul Walker,Leading,2,504841284.00,Fast and the Furious,Wide,130
+Fast Five,2011,Contemporary Fiction,Action,125000000.00,209837675.00,420003609.00,629841284.00,Vin Diesel,Leading,1,396394766.70,Fast and the Furious,Wide,130
+Final Destination 5,2011,Fantasy,Horror,40000000.00,42587643.00,115300000.00,157887643.00,Emma Bell,Lead Ensemble Member,2,117887643.00,,Wide,95
+Final Destination 5,2011,Fantasy,Horror,40000000.00,42587643.00,115300000.00,157887643.00,Nicolas D'Agosto,Lead Ensemble Member,1,117887643.00,,Wide,95
+Final Destination 5,2011,Fantasy,Horror,40000000.00,42587643.00,115300000.00,157887643.00,Steven Quale,Director,,117887643.00,,Wide,95
+Flight,2012,Contemporary Fiction,Drama,31000000.00,93772375.00,68000000.00,161772375.00,Denzel Washington,Leading,1,101132695.00,,Wide,138
+Flight,2012,Contemporary Fiction,Drama,31000000.00,93772375.00,68000000.00,161772375.00,Nadine Velazquez,Leading,2,130772375.00,,Wide,138
+Flight,2012,Contemporary Fiction,Drama,31000000.00,93772375.00,68000000.00,161772375.00,Robert Zemeckis,Director,,130772375.00,,Wide,138
+Frankenweenie,2011,Fantasy,Comedy,39000000.00,35287788.00,45863000.00,81150788.00,Catherine O'Hara,Lead Ensemble Member,1,42150788.00,,Wide,87
+Frankenweenie,2011,Fantasy,Comedy,39000000.00,35287788.00,45863000.00,81150788.00,Martin Short,Lead Ensemble Member,2,42150788.00,,Wide,87
+Frankenweenie,2011,Fantasy,Comedy,39000000.00,35287788.00,45863000.00,81150788.00,Tim Burton,Director,,42150788.00,,Wide,87
+Free Birds,2013,Kids Fiction,Comedy,55000000.00,55750480.00,18429500.00,74179980.00,Owen Wilson,Leading,1,138336042.30,,Wide,91
+Free Birds,2013,Kids Fiction,Comedy,55000000.00,55750480.00,18429500.00,74179980.00,Woody Harrelson,Leading,2,19179980.00,,Wide,91
+Free Birds,2013,Kids Fiction,Comedy,55000000.00,55750480.00,18429500.00,74179980.00,Jimmy Hayward,Director,,19179980.00,,Wide,91
+Frozen,2013,Kids Fiction,Adventure,150000000.00,400344858.00,768900000.00,1169244858.00,Chris Buck,Director,,1040447148.00,,Expands Wide,102
+Frozen,2013,Kids Fiction,Adventure,150000000.00,400344858.00,768900000.00,1169244858.00,Jennifer Lee,Director,,1040447148.00,,Expands Wide,102
+Frozen,2013,Kids Fiction,Adventure,150000000.00,400344858.00,768900000.00,1169244858.00,Idina Menzel,Lead Ensemble Member,2,1040447148.00,,Expands Wide,102
+Frozen,2013,Kids Fiction,Adventure,150000000.00,400344858.00,768900000.00,1169244858.00,Kristen Bell,Lead Ensemble Member,1,1040447148.00,,Expands Wide,102
+G.I. Joe: Retaliation,2012,Contemporary Fiction,Action,140000000.00,122523060.00,249400000.00,371923060.00,John M. Chu,Director,,231923060.00,G.I. Joe,Wide,110
+G.I. Joe: Retaliation,2012,Contemporary Fiction,Action,140000000.00,122523060.00,249400000.00,371923060.00,Dwayne Johnson,Lead Ensemble Member,1,141794898.75,G.I. Joe,Wide,110
+G.I. Joe: Retaliation,2012,Contemporary Fiction,Action,140000000.00,122523060.00,249400000.00,371923060.00,Bruce Willis,Lead Ensemble Member,2,136336821.00,G.I. Joe,Wide,110
+Gangster Squad,2011,Dramatization,Drama,60000000.00,46000903.00,58100000.00,104100903.00,Esther Scott,Supporting,2,44100903.00,,Wide,110
+Gangster Squad,2011,Dramatization,Drama,60000000.00,46000903.00,58100000.00,104100903.00,Sean Penn,Lead Ensemble Member,1,44100903.00,,Wide,110
+Gangster Squad,2011,Dramatization,Drama,60000000.00,46000903.00,58100000.00,104100903.00,Ruben Fleischer,Director,,28533809.50,,Wide,110
+Getaway,2013,Contemporary Fiction,Thriller/Suspense,18000000.00,10501938.00,0.00,10501938.00,Ethan Hawke,Leading,1,55110095.33,,Wide,89
+Getaway,2013,Contemporary Fiction,Thriller/Suspense,18000000.00,10501938.00,0.00,10501938.00,Selena Gomez,Leading,2,9085734.50,,Wide,89
+Getaway,2013,Contemporary Fiction,Thriller/Suspense,18000000.00,10501938.00,0.00,10501938.00,Courtney Solomon,Director,,-7498062.00,,Wide,89
+Glee: The 3D Concert Movie,2011,Factual,Concert/Performance,9000000.00,11862398.00,5600000.00,17462398.00,Chris Colfer,Lead Ensemble Member,2,8462398.00,,Special Engagement,100
+Glee: The 3D Concert Movie,2011,Factual,Concert/Performance,9000000.00,11862398.00,5600000.00,17462398.00,Kevin Tancharoen,Director,,8462398.00,,Special Engagement,100
+Glee: The 3D Concert Movie,2011,Factual,Concert/Performance,9000000.00,11862398.00,5600000.00,17462398.00,Dianna Agron,Lead Ensemble Member,1,8462398.00,,Special Engagement,100
+God's Not Dead,2013,Contemporary Fiction,Drama,2000000.00,58186352.00,0.00,58186352.00,Kevin Sorbo,Supporting,1,56186352.00,,Limited,95
+God's Not Dead,2013,Contemporary Fiction,Drama,2000000.00,58186352.00,0.00,58186352.00,Shane Harper,Supporting,2,56186352.00,,Limited,95
+God's Not Dead,2013,Contemporary Fiction,Drama,2000000.00,56594144.00,0.00,56594144.00,Harold Cronk,Director,,56061120.00,,Limited,95
+Grace Unplugged,2013,Contemporary Fiction,Drama,1700000.00,2507159.00,0.00,2507159.00,A.J. Michalka,Leading,1,807159.00,,Limited,102
+Grace Unplugged,2013,Contemporary Fiction,Drama,1700000.00,2507159.00,0.00,2507159.00,James Denton,Supporting,2,807159.00,,Limited,102
+Grace Unplugged,2013,Contemporary Fiction,Drama,1700000.00,2507159.00,0.00,2507159.00,Brad J. Silverman,Director,,807159.00,,Limited,102
+Gravity,2012,Contemporary Fiction,Thriller/Suspense,110000000.00,274092705.00,442300000.00,716392705.00,Alfonso Cuarón,Director,,606392705.00,,Wide,91
+Gravity,2012,Contemporary Fiction,Thriller/Suspense,110000000.00,274092705.00,442300000.00,716392705.00,Sandra Bullock,Leading,1,397087146.00,,Wide,91
+Gravity,2012,Contemporary Fiction,Thriller/Suspense,110000000.00,274092705.00,442300000.00,716392705.00,George Clooney,Leading,2,248726824.33,,Wide,91
+Green Lantern,2011,Super Hero,Action,200000000.00,116601172.00,114600000.00,231201172.00,Ryan Reynolds,Leading,1,38219379.00,,Wide,85
+Green Lantern,2011,Super Hero,Action,200000000.00,116601172.00,114600000.00,231201172.00,Blake Lively,Supporting,2,32610614.00,,Wide,85
+Green Lantern,2011,Super Hero,Action,200000000.00,116601172.00,114600000.00,231201172.00,Martin Campbell,Director,,31201172.00,,Wide,85
+Grown Ups 2,2012,Contemporary Fiction,Comedy,80000000.00,133668525.00,113355283.00,247023808.00,Adam Sandler,Lead Ensemble Member,1,143934729.70,Grown Ups,Wide,100
+Grown Ups 2,2012,Contemporary Fiction,Comedy,80000000.00,133668525.00,113355283.00,247023808.00,Kevin James,Lead Ensemble Member,2,99131533.00,Grown Ups,Wide,100
+Grown Ups 2,2012,Contemporary Fiction,Comedy,80000000.00,133668525.00,113355283.00,247023808.00,Dennis Dugan,Director,,167023808.00,Grown Ups,Wide,100
+Hansel & Gretel: Witch Hunters,2011,Contemporary Fiction,Action,50000000.00,55703475.00,170000000.00,225703475.00,Jeremy Renner,Leading,1,175703475.00,,Wide,100
+Hansel & Gretel: Witch Hunters,2011,Contemporary Fiction,Action,50000000.00,55703475.00,170000000.00,225703475.00,Tommy Wirkola,Director,,175703475.00,,Wide,100
+Hansel & Gretel: Witch Hunters,2011,Contemporary Fiction,Action,50000000.00,55703475.00,170000000.00,225703475.00,Gemma Arterton,Leading,2,104160060.50,,Wide,100
+Happy Feet Two,2011,Kids Fiction,Adventure,135000000.00,64006466.00,93950000.00,157956466.00,Elijah Wood,Leading,1,22956466.00,Happy Feet,Wide,99
+Happy Feet Two,2011,Kids Fiction,Adventure,135000000.00,64006466.00,93950000.00,157956466.00,George Miller,Director,,22956466.00,Happy Feet,Wide,99
+Happy Feet Two,2011,Kids Fiction,Adventure,135000000.00,64006466.00,93950000.00,157956466.00,Robin Williams,Supporting,2,22956466.00,Happy Feet,Wide,99
+Harry Potter and the Deathly Hallows: Part II,2011,Fantasy,Adventure,125000000.00,381011219.00,947100000.00,1328111219.00,David Yates,Director,,1203111219.00,Harry Potter,Wide,131
+Harry Potter and the Deathly Hallows: Part II,2011,Fantasy,Adventure,125000000.00,381011219.00,947100000.00,1328111219.00,Michael Gambon,Supporting,2,1203111219.00,Harry Potter,Wide,131
+Harry Potter and the Deathly Hallows: Part II,2011,Fantasy,Adventure,125000000.00,381011219.00,947100000.00,1328111219.00,Ralph Fiennes,Lead Ensemble Member,1,1203111219.00,Harry Potter,Wide,131
+Haywire,2011,Contemporary Fiction,Thriller/Suspense,23000000.00,18942396.00,3233794.00,22176190.00,Ewan McGregor,Supporting,2,64383398.00,,Wide,93
+Haywire,2011,Contemporary Fiction,Thriller/Suspense,23000000.00,18942396.00,3233794.00,22176190.00,Steven Soderbergh,Director,,35672049.00,,Wide,93
+Haywire,2011,Contemporary Fiction,Thriller/Suspense,23000000.00,18942396.00,3233794.00,22176190.00,Gina Carano,Leading,1,-823810.00,,Wide,93
+Heaven is for Real,2013,Fantasy,Drama,12000000.00,77848541.00,2169635.00,80018176.00,Greg Kinnear,Supporting,1,68018176.00,,Wide,100
+Heaven is for Real,2013,Fantasy,Drama,12000000.00,77848541.00,2169635.00,80018176.00,Kelly Reilly,Supporting,2,68018176.00,,Wide,100
+Heaven is for Real,2013,Fantasy,Drama,12000000.00,69820039.00,1115504.00,70935543.00,Randall Wallace,Director,,67505773.00,,Wide,100
+Her,2013,Science Fiction,Drama,23000000.00,25568251.00,20421875.00,45990126.00,Amy Adams,Supporting,2,155748212.60,,Expands Wide,119
+Her,2013,Science Fiction,Drama,23000000.00,25568251.00,20421875.00,45990126.00,Joaquin Phoenix,Leading,1,5303433.00,,Expands Wide,119
+Her,2013,Science Fiction,Drama,23000000.00,25568251.00,20303332.00,45871583.00,Spike Jonze,Director,,22990126.00,,Expands Wide,119
+Here Comes the Boom,2011,Contemporary Fiction,Comedy,42000000.00,45290318.00,27948940.00,73239258.00,Kevin James,Leading,1,99131533.00,,Wide,104
+Here Comes the Boom,2011,Contemporary Fiction,Comedy,42000000.00,45290318.00,27948940.00,73239258.00,Salma Hayek,Supporting,2,228113367.50,,Wide,104
+Here Comes the Boom,2011,Contemporary Fiction,Comedy,42000000.00,45290318.00,27948940.00,73239258.00,Frank Coraci,Director,,31239258.00,,Wide,104
+Higher Ground,2011,Historical Fiction,Drama,1800000.00,841056.00,18126.00,859182.00,Joshua Leonard,Supporting,2,-940818.00,,Limited,109
+Higher Ground,2011,Historical Fiction,Drama,1800000.00,841056.00,18126.00,859182.00,Vera Farmiga,Leading,1,148529661.50,,Limited,109
+Higher Ground,2011,Historical Fiction,Drama,1800000.00,841056.00,18126.00,859182.00,Vera Farmiga,Director,,-940818.00,,Limited,109
+Hobo with a Shotgun,2011,Contemporary Fiction,Action,3000000.00,703372.00,131581.00,834953.00,Gregory Smith,Supporting,2,-2165047.00,,Limited,86
+Hobo with a Shotgun,2011,Contemporary Fiction,Action,3000000.00,703372.00,131581.00,834953.00,Jason Eisener,Director,,-2165047.00,,Limited,86
+Hobo with a Shotgun,2011,Contemporary Fiction,Action,3000000.00,703372.00,131581.00,834953.00,Rutger Hauer,Leading,1,-2165047.00,,Limited,86
+Hop,2011,Kids Fiction,Comedy,63000000.00,108085305.00,76839028.00,184924333.00,James Marsden,Supporting,1,121924333.00,,Wide,95
+Hop,2011,Kids Fiction,Comedy,63000000.00,108085305.00,76839028.00,184924333.00,Russell Brand,Leading,2,121924333.00,,Wide,95
+Hop,2011,Kids Fiction,Comedy,63000000.00,108085305.00,76839028.00,184924333.00,Tim Hill,Director,,121924333.00,,Wide,95
+Hotel Transylvania,2011,Kids Fiction,Comedy,85000000.00,148313048.00,210908966.00,359222014.00,Adam Sandler,Lead Ensemble Member,1,143934729.70,,Wide,91
+Hotel Transylvania,2011,Kids Fiction,Comedy,85000000.00,148313048.00,210908966.00,359222014.00,Andy Samberg,Lead Ensemble Member,2,132390190.50,,Wide,91
+Hotel Transylvania,2011,Kids Fiction,Comedy,85000000.00,148313048.00,210908966.00,359222014.00,Genndy Tartakovsky,Director,,274222014.00,,Wide,91
+Hugo,2011,Fantasy,Adventure,180000000.00,73864507.00,111168708.00,185033215.00,Martin Scorsese,Director,,147337851.50,,Wide,126
+Hugo,2011,Fantasy,Adventure,180000000.00,73864507.00,111168708.00,185033215.00,Sacha Baron Cohen,Leading,2,59706373.50,,Wide,126
+Hugo,2011,Fantasy,Adventure,180000000.00,73864507.00,111168708.00,185033215.00,Ben Kingsley,Leading,1,5033215.00,,Wide,126
+I Don't Know How She Does It,2011,Contemporary Fiction,Comedy,24000000.00,9659074.00,14815389.00,24474463.00,Pierce Brosnan,Supporting,2,474463.00,,Wide,89
+I Don't Know How She Does It,2011,Contemporary Fiction,Comedy,24000000.00,9659074.00,14815389.00,24474463.00,Sarah Jessica Parker,Leading,1,13464637.00,,Wide,89
+I Don't Know How She Does It,2011,Contemporary Fiction,Comedy,24000000.00,9659074.00,14815389.00,24474463.00,Douglas McGrath,Director,,474463.00,,Wide,89
+I Frankenstein,2012,Fantasy,Action,65000000.00,19075290.00,52444175.00,71519465.00,Bill Nighy,Supporting,2,65624406.00,,Wide,92
+I Frankenstein,2012,Fantasy,Action,65000000.00,19075290.00,52444175.00,71519465.00,Aaron Eckhart,Leading,1,43540814.50,,Wide,92
+I Frankenstein,2012,Fantasy,Action,65000000.00,19075290.00,52444175.00,71519465.00,Stuart Beattie,Director,,6519465.00,,Wide,92
+Ice Age: Continental Drift,2012,Fantasy,Adventure,95000000.00,161321843.00,718443294.00,879765137.00,Michael Thurmeier,Director,,784765137.00,Ice Age,Wide,87
+Ice Age: Continental Drift,2012,Fantasy,Adventure,95000000.00,161321843.00,718443294.00,879765137.00,Ray Romano,Lead Ensemble Member,1,784765137.00,Ice Age,Wide,87
+Ice Age: Continental Drift,2012,Fantasy,Adventure,95000000.00,161321843.00,718443294.00,879765137.00,Steve Martino,Director,,784765137.00,Ice Age,Wide,87
+Ice Age: Continental Drift,2012,Fantasy,Adventure,95000000.00,161321843.00,718443294.00,879765137.00,John Leguizamo,Lead Ensemble Member,2,417672933.50,Ice Age,Wide,87
+Identity Thief,2013,Contemporary Fiction,Comedy,35000000.00,134506920.00,41762801.00,176269721.00,Jason Bateman,Leading,1,82548994.00,,Wide,147
+Identity Thief,2013,Contemporary Fiction,Comedy,35000000.00,134506920.00,41762801.00,176269721.00,Melissa McCarthy,Leading,2,164525654.00,,Wide,147
+Identity Thief,2013,Contemporary Fiction,Comedy,35000000.00,134506920.00,41762801.00,176269721.00,Seth Gordon,Director,,141269721.00,,Wide,147
+Immortals,2011,Fantasy,Action,75000000.00,83504017.00,128058418.00,211562435.00,Henry Cavill,Lead Ensemble Member,1,190662446.00,,Wide,110
+Immortals,2011,Fantasy,Action,75000000.00,83504017.00,128058418.00,211562435.00,Mickey Rourke,Lead Ensemble Member,2,136562435.00,,Wide,110
+Immortals,2011,Fantasy,Action,75000000.00,83504017.00,128058418.00,211562435.00,Tarsem Singh,Director,,110087213.00,,Wide,110
+In Time,2011,Science Fiction,Thriller/Suspense,35000000.00,37553932.00,132510732.00,170064664.00,Amanda Seyfried,Leading,1,135064664.00,,Wide,109
+In Time,2011,Science Fiction,Thriller/Suspense,35000000.00,37553932.00,132510732.00,170064664.00,Justin Timberlake,Leading,2,83840655.00,,Wide,109
+In Time,2011,Science Fiction,Thriller/Suspense,35000000.00,37553932.00,132510732.00,170064664.00,Andrew Niccol,Director,,71626524.00,,Wide,109
+Insidious Chapter 2,2013,Fantasy,Horror,5000000.00,83586447.00,78334486.00,161920933.00,Patrick Wilson,Supporting,1,155223859.33,Insidious,Wide,105
+Insidious Chapter 2,2013,Fantasy,Horror,5000000.00,83586447.00,78334486.00,161920933.00,Rose Byrne,Leading,2,156921081.00,Insidious,Wide,105
+Insidious Chapter 2,2013,Fantasy,Horror,5000000.00,83586447.00,78334486.00,161920933.00,James Wan,Director,,227460611.00,Insidious,Wide,105
+Iron Man 3,2012,Super Hero,Action,200000000.00,408992272.00,803700000.00,1212692272.00,Robert Downey Jr.,Leading,1,1150985910.00,Iron Man,Wide,130
+Iron Man 3,2012,Super Hero,Action,200000000.00,408992272.00,803700000.00,1212692272.00,Shane Black,Director,,1012692272.00,Iron Man,Wide,130
+Iron Man 3,2012,Super Hero,Action,200000000.00,408992272.00,803700000.00,1212692272.00,Gwyneth Paltrow,Leading,2,545121933.00,Iron Man,Wide,130
+Jack Reacher,2012,Contemporary Fiction,Drama,60000000.00,80070736.00,137300000.00,217370736.00,Rosamund Pike,Supporting,2,157370736.00,,Wide,130
+Jack Reacher,2012,Contemporary Fiction,Drama,60000000.00,80070736.00,137300000.00,217370736.00,Tom Cruise,Leading,1,291540649.70,,Wide,130
+Jack Reacher,2012,Contemporary Fiction,Drama,60000000.00,80070736.00,137300000.00,217370736.00,Christopher McQuarrie,Director,,157370736.00,,Wide,130
+Jack Ryan: Shadow Recruit,2013,Contemporary Fiction,Action,60000000.00,50577412.00,80800000.00,131377412.00,Kenneth Branagh,Director,,185352015.00,Jack Ryan,Wide,105
+Jack Ryan: Shadow Recruit,2013,Contemporary Fiction,Action,60000000.00,50577412.00,80800000.00,131377412.00,Kevin Costner,Leading,2,38499914.50,Jack Ryan,Wide,105
+Jack Ryan: Shadow Recruit,2013,Contemporary Fiction,Action,60000000.00,50577412.00,80800000.00,131377412.00,Chris Pine,Leading,1,33904602.00,Jack Ryan,Wide,105
+Jack the Giant Slayer,2011,Fantasy,Adventure,195000000.00,65187603.00,132200000.00,197387603.00,Nicholas Hoult,Leading,1,44515606.50,,Wide,113
+Jack the Giant Slayer,2011,Fantasy,Adventure,195000000.00,65187603.00,132200000.00,197387603.00,Bryan Singer,Director,,2387603.00,,Wide,113
+Jack the Giant Slayer,2011,Fantasy,Adventure,195000000.00,65187603.00,132200000.00,197387603.00,Eleanor Tomlinson,Leading,2,2387603.00,,Wide,113
+Jackass Presents: Bad Grandpa,2013,Factual,Comedy,15000000.00,102003019.00,58900000.00,160903019.00,Jackson Nicoll,Leading,2,145903019.00,Jackass,Wide,92
+Jackass Presents: Bad Grandpa,2013,Factual,Comedy,15000000.00,102003019.00,58900000.00,160903019.00,Johnny Knoxville,Leading,1,145903019.00,Jackass,Wide,92
+Jackass Presents: Bad Grandpa,2013,Factual,Comedy,15000000.00,102003019.00,58900000.00,160903019.00,Jeff Tremaine,Director,,145903019.00,Jackass,Wide,92
+Jagten,2012,Contemporary Fiction,Drama,3450000.00,687185.00,0.00,687185.00,Mads Mikkelsen,Leading,1,-2762815.00,,Limited,110
+Jagten,2012,Contemporary Fiction,Drama,3450000.00,687185.00,0.00,687185.00,Thomas Bo Larsen,Supporting,2,-2762815.00,,Limited,110
+Jagten,2012,Contemporary Fiction,Drama,3450000.00,687185.00,0.00,687185.00,Thomas Vinterberg,Director,,-2762815.00,,Limited,110
+Jin líng shí san chai,2011,Historical Fiction,Drama,100000000.00,311434.00,93410000.00,93721434.00,Christian Bale,Leading,1,335675320.30,,Oscar Qualifying Run,141
+Jin líng shí san chai,2011,Historical Fiction,Drama,100000000.00,311434.00,93410000.00,93721434.00,Ni Ni,Supporting,2,-6278566.00,,Oscar Qualifying Run,141
+Jin líng shí san chai,2011,Historical Fiction,Drama,100000000.00,311434.00,93410000.00,93721434.00,Yimou Zhang,Director,,-6278566.00,,Oscar Qualifying Run,141
+Jobs,2013,Dramatization,Drama,18000000.00,16131410.00,10000000.00,26131410.00,Ashton Kutcher,Leading,1,8131410.00,,Wide,127
+Jobs,2013,Dramatization,Drama,18000000.00,16131410.00,10000000.00,26131410.00,Dermot Mulroney,Supporting,2,8131410.00,,Wide,127
+Jobs,2013,Dramatization,Drama,18000000.00,16131410.00,10000000.00,26131410.00,Joshua Michael Stern,Director,,8131410.00,,Wide,127
+John Carter,2011,Science Fiction,Adventure,275000000.00,73058679.00,209719421.00,282778100.00,Taylor Kitsch,Leading,1,58284119.25,,Wide,132
+John Carter,2011,Science Fiction,Adventure,275000000.00,73058679.00,209719421.00,282778100.00,Andrew Stanton,Director,,7778100.00,,Wide,132
+John Carter,2011,Science Fiction,Adventure,275000000.00,73058679.00,209719421.00,282778100.00,Lynn Collins,Supporting,2,7778100.00,,Wide,132
+Johnny English Reborn,2011,Contemporary Fiction,Comedy,45000000.00,8305970.00,156233690.00,164539660.00,Gillian Anderson,Leading,2,119539660.00,Johnny English,Wide,101
+Johnny English Reborn,2011,Contemporary Fiction,Comedy,45000000.00,8305970.00,156233690.00,164539660.00,Rowan Atkinson,Leading,1,119539660.00,Johnny English,Wide,101
+Johnny English Reborn,2011,Contemporary Fiction,Comedy,45000000.00,8305970.00,156233690.00,164539660.00,Oliver Parker,Director,,119539660.00,Johnny English,Wide,101
+Journey 2: The Mysterious Island,2011,Fantasy,Adventure,79000000.00,103860290.00,222000000.00,325860290.00,Michael Caine,Supporting,2,525602116.50,Journey to the Center of the Earth,Wide,52
+Journey 2: The Mysterious Island,2011,Fantasy,Adventure,79000000.00,103860290.00,222000000.00,325860290.00,Bill Morrison,Director,,246860290.00,Journey to the Center of the Earth,Wide,52
+Journey 2: The Mysterious Island,2011,Fantasy,Adventure,79000000.00,103860290.00,222000000.00,325860290.00,Dwayne Johnson,Leading,1,141794900.75,Journey to the Center of the Earth,Wide,52
+Joyful Noise,2011,Contemporary Fiction,Musical,27500000.00,30932113.00,225801.00,31157914.00,Todd Graff,Director,,3657914.00,,Wide,0
+Joyful Noise,2011,Contemporary Fiction,Musical,27500000.00,30932113.00,225801.00,31157914.00,Dolly Parton,Leading,2,3657914.00,,Wide,0
+Joyful Noise,2011,Contemporary Fiction,Musical,27500000.00,30932113.00,225801.00,31157914.00,Queen Latifah,Leading,1,3657914.00,,Wide,0
+Jumping the Broom,2011,Contemporary Fiction,Romantic Comedy,7000000.00,37295394.00,863207.00,38158601.00,Angela Bassett,Lead Ensemble Member,1,10338394.50,,Wide,107
+Jumping the Broom,2011,Contemporary Fiction,Romantic Comedy,7000000.00,37295394.00,863207.00,38158601.00,Salim Akil,Director,,22909462.00,,Wide,107
+Jumping the Broom,2011,Contemporary Fiction,Romantic Comedy,7000000.00,37295394.00,863207.00,38158601.00,Paula Patton,Lead Ensemble Member,2,197980446.67,,Wide,107
+Katy Perry: Part of Me 3D,2012,Factual,Concert/Performance,12000000.00,25326071.00,4900000.00,30226071.00,Adam Marcello,Supporting,2,18226071.00,,Wide,95
+Katy Perry: Part of Me 3D,2012,Factual,Concert/Performance,12000000.00,25326071.00,4900000.00,30226071.00,Dan Cutforth,Director,,18226071.00,,Wide,95
+Katy Perry: Part of Me 3D,2012,Factual,Concert/Performance,12000000.00,25326071.00,4900000.00,30226071.00,Jane Lipsitz,Director,,18226071.00,,Wide,95
+Katy Perry: Part of Me 3D,2012,Factual,Concert/Performance,12000000.00,25326071.00,4900000.00,30226071.00,Katy Perry,Documentary Subject,1,18226071.00,,Wide,95
+Kevin Hart: Let Me Explain,2013,Factual,Concert/Performance,2500000.00,32244051.00,0.00,32244051.00,Kevin Hart,Leading,1,78935190.50,,Wide,0
+Kick-Ass 2,2013,Contemporary Fiction,Action,28000000.00,28795985.00,34501129.00,63297114.00,Aaron Johnson,Leading,1,35297114.00,Kick-Ass,Wide,103
+Kick-Ass 2,2013,Contemporary Fiction,Action,28000000.00,28795985.00,34501129.00,63297114.00,Christopher Mintz-Plasse,Leading,2,35297114.00,Kick-Ass,Wide,103
+Kick-Ass 2,2013,Contemporary Fiction,Action,28000000.00,28795985.00,34501129.00,63297114.00,Jeff Wadlow,Director,,35297114.00,Kick-Ass,Wide,103
+Killer Elite,2011,Contemporary Fiction,Action,70000000.00,25124986.00,32652120.00,57777106.00,Jason Statham,Leading,1,54899556.50,,Wide,105
+Killer Elite,2011,Contemporary Fiction,Action,70000000.00,25124986.00,32652120.00,57777106.00,Clive Owen,Leading,2,-12222894.00,,Wide,105
+Killer Elite,2011,Contemporary Fiction,Action,70000000.00,25124986.00,32652120.00,57777106.00,Gary McKendry,Director,,-12222894.00,,Wide,105
+Killing Them Softly,2012,Contemporary Fiction,Thriller/Suspense,15000000.00,14945541.00,22293233.00,37238774.00,Brad Pitt,Leading,1,185899242.50,,Wide,97
+Killing Them Softly,2012,Contemporary Fiction,Thriller/Suspense,15000000.00,14945541.00,22293233.00,37238774.00,Andrew Dominik,Director,,22238774.00,,Wide,97
+Killing Them Softly,2012,Contemporary Fiction,Thriller/Suspense,15000000.00,14945541.00,22293233.00,37238774.00,Richard Jenkins,Supporting,2,22238774.00,,Wide,97
+Kung Fu Panda 2,2011,Kids Fiction,Adventure,150000000.00,165249063.00,499588484.00,664837547.00,Angelina Jolie,Supporting,2,514837547.00,Kung Fu Panda,Wide,90
+Kung Fu Panda 2,2011,Kids Fiction,Adventure,150000000.00,165249063.00,499588484.00,664837547.00,Jennifer Yuh Nelson,Director,,514837547.00,Kung Fu Panda,Wide,90
+Kung Fu Panda 2,2011,Kids Fiction,Adventure,150000000.00,165249063.00,499588484.00,664837547.00,Jack Black,Leading,1,514837547.00,Kung Fu Panda,Wide,90
+Labor Day,2011,Contemporary Fiction,Drama,18000000.00,13371528.00,0.00,13371528.00,Josh Brolin,Leading,2,-4628472.00,,Wide,111
+Labor Day,2011,Contemporary Fiction,Drama,18000000.00,13371528.00,0.00,13371528.00,Kate Winslet,Leading,1,-4628472.00,,Wide,111
+Labor Day,2011,Contemporary Fiction,Drama,18000000.00,13371528.00,0.00,13371528.00,Jason Reitman,Director,,3060942.00,,Wide,111
+Last Vegas,2013,Contemporary Fiction,Comedy,28000000.00,63914167.00,49000000.00,112914167.00,Michael Douglas,Leading,1,84914167.00,,Wide,104
+Last Vegas,2013,Contemporary Fiction,Comedy,28000000.00,63914167.00,49000000.00,112914167.00,Robert De Niro,Leading,2,36421143.00,,Wide,104
+Last Vegas,2013,Contemporary Fiction,Comedy,28000000.00,63914167.00,49000000.00,112914167.00,Jon Turteltaub,Director,,84914167.00,,Wide,104
+Le Havre,2011,Contemporary Fiction,Drama,5500000.00,611709.00,12868487.00,13480196.00,Andre Wilms,Leading,1,7980196.00,,Limited,93
+Le Havre,2011,Contemporary Fiction,Drama,5500000.00,611709.00,12868487.00,13480196.00,Kati Outinen,Supporting,2,7980196.00,,Limited,93
+Le Havre,2011,Contemporary Fiction,Drama,5500000.00,611709.00,12868487.00,13480196.00,Aki Kaurismaki,Director,,7980196.00,,Limited,93
+Le nom des gens,2011,Contemporary Fiction,Comedy,4600000.00,514237.00,8747474.00,9261711.00,Jacques Gamblin,Leading,2,4661711.00,,Limited,95
+Le nom des gens,2011,Contemporary Fiction,Comedy,4600000.00,514237.00,8747474.00,9261711.00,Sara Forestier,Leading,1,4661711.00,,Limited,95
+Le nom des gens,2011,Contemporary Fiction,Comedy,4600000.00,514237.00,8747474.00,9261711.00,Michel Leclerc,Director,,4661711.00,,Limited,95
+Lee Daniels' The Butler,2011,Dramatization,Drama,30000000.00,116632095.00,34881334.00,151513429.00,Forest Whitaker,Leading,1,43027305.33,,Wide,132
+Lee Daniels' The Butler,2011,Dramatization,Drama,30000000.00,116632095.00,34881334.00,151513429.00,Oprah Winfrey,Supporting,2,121513429.00,,Wide,132
+Lee Daniels' The Butler,2011,Dramatization,Drama,30000000.00,116632095.00,34881334.00,151513429.00,Lee Daniels,Director,,121513429.00,,Wide,132
+Legends of Oz: Dorothy's Return,2013,Kids Fiction,Adventure,70000000.00,981001.00,0.00,981001.00,Dan Aykroyd,Supporting,2,-65392979.00,,Wide,88
+Legends of Oz: Dorothy's Return,2013,Kids Fiction,Adventure,70000000.00,981001.00,0.00,981001.00,Daniel St. Pierre,Director,,-65392979.00,,Wide,88
+Legends of Oz: Dorothy's Return,2013,Kids Fiction,Adventure,70000000.00,981001.00,0.00,981001.00,Lea Michele,Leading,1,-65392979.00,,Wide,88
+Legends of Oz: Dorothy's Return,2013,Kids Fiction,Adventure,70000000.00,981001.00,0.00,981001.00,Will Finn,Director,,-65392979.00,,Wide,88
+Les Miserables,2012,Historical Fiction,Musical,65000000.00,148809770.00,293213124.00,442022894.00,Russell Crowe,Leading,2,126584918.00,,Wide,158
+Les Miserables,2012,Historical Fiction,Musical,65000000.00,148809770.00,293213124.00,442022894.00,Hugh Jackman,Leading,1,248627349.33,,Wide,158
+Les Miserables,2012,Historical Fiction,Musical,65000000.00,148809770.00,293213124.00,442022894.00,Tom Hooper,Director,,377022894.00,,Wide,158
+Life of Pi,2011,Fantasy,Drama,120000000.00,124987022.00,483000000.00,607987022.00,Irrfan Khan,Supporting,2,487987022.00,,Wide,125
+Life of Pi,2011,Fantasy,Drama,120000000.00,124987022.00,483000000.00,607987022.00,Suraj Sharma,Leading,1,487987022.00,,Wide,125
+Life of Pi,2011,Fantasy,Drama,120000000.00,124987022.00,483000000.00,607987022.00,Ang Lee,Director,,487987022.00,,Wide,125
+Lincoln,2011,Dramatization,Drama,65000000.00,182207973.00,90792987.00,273000960.00,Daniel Day-Lewis,Leading,1,208000960.00,,Limited,149
+Lincoln,2011,Dramatization,Drama,65000000.00,182207973.00,90792987.00,273000960.00,Sally Field,Supporting,2,208000960.00,,Limited,149
+Lincoln,2011,Dramatization,Drama,65000000.00,182207973.00,90792987.00,273000960.00,Steven Spielberg,Director,,179603480.00,,Limited,149
+Lone Survivor,2011,Dramatization,Action,40000000.00,125095601.00,11100000.00,136195601.00,Mark Wahlberg,Leading,1,131927016.80,,Expands Wide,121
+Lone Survivor,2011,Dramatization,Action,40000000.00,125095601.00,11100000.00,136195601.00,Peter Berg,Director,,95669160.50,,Expands Wide,121
+Lone Survivor,2011,Dramatization,Action,40000000.00,125095601.00,11100000.00,136195601.00,Taylor Kitsch,Supporting,2,58284119.25,,Expands Wide,121
+Machete Kills,2013,Contemporary Fiction,Action,2000000.00,8008161.00,1400000.00,9408161.00,Michelle Rodriguez,Lead Ensemble Member,2,318663021.00,Machete,Wide,107
+Machete Kills,2013,Contemporary Fiction,Action,2000000.00,8008161.00,1400000.00,9408161.00,Robert Rodriguez,Director,,30544672.00,Machete,Wide,107
+Machete Kills,2013,Contemporary Fiction,Action,2000000.00,8008161.00,1400000.00,9408161.00,Danny Trejo,Lead Ensemble Member,1,7408161.00,Machete,Wide,107
+Madagascar 3: Europe's Most Wanted,2012,Kids Fiction,Adventure,145000000.00,216391482.00,530529789.00,746921271.00,Chris Rock,Lead Ensemble Member,2,601921271.00,Madagascar,Wide,85
+Madagascar 3: Europe's Most Wanted,2012,Kids Fiction,Adventure,145000000.00,216391482.00,530529789.00,746921271.00,Conrad Vernon,Director,,601921271.00,Madagascar,Wide,85
+Madagascar 3: Europe's Most Wanted,2012,Kids Fiction,Adventure,145000000.00,216391482.00,530529789.00,746921271.00,Eric Darnell,Director,,601921271.00,Madagascar,Wide,85
+Madagascar 3: Europe's Most Wanted,2012,Kids Fiction,Adventure,145000000.00,216391482.00,530529789.00,746921271.00,Tom McGrath,Director,,601921271.00,Madagascar,Wide,85
+Madagascar 3: Europe's Most Wanted,2012,Kids Fiction,Adventure,145000000.00,216391482.00,530529789.00,746921271.00,Ben Stiller,Lead Ensemble Member,1,195070365.25,Madagascar,Wide,85
+Mama,2012,Fantasy,Horror,15000000.00,71628180.00,76413073.00,148041253.00,Jessica Chastain,Leading,1,72213640.67,,Wide,109
+Mama,2012,Fantasy,Horror,15000000.00,71628180.00,76413073.00,148041253.00,Nikolaj Coster-Waldau,Supporting,2,133041253.00,,Wide,109
+Mama,2012,Fantasy,Horror,15000000.00,71628180.00,76413073.00,148041253.00,Andres Muschietti,Director,,133041253.00,,Wide,109
+Man of Steel,2012,Super Hero,Action,225000000.00,291045518.00,376954000.00,667999518.00,Zack Snyder,Director,,228878953.50,Superman,Wide,142
+Man of Steel,2012,Super Hero,Action,225000000.00,291045518.00,376954000.00,667999518.00,Henry Cavill,Leading,1,190662446.00,Superman,Wide,142
+Man of Steel,2012,Super Hero,Action,225000000.00,291045518.00,376954000.00,667999518.00,Amy Adams,Supporting,2,155748212.60,Superman,Wide,142
+Marvel's The Avengers,2012,Super Hero,Adventure,225000000.00,623279547.00,891000000.00,1514279547.00,Joss Whedon,Director,,1289279547.00,The Avengers,Wide,143
+Marvel's The Avengers,2012,Super Hero,Adventure,225000000.00,623279547.00,891000000.00,1514279547.00,Robert Downey Jr.,Leading,1,1150985910.00,The Avengers,Wide,143
+Marvel's The Avengers,2012,Super Hero,Adventure,225000000.00,623279547.00,891000000.00,1514279547.00,Chris Evans,Leading,2,759924662.50,The Avengers,Wide,143
+Men in Black 3,2011,Science Fiction,Adventure,215000000.00,179020854.00,445800300.00,624821154.00,Barry Sonnenfeld,Director,,409821154.00,Men in Black,Wide,104
+Men in Black 3,2011,Science Fiction,Adventure,215000000.00,179020854.00,445800300.00,624821154.00,Tommy Lee Jones,Leading,2,320195465.00,Men in Black,Wide,104
+Men in Black 3,2011,Science Fiction,Adventure,215000000.00,179020854.00,445800300.00,624821154.00,Will Smith,Leading,1,262097176.00,Men in Black,Wide,104
+Mirror Mirror,2012,Fantasy,Adventure,85000000.00,64935167.00,103676824.00,168611991.00,Tarsem Singh,Director,,110087213.00,,Wide,95
+Mirror Mirror,2012,Fantasy,Adventure,85000000.00,64935167.00,103676824.00,168611991.00,Julia Roberts,Lead Ensemble Member,1,83611991.00,,Wide,95
+Mirror Mirror,2012,Fantasy,Adventure,85000000.00,64935167.00,103676824.00,168611991.00,Lily Collins,Leading,2,49788779.00,,Wide,95
+Mission: Impossible - Ghost Protocol,2011,Contemporary Fiction,Action,145000000.00,209397903.00,485315327.00,694713230.00,Brad Bird,Director,,549713230.00,Mission: Impossible,Expands Wide,132
+Mission: Impossible - Ghost Protocol,2011,Contemporary Fiction,Action,145000000.00,209397903.00,485315327.00,694713230.00,Tom Cruise,Lead Ensemble Member,1,291540649.70,Mission: Impossible,Expands Wide,132
+Mission: Impossible - Ghost Protocol,2011,Contemporary Fiction,Action,145000000.00,209397903.00,485315327.00,694713230.00,Paula Patton,Lead Ensemble Member,2,197980446.70,Mission: Impossible,Expands Wide,132
+Moonrise Kingdom,2011,Historical Fiction,Drama,16000000.00,45512466.00,18500000.00,64012466.00,Bruce Willis,Lead Ensemble Member,1,136336821.00,,Limited,94
+Moonrise Kingdom,2011,Historical Fiction,Drama,16000000.00,45512466.00,18500000.00,64012466.00,Edward Norton,Lead Ensemble Member,2,48012466.00,,Limited,94
+Moonrise Kingdom,2011,Historical Fiction,Drama,16000000.00,45512466.00,18500000.00,64012466.00,Wes Anderson,Director,,48012466.00,,Limited,94
+Movie 43,2011,Multiple Creative Types,Comedy,10000000.00,8840453.00,14015065.00,22855518.00,Elizabeth Banks,Lead Ensemble Member,1,4643655.00,,Wide,97
+Movie 43,2011,Multiple Creative Types,Comedy,10000000.00,8840453.00,14015065.00,22855518.00,Halle Berry,Supporting,2,27604283.33,,Wide,97
+Movie 43,2011,Multiple Creative Types,Comedy,10000000.00,8840453.00,14015065.00,22855518.00,Brett Ratner,Director,,40662935.00,,Wide,97
+Movie 43,2011,Multiple Creative Types,Comedy,10000000.00,8840453.00,14015065.00,22855518.00,Elizabeth Banks,Director,,12855518.00,,Wide,97
+Movie 43,2011,Multiple Creative Types,Comedy,10000000.00,8840453.00,14015065.00,22855518.00,Griffin Dunne,Director,,12855518.00,,Wide,97
+Movie 43,2011,Multiple Creative Types,Comedy,10000000.00,8840453.00,14015065.00,22855518.00,James Duffy,Director,,12855518.00,,Wide,97
+Movie 43,2011,Multiple Creative Types,Comedy,10000000.00,8840453.00,14015065.00,22855518.00,James Gunn,Director,,12855518.00,,Wide,97
+Movie 43,2011,Multiple Creative Types,Comedy,10000000.00,8840453.00,14015065.00,22855518.00,Jonathan Van Tulleken,Director,,12855518.00,,Wide,97
+Movie 43,2011,Multiple Creative Types,Comedy,10000000.00,8840453.00,14015065.00,22855518.00,Patrik Forsberg,Director,,12855518.00,,Wide,97
+Movie 43,2011,Multiple Creative Types,Comedy,10000000.00,8840453.00,14015065.00,22855518.00,Peter Farrelly,Director,,18328581.00,,Wide,97
+Movie 43,2011,Multiple Creative Types,Comedy,10000000.00,8840453.00,14015065.00,22855518.00,Rusty Cundieff,Director,,12855518.00,,Wide,97
+Movie 43,2011,Multiple Creative Types,Comedy,10000000.00,8840453.00,14015065.00,22855518.00,Steve Carr,Director,,12855518.00,,Wide,97
+Movie 43,2011,Multiple Creative Types,Comedy,10000000.00,8840453.00,14015065.00,22855518.00,Steven Brill,Director,,12855518.00,,Wide,97
+Movie 43,2011,Multiple Creative Types,Comedy,10000000.00,8840453.00,14015065.00,22855518.00,Will Graham,Director,,12855518.00,,Wide,97
+Mr. Peabody & Sherman,2013,Kids Fiction,Adventure,145000000.00,108620691.00,158300000.00,266920691.00,Max Charles,Leading,2,122298300.00,,Wide,91
+Mr. Peabody & Sherman,2013,Kids Fiction,Adventure,145000000.00,108620691.00,158300000.00,266920691.00,Rob Minkoff,Director,,122298300.00,,Wide,91
+Mr. Peabody & Sherman,2013,Kids Fiction,Adventure,145000000.00,108620691.00,158300000.00,266920691.00,Ty Burrell,Leading,1,67312619.50,,Wide,91
+Muppets Most Wanted,2013,Kids Fiction,Comedy,55000000.00,50012328.00,17314611.00,67326939.00,Ricky Gervais,Supporting,1,12326939.00,Muppets,Wide,106
+Muppets Most Wanted,2013,Kids Fiction,Comedy,55000000.00,50012328.00,17314611.00,67326939.00,Ty Burrell,Supporting,2,67312619.50,Muppets,Wide,106
+Muppets Most Wanted,2013,Kids Fiction,Comedy,55000000.00,49779216.00,17314611.00,67093827.00,James Bobin,Director,,64149430.50,Muppets,Wide,106
+Nebraska,2013,Contemporary Fiction,Drama,12000000.00,17654912.00,0.00,17654912.00,Bruce Dern,Leading,1,5654912.00,,Limited,114
+Nebraska,2013,Contemporary Fiction,Drama,12000000.00,17654912.00,0.00,17654912.00,Will Forte,Supporting,2,5654912.00,,Limited,114
+Nebraska,2013,Contemporary Fiction,Drama,12000000.00,17654912.00,0.00,17654912.00,Alexander Payne,Director,,5654912.00,,Limited,114
+Neighbors,2013,Contemporary Fiction,Comedy,18000000.00,65525205.00,36582456.00,102107661.00,Seth Rogen,Leading,1,38192203.67,,Wide,91
+Neighbors,2013,Contemporary Fiction,Comedy,18000000.00,65525205.00,36582456.00,102107661.00,Zac Efron,Leading,2,82280171.67,,Wide,91
+Neighbors,2013,Contemporary Fiction,Comedy,18000000.00,19600000.00,2440980.00,22040980.00,Nicholas Stoller,Director,,52569876.50,,Wide,91
+New Year's Eve,2011,Contemporary Fiction,Romantic Comedy,26000000.00,54544638.00,89119261.00,143663899.00,Michelle Pfeiffer,Lead Ensemble Member,1,69371220.00,,Wide,117
+New Year's Eve,2011,Contemporary Fiction,Romantic Comedy,26000000.00,54544638.00,89119261.00,143663899.00,Zac Efron,Lead Ensemble Member,2,81094801.67,,Wide,117
+New Year's Eve,2011,Contemporary Fiction,Romantic Comedy,26000000.00,54544638.00,89119261.00,143663899.00,Garry Marshall,Director,,117663899.00,,Wide,117
+Non-Stop,2013,Contemporary Fiction,Action,50000000.00,90775935.00,92000000.00,182775935.00,Jaume Collet-Serra,Director,,133171105.00,,Wide,110
+Non-Stop,2013,Contemporary Fiction,Action,50000000.00,90775935.00,92000000.00,182775935.00,Liam Neeson,Leading,1,114826961.30,,Wide,110
+Non-Stop,2013,Contemporary Fiction,Action,50000000.00,90775935.00,92000000.00,182775935.00,Julianne Moore,Supporting,2,94105189.50,,Wide,110
+Now You See Me,2013,Contemporary Fiction,Thriller/Suspense,75000000.00,117723989.00,234000000.00,351723989.00,Louis Leterrier,Director,,276723989.00,,Wide,116
+Now You See Me,2013,Contemporary Fiction,Thriller/Suspense,75000000.00,117723989.00,234000000.00,351723989.00,Mark Ruffalo,Lead Ensemble Member,2,276723989.00,,Wide,116
+Now You See Me,2013,Contemporary Fiction,Thriller/Suspense,75000000.00,117723989.00,234000000.00,351723989.00,Jesse Eisenberg,Lead Ensemble Member,1,229070171.30,,Wide,116
+Oblivion,2012,Science Fiction,Thriller/Suspense,120000000.00,89107235.00,198430748.00,287537983.00,Tom Cruise,Leading,1,291540649.70,,Wide,125
+Oblivion,2012,Science Fiction,Thriller/Suspense,120000000.00,89107235.00,198430748.00,287537983.00,Joseph Kosinski,Director,,167537983.00,,Wide,125
+Oblivion,2012,Science Fiction,Thriller/Suspense,120000000.00,89107235.00,198430748.00,287537983.00,Morgan Freeman,Leading,2,167537983.00,,Wide,125
+Oculus,2013,Fantasy,Horror,5000000.00,26985957.00,3300000.00,30285957.00,Brenton Thwaites,Leading,2,25627468.00,,Wide,104
+Oculus,2013,Fantasy,Horror,5000000.00,26985957.00,3300000.00,30285957.00,Mike Flanagan,Director,,25627468.00,,Wide,104
+Oculus,2013,Fantasy,Horror,5000000.00,26985957.00,3300000.00,30285957.00,Karen Gillan,Leading,1,25627468.00,,Wide,104
+Olympus Has Fallen,2013,Contemporary Fiction,Thriller/Suspense,70000000.00,98927592.00,51634572.00,150562164.00,Antoine Fuqua,Director,,80562164.00,,Wide,120
+Olympus Has Fallen,2013,Contemporary Fiction,Thriller/Suspense,70000000.00,98927592.00,51634572.00,150562164.00,Aaron Eckhart,Lead Ensemble Member,2,43540814.50,,Wide,120
+Olympus Has Fallen,2013,Contemporary Fiction,Thriller/Suspense,70000000.00,98927592.00,51634572.00,150562164.00,Gerard Butler,Lead Ensemble Member,1,34431492.50,,Wide,120
+One Day,2011,Contemporary Fiction,Drama,15000000.00,13843771.00,34242282.00,48086053.00,Anne Hathaway,Leading,1,215302931.00,,Wide,107
+One Day,2011,Contemporary Fiction,Drama,15000000.00,13843771.00,34242282.00,48086053.00,Jim Sturgess,Leading,2,33086053.00,,Wide,107
+One Day,2011,Contemporary Fiction,Drama,15000000.00,13843771.00,34242282.00,48086053.00,Lone Scherfig,Director,,33086053.00,,Wide,107
+One Direction: This is Us,2013,Factual,Concert/Performance,10000000.00,28873374.00,39668412.00,68541786.00,Harry Styles,Documentary Subject,1,58541786.00,,Wide,92
+One Direction: This is Us,2013,Factual,Concert/Performance,10000000.00,28873374.00,39668412.00,68541786.00,Morgan Spurlock,Director,,58541786.00,,Wide,92
+One Direction: This is Us,2013,Factual,Concert/Performance,10000000.00,28873374.00,39668412.00,68541786.00,Niall Horan,Documentary Subject,2,58541786.00,,Wide,92
+One for the Money,2011,Contemporary Fiction,Comedy,42000000.00,26414527.00,9782694.00,36197221.00,Jason O'Mara,Supporting,2,-5802779.00,,Wide,106
+One for the Money,2011,Contemporary Fiction,Comedy,42000000.00,26414527.00,9782694.00,36197221.00,Katherine Heigl,Leading,1,-1266029.00,,Wide,106
+One for the Money,2011,Contemporary Fiction,Comedy,42000000.00,26414527.00,9782694.00,36197221.00,Julie Anne Robinson,Director,,-5802779.00,,Wide,106
+Oz the Great and Powerful,2011,Fantasy,Adventure,200000000.00,234770996.00,254800000.00,489570996.00,Mila Kunis,Lead Ensemble Member,2,394507785.00,,Wide,130
+Oz the Great and Powerful,2011,Fantasy,Adventure,200000000.00,234770996.00,254800000.00,489570996.00,Sam Raimi,Director,,289570996.00,,Wide,130
+Oz the Great and Powerful,2011,Fantasy,Adventure,200000000.00,234770996.00,254800000.00,489570996.00,James Franco,Lead Ensemble Member,1,199848744.00,,Wide,130
+Pacific Rim,2013,Science Fiction,Action,190000000.00,101802906.00,309200000.00,411002906.00,Charlie Hunnam,Leading,1,221002906.00,,Wide,131
+Pacific Rim,2013,Science Fiction,Action,190000000.00,101802906.00,309200000.00,411002906.00,Diego Klattenhoff,Supporting,2,221002906.00,,Wide,131
+Pacific Rim,2013,Science Fiction,Action,190000000.00,101802906.00,309200000.00,411002906.00,Guillermo Del Toro,Director,,221002906.00,,Wide,131
+Pain & Gain,2012,Contemporary Fiction,Action,26000000.00,49875291.00,31400000.00,81275291.00,Michael Bay,Director,,492034683.50,,Wide,129
+Pain & Gain,2012,Contemporary Fiction,Action,26000000.00,49875291.00,31400000.00,81275291.00,Dwayne Johnson,Leading,2,141794899.75,,Wide,129
+Pain & Gain,2012,Contemporary Fiction,Action,26000000.00,49875291.00,31400000.00,81275291.00,Mark Wahlberg,Leading,1,131927016.80,,Wide,129
+Paranoia,2012,Contemporary Fiction,Thriller/Suspense,40000000.00,7388654.00,0.00,7388654.00,Liam Hemsworth,Leading,1,-32611346.00,,Wide,146
+Paranoia,2012,Contemporary Fiction,Thriller/Suspense,40000000.00,7388654.00,0.00,7388654.00,Robert Luketic,Director,,-32611346.00,,Wide,146
+Paranoia,2012,Contemporary Fiction,Thriller/Suspense,40000000.00,7388654.00,0.00,7388654.00,Gary Oldman,Supporting,2,50136610.67,,Wide,146
+Paranormal Activity 3,2011,Fantasy,Horror,5000000.00,104028807.00,103011037.00,207039844.00,Ariel Schulman,Director,,169916843.00,Paranormal Activity,Wide,81
+Paranormal Activity 3,2011,Fantasy,Horror,5000000.00,104028807.00,103011037.00,207039844.00,Henry Joost,Director,,169916843.00,Paranormal Activity,Wide,81
+Paranormal Activity 3,2011,Fantasy,Horror,5000000.00,104028807.00,103011037.00,207039844.00,Chris Smith,Supporting,2,202039844.00,Paranormal Activity,Wide,81
+Paranormal Activity 3,2011,Fantasy,Horror,5000000.00,104028807.00,103011037.00,207039844.00,Lauren Bittner,Supporting,1,202039844.00,Paranormal Activity,Wide,81
+Paranormal Activity 4,2012,Fantasy,Horror,5000000.00,53900335.00,88893507.00,142793842.00,Kathryn Newton,Supporting,1,137793842.00,Paranormal Activity,Wide,87
+Paranormal Activity 4,2012,Fantasy,Horror,5000000.00,53900335.00,88893507.00,142793842.00,Matt Shively,Supporting,2,137793842.00,Paranormal Activity,Wide,87
+Paranormal Activity 4,2012,Fantasy,Horror,5000000.00,53900335.00,88893507.00,142793842.00,Ariel Schulman,Director,,169916843.00,Paranormal Activity,Wide,87
+Paranormal Activity 4,2012,Fantasy,Horror,5000000.00,53900335.00,88893507.00,142793842.00,Henry Joost,Director,,169916843.00,Paranormal Activity,Wide,87
+Paranormal Activity: The Marked Ones,2013,Fantasy,Horror,5000000.00,32462372.00,53900000.00,86362372.00,Andrew Jacobs,Leading,1,81362372.00,Paranormal Activity,Wide,84
+Paranormal Activity: The Marked Ones,2013,Fantasy,Horror,5000000.00,32462372.00,53900000.00,86362372.00,Christopher Landon,Director,,81362372.00,Paranormal Activity,Wide,84
+Paranormal Activity: The Marked Ones,2013,Fantasy,Horror,5000000.00,32462372.00,53900000.00,86362372.00,Noemi Gonzalez,Supporting,2,81362372.00,Paranormal Activity,Wide,84
+ParaNorman,2011,Kids Fiction,Comedy,60000000.00,56003051.00,52155960.00,108159011.00,Kodi Smit-McPhee,Leading,1,48159011.00,,Wide,96
+ParaNorman,2011,Kids Fiction,Comedy,60000000.00,56003051.00,52155960.00,108159011.00,Tucker Albrizzi,Leading,2,48159011.00,,Wide,96
+ParaNorman,2011,Kids Fiction,Comedy,60000000.00,56003051.00,52155960.00,108159011.00,Chris Butler,Director,,48159011.00,,Wide,96
+ParaNorman,2011,Kids Fiction,Comedy,60000000.00,56003051.00,52155960.00,108159011.00,Sam Fell,Director,,48159011.00,,Wide,96
+Parental Guidance,2012,Contemporary Fiction,Comedy,25000000.00,77267296.00,42901337.00,120168633.00,Bette Midler,Lead Ensemble Member,2,95168633.00,,Wide,104
+Parental Guidance,2012,Contemporary Fiction,Comedy,25000000.00,77267296.00,42901337.00,120168633.00,Billy Crystal,Lead Ensemble Member,1,95168633.00,,Wide,104
+Parental Guidance,2012,Contemporary Fiction,Comedy,25000000.00,77267296.00,42901337.00,120168633.00,Andy Fickman,Director,,95168633.00,,Wide,104
+Parker,2011,Contemporary Fiction,Thriller/Suspense,35000000.00,17616641.00,28730010.00,46346651.00,Jason Statham,Leading,1,54899556.50,,Wide,108
+Parker,2011,Contemporary Fiction,Thriller/Suspense,35000000.00,17616641.00,28730010.00,46346651.00,Jennifer Lopez,Leading,2,27249427.00,,Wide,108
+Parker,2011,Contemporary Fiction,Thriller/Suspense,35000000.00,17616641.00,28730010.00,46346651.00,Taylor Hackford,Director,,11346651.00,,Wide,108
+Peeples,2012,Contemporary Fiction,Romantic Comedy,15000000.00,9177065.00,0.00,9177065.00,Kerry Washington,Lead Ensemble Member,2,-13686404.00,,Wide,95
+Peeples,2012,Contemporary Fiction,Romantic Comedy,15000000.00,9177065.00,0.00,9177065.00,Tina Gordon Chism,Director,,-5822935.00,,Wide,95
+Peeples,2012,Contemporary Fiction,Romantic Comedy,15000000.00,9177065.00,0.00,9177065.00,Craig Robinson,Lead Ensemble Member,1,-5822935.00,,Wide,95
+People Like Us,2011,Contemporary Fiction,Drama,16000000.00,12431792.00,0.00,12431792.00,Chris Pine,Leading,1,33904602.00,,Wide,115
+People Like Us,2011,Contemporary Fiction,Drama,16000000.00,12431792.00,0.00,12431792.00,Elizabeth Banks,Leading,2,4643655.00,,Wide,115
+People Like Us,2011,Contemporary Fiction,Drama,16000000.00,12431792.00,0.00,12431792.00,Alex Kurtzman,Director,,-3568208.00,,Wide,115
+Percy Jackson: Sea of Monsters,2013,Fantasy,Adventure,90000000.00,68559554.00,132300000.00,200859554.00,Logan Lerman,Lead Ensemble Member,1,110859554.00,Percy Jackson,Wide,105
+Percy Jackson: Sea of Monsters,2013,Fantasy,Adventure,90000000.00,68559554.00,132300000.00,200859554.00,Thor Freudenthal,Director,,110859554.00,Percy Jackson,Wide,105
+Percy Jackson: Sea of Monsters,2013,Fantasy,Adventure,90000000.00,68559554.00,132300000.00,200859554.00,Alexandra Daddario,Lead Ensemble Member,2,64976435.50,Percy Jackson,Wide,105
+Pirates of the Caribbean: On Stranger Tides,2011,Fantasy,Adventure,250000000.00,241063875.00,802600000.00,1043663875.00,Rob Marshall,Director,,793663875.00,Pirates of the Caribbean,Wide,136
+Pirates of the Caribbean: On Stranger Tides,2011,Fantasy,Adventure,250000000.00,241063875.00,802600000.00,1043663875.00,Penelope Cruz,Leading,2,419518795.00,Pirates of the Caribbean,Wide,136
+Pirates of the Caribbean: On Stranger Tides,2011,Fantasy,Adventure,250000000.00,241063875.00,802600000.00,1043663875.00,Johnny Depp,Leading,1,296386119.70,Pirates of the Caribbean,Wide,136
+Pitch Perfect,2012,Contemporary Fiction,Comedy,17000000.00,65001093.00,50330084.00,115331177.00,Anna Kendrick,Lead Ensemble Member,1,98331177.00,,Expands Wide,112
+Pitch Perfect,2012,Contemporary Fiction,Comedy,17000000.00,65001093.00,50330084.00,115331177.00,Skylar Astin,Lead Ensemble Member,2,63763471.50,,Expands Wide,112
+Pitch Perfect,2012,Contemporary Fiction,Comedy,17000000.00,65001093.00,50330084.00,115331177.00,Jason Moore,Director,,98331177.00,,Expands Wide,112
+Pompeii,2012,Historical Fiction,Drama,80000000.00,23169033.00,71400000.00,94569033.00,Carrie Anne Moss,Supporting,2,14569033.00,,Wide,102
+Pompeii,2012,Historical Fiction,Drama,80000000.00,23169033.00,71400000.00,94569033.00,Kit Harington,Leading,1,21256816.00,,Wide,102
+Pompeii,2012,Historical Fiction,Drama,80000000.00,23169033.00,71400000.00,94569033.00,Paul W.S. Anderson,Director,,14569033.00,,Wide,102
+Premium Rush,2011,Contemporary Fiction,Thriller/Suspense,35000000.00,20275446.00,11117755.00,31393201.00,Joseph Gordon-Levitt,Leading,1,16868546.67,,Wide,91
+Premium Rush,2011,Contemporary Fiction,Thriller/Suspense,35000000.00,20275446.00,11117755.00,31393201.00,David Koepp,Director,,-3606799.00,,Wide,91
+Premium Rush,2011,Contemporary Fiction,Thriller/Suspense,35000000.00,20275446.00,11117755.00,31393201.00,Michael Shannon,Supporting,2,-4432481.67,,Wide,91
+Prisoners,2013,Contemporary Fiction,Thriller/Suspense,46000000.00,61002302.00,52400000.00,113402302.00,Hugh Jackman,Leading,1,248627349.30,,Wide,153
+Prisoners,2013,Contemporary Fiction,Thriller/Suspense,46000000.00,61002302.00,52400000.00,113402302.00,Denis Villeneuve,Director,,67402302.00,,Wide,153
+Prisoners,2013,Contemporary Fiction,Thriller/Suspense,46000000.00,61002302.00,52400000.00,113402302.00,Jake Gyllenhaal,Leading,2,52721788.00,,Wide,153
+Project X,2011,Contemporary Fiction,Comedy,12000000.00,54731865.00,42000000.00,96731865.00,Oliver Cooper,Leading,2,84731865.00,Project X,Wide,87
+Project X,2011,Contemporary Fiction,Comedy,12000000.00,54731865.00,42000000.00,96731865.00,Thomas Mann,Leading,1,84731865.00,Project X,Wide,87
+Project X,2011,Contemporary Fiction,Comedy,12000000.00,54731865.00,42000000.00,96731865.00,Nima Nourizadeh,Director,,84731865.00,Project X,Wide,87
+Promised Land,2011,Historical Fiction,Drama,15000000.00,7597898.00,1702438.00,9300336.00,John Krasinski,Supporting,2,-5699664.00,,Oscar Qualifying Run,106
+Promised Land,2011,Historical Fiction,Drama,15000000.00,7597898.00,1702438.00,9300336.00,Matt Damon,Leading,1,78617205.00,,Oscar Qualifying Run,106
+Promised Land,2011,Historical Fiction,Drama,15000000.00,7597898.00,1702438.00,9300336.00,Gus Van Sant,Director,,-5699664.00,,Oscar Qualifying Run,106
+Puss in Boots,2011,Kids Fiction,Adventure,130000000.00,149260504.00,405726973.00,554987477.00,Antonio Banderas,Leading,1,424987477.00,Shrek,Wide,90
+Puss in Boots,2011,Kids Fiction,Adventure,130000000.00,149260504.00,405726973.00,554987477.00,Chris Miller,Director,,424987477.00,Shrek,Wide,90
+Puss in Boots,2011,Kids Fiction,Adventure,130000000.00,149260504.00,405726973.00,554987477.00,Salma Hayek,Supporting,2,228113367.50,Shrek,Wide,90
+R.I.P.D.,2011,Science Fiction,Action,130000000.00,33618855.00,45401092.00,79019947.00,Ryan Reynolds,Leading,2,38219379.00,,Wide,98
+R.I.P.D.,2011,Science Fiction,Action,130000000.00,33618855.00,45401092.00,79019947.00,Jeff Bridges,Leading,1,-50980053.00,,Wide,98
+R.I.P.D.,2011,Science Fiction,Action,130000000.00,33618855.00,45401092.00,79019947.00,Robert Schwentke,Director,,-50980053.00,,Wide,98
+Rango,2011,Kids Fiction,Adventure,135000000.00,123257581.00,122246993.00,245504574.00,Johnny Depp,Leading,1,296386119.70,,Wide,107
+Rango,2011,Kids Fiction,Adventure,135000000.00,123257581.00,122246993.00,245504574.00,Isla Fisher,Leading,2,110504574.00,,Wide,107
+Rango,2011,Kids Fiction,Adventure,135000000.00,123257581.00,122246993.00,245504574.00,Gore Verbinski,Director,,47747242.00,,Wide,107
+RED 2,2013,Contemporary Fiction,Action,84000000.00,53262560.00,83900000.00,137162560.00,Bruce Willis,Lead Ensemble Member,1,136336821.00,RED,Wide,116
+RED 2,2013,Contemporary Fiction,Action,84000000.00,53262560.00,83900000.00,137162560.00,Dean Parisot,Director,,53162560.00,RED,Wide,116
+RED 2,2013,Contemporary Fiction,Action,84000000.00,53262560.00,83900000.00,137162560.00,John Malkovich,Lead Ensemble Member,2,53162560.00,RED,Wide,116
+Red State,2011,Contemporary Fiction,Horror,4000000.00,1065429.00,0.00,1065429.00,Kevin Smith,Director,,-2934571.00,,Limited,97
+Red State,2011,Contemporary Fiction,Horror,4000000.00,1065429.00,0.00,1065429.00,Joseph Keenan,Supporting,2,-2934571.00,,Limited,97
+Red State,2011,Contemporary Fiction,Horror,4000000.00,1065429.00,0.00,1065429.00,Michael Parks,Supporting,1,-2934571.00,,Limited,97
+Redemption Road,2011,Contemporary Fiction,Drama,2300000.00,29384.00,0.00,29384.00,Michael Clarke Duncan,Lead Ensemble Member,1,-2270616.00,,Limited,90
+Redemption Road,2011,Contemporary Fiction,Drama,2300000.00,29384.00,0.00,29384.00,Mario Van Peebles,Director,,-2270616.00,,Limited,90
+Riddick,2011,Science Fiction,Action,38000000.00,42025135.00,50400000.00,92425135.00,Vin Diesel,Leading,1,396394766.70,Riddick,Wide,119
+Riddick,2011,Science Fiction,Action,38000000.00,42025135.00,50400000.00,92425135.00,David Twohy,Director,,54425135.00,Riddick,Wide,119
+Riddick,2011,Science Fiction,Action,38000000.00,42025135.00,50400000.00,92425135.00,Jordi Molla,Supporting,2,43061607.00,Riddick,Wide,119
+Ride Along,2011,Contemporary Fiction,Comedy,25000000.00,134202565.00,18923765.00,153126330.00,Ice Cube,Leading,1,128126330.00,,Wide,100
+Ride Along,2011,Contemporary Fiction,Comedy,25000000.00,134202565.00,18923765.00,153126330.00,Kevin Hart,Leading,2,78935190.50,,Wide,100
+Ride Along,2011,Contemporary Fiction,Comedy,25000000.00,134202565.00,18587232.00,152789797.00,Tim Story,Director,,106140727.00,,Wide,100
+Rio,2011,Kids Fiction,Adventure,90000000.00,143619809.00,343900000.00,487519809.00,Carlos Saldanha,Director,,397519809.00,Rio,Wide,96
+Rio,2011,Kids Fiction,Adventure,90000000.00,143619809.00,343900000.00,487519809.00,Jesse Eisenberg,Lead Ensemble Member,2,229070171.30,Rio,Wide,96
+Rio,2011,Kids Fiction,Adventure,90000000.00,143619809.00,343900000.00,487519809.00,Anne Hathaway,Lead Ensemble Member,1,215302931.00,Rio,Wide,96
+Rise of the Guardians,2012,Kids Fiction,Adventure,145000000.00,103412758.00,203488144.00,306900902.00,Peter Ramsey,Director,,161900902.00,,Wide,97
+Rise of the Guardians,2012,Kids Fiction,Adventure,145000000.00,103412758.00,203488144.00,306900902.00,Alec Baldwin,Lead Ensemble Member,1,88423849.33,,Wide,97
+Rise of the Guardians,2012,Kids Fiction,Adventure,145000000.00,103412758.00,203488144.00,306900902.00,Jude Law,Lead Ensemble Member,2,71308268.33,,Wide,97
+Rise of the Planet of the Apes,2011,Science Fiction,Adventure,93000000.00,176760185.00,306100000.00,482860185.00,Freida Pinto,Leading,2,389860185.00,Planet of the Apes,Wide,120
+Rise of the Planet of the Apes,2011,Science Fiction,Adventure,93000000.00,176760185.00,306100000.00,482860185.00,Karma Tentrin,Director,,389860185.00,Planet of the Apes,Wide,120
+Rise of the Planet of the Apes,2011,Science Fiction,Adventure,93000000.00,176760185.00,306100000.00,482860185.00,James Franco,Leading,1,199848744.00,Planet of the Apes,Wide,120
+RoboCop,2013,Science Fiction,Action,120000000.00,58317504.00,183973073.00,242290577.00,Jose Padilha,Director,,122568367.00,,Wide,116
+RoboCop,2013,Science Fiction,Action,120000000.00,58317504.00,183973073.00,242290577.00,Joel Kinnaman,Leading,1,122568367.00,,Wide,116
+RoboCop,2013,Science Fiction,Action,120000000.00,58317504.00,183973073.00,242290577.00,Gary Oldman,Supporting,2,50136610.67,,Wide,116
+Rock of Ages,2011,Contemporary Fiction,Musical,70000000.00,38518613.00,11600000.00,50118613.00,Adam Shankman,Director,,-19881387.00,,Wide,123
+Rock of Ages,2011,Contemporary Fiction,Musical,70000000.00,38518613.00,11600000.00,50118613.00,Diego Boneta,Lead Ensemble Member,2,-19881387.00,,Wide,123
+Rock of Ages,2011,Contemporary Fiction,Musical,70000000.00,38518613.00,11600000.00,50118613.00,Julianne Hough,Lead Ensemble Member,1,23031118.00,,Wide,123
+Runner Runner,2013,Contemporary Fiction,Thriller/Suspense,30000000.00,19316646.00,43300000.00,62616646.00,Gemma Arterton,Leading,2,104160061.50,,Wide,91
+Runner Runner,2013,Contemporary Fiction,Thriller/Suspense,30000000.00,19316646.00,43300000.00,62616646.00,Justin Timberlake,Leading,1,83840655.00,,Wide,91
+Runner Runner,2013,Contemporary Fiction,Thriller/Suspense,30000000.00,19316646.00,43300000.00,62616646.00,Brad Furman,Director,,32616646.00,,Wide,91
+Rush,2013,Dramatization,Drama,38000000.00,26947624.00,68276971.00,95224595.00,Chris Hemsworth,Leading,1,273303743.70,,Limited,123
+Rush,2013,Dramatization,Drama,38000000.00,26947624.00,68276971.00,95224595.00,Daniel Bruhl,Leading,2,18689383.50,,Limited,123
+Rush,2013,Dramatization,Drama,38000000.00,26947624.00,68276971.00,95224595.00,Ron Howard,Director,,57224595.00,,Limited,123
+Safe,2011,Contemporary Fiction,Action,33000000.00,17142080.00,24353133.00,41495213.00,Jason Statham,Leading,1,54899556.50,,Wide,95
+Safe,2011,Contemporary Fiction,Action,33000000.00,17142080.00,24353133.00,41495213.00,Boaz Yakin,Director,,8495213.00,,Wide,95
+Safe,2011,Contemporary Fiction,Action,33000000.00,17142080.00,24353133.00,41495213.00,Robert John Burke,Supporting,2,8495213.00,,Wide,95
+Safe Haven,2011,Contemporary Fiction,Drama,28000000.00,71399120.00,22544503.00,93943623.00,Josh Duhamel,Leading,1,65943623.00,,Wide,115
+Safe Haven,2011,Contemporary Fiction,Drama,28000000.00,71399120.00,22544503.00,93943623.00,Julianne Hough,Leading,2,23031118.00,,Wide,115
+Safe Haven,2011,Contemporary Fiction,Drama,28000000.00,71399120.00,22544503.00,93943623.00,Lasse Hallstrom,Director,,65943623.00,,Wide,115
+Salvando al Soldado Perez,2011,Contemporary Fiction,Action,4500000.00,1400726.00,7929739.00,9330465.00,Beto Gomez,Director,,4830465.00,,Limited,82
+Salvando al Soldado Perez,2011,Contemporary Fiction,Action,4500000.00,1400726.00,7929739.00,9330465.00,Benito Garcia,Lead Ensemble Member,2,4830465.00,,Limited,82
+Salvando al Soldado Perez,2011,Contemporary Fiction,Action,4500000.00,1400726.00,7929739.00,9330465.00,Miguel Rodarte,Lead Ensemble Member,1,4830465.00,,Limited,82
+Saving Mr. Banks,2013,Dramatization,Drama,35000000.00,83299761.00,17900000.00,101199761.00,Emma Thompson,Leading,1,66199761.00,,Expands Wide,125
+Saving Mr. Banks,2013,Dramatization,Drama,35000000.00,83299761.00,17900000.00,101199761.00,Tom Hanks,Leading,2,84691022.67,,Expands Wide,125
+Saving Mr. Banks,2013,Dramatization,Drama,35000000.00,83299761.00,17900000.00,101199761.00,John Lee Hancock,Director,,66199761.00,,Expands Wide,125
+Scary Movie 5,2011,Fantasy,Comedy,20000000.00,32015787.00,31445527.00,63461314.00,Ashley Tisdale,Lead Ensemble Member,1,43461314.00,Scary Movie,Wide,86
+Scary Movie 5,2011,Fantasy,Comedy,20000000.00,32015787.00,31445527.00,63461314.00,Simon Rex,Supporting,2,43461314.00,Scary Movie,Wide,86
+Scary Movie 5,2011,Fantasy,Comedy,20000000.00,32015787.00,31445527.00,63461314.00,Malcolm D. Lee,Director,,49043254.50,Scary Movie,Wide,86
+Seven Psychopaths,2012,Contemporary Fiction,Comedy,13500000.00,15024049.00,8468269.00,23492318.00,Colin Farrell,Lead Ensemble Member,1,53623904.00,,Wide,109
+Seven Psychopaths,2012,Contemporary Fiction,Comedy,13500000.00,15024049.00,8468269.00,23492318.00,Sam Rockwell,Lead Ensemble Member,2,9992318.00,,Wide,109
+Seven Psychopaths,2012,Contemporary Fiction,Comedy,13500000.00,15024049.00,8468269.00,23492318.00,Martin McDonagh,Director,,9992318.00,,Wide,109
+Shame,2011,Contemporary Fiction,Drama,6500000.00,4002293.00,6779395.00,10781688.00,Carey Mulligan,Leading,2,33668256.50,,Limited,99
+Shame,2011,Contemporary Fiction,Drama,6500000.00,4002293.00,6779395.00,10781688.00,Michael Fassbender,Leading,1,100858925.30,,Limited,99
+Shame,2011,Contemporary Fiction,Drama,6500000.00,4002293.00,6779395.00,10781688.00,Steve Rodney McQueen,Director,,81326840.50,,Limited,99
+Shark Night 3D,2011,Contemporary Fiction,Horror,25000000.00,18877153.00,13332588.00,32209741.00,David R. Ellis,Director,,7209741.00,,Wide,85
+Shark Night 3D,2011,Contemporary Fiction,Horror,25000000.00,18877153.00,13332588.00,32209741.00,Dustin Milligan,Supporting,2,7209741.00,,Wide,85
+Shark Night 3D,2011,Contemporary Fiction,Horror,25000000.00,18877153.00,13332588.00,32209741.00,Sara Paxton,Leading,1,7209741.00,,Wide,85
+Side Effects,2012,Science Fiction,Thriller/Suspense,30000000.00,32172757.00,28115606.00,60288363.00,Rooney Mara,Leading,2,86729300.50,,Wide,105
+Side Effects,2012,Science Fiction,Thriller/Suspense,30000000.00,32172757.00,28115606.00,60288363.00,Jude Law,Leading,1,71308268.33,,Wide,105
+Side Effects,2012,Science Fiction,Thriller/Suspense,30000000.00,32172757.00,28115606.00,60288363.00,Steven Soderbergh,Director,,35672049.00,,Wide,105
+Silent Hill: Revelation 3D,2012,Fantasy,Horror,20000000.00,17530219.00,30414380.00,47944599.00,Kit Harington,Leading,2,21256816.00,Silent Hill,Wide,94
+Silent Hill: Revelation 3D,2012,Fantasy,Horror,20000000.00,17530219.00,30414380.00,47944599.00,Adelaide Clemens,Leading,1,27944599.00,Silent Hill,Wide,94
+Silent Hill: Revelation 3D,2012,Fantasy,Horror,20000000.00,17530219.00,30414380.00,47944599.00,Michael J. Bassett,Director,,27944599.00,Silent Hill,Wide,94
+Silver Linings Playbook,2012,Contemporary Fiction,Drama,21000000.00,132092958.00,95224439.00,227317397.00,Bradley Cooper,Leading,1,125865374.00,,Limited,122
+Silver Linings Playbook,2012,Contemporary Fiction,Drama,21000000.00,132092958.00,95224439.00,227317397.00,Jennifer Lawrence,Leading,2,512832045.33,,Limited,122
+Silver Linings Playbook,2012,Contemporary Fiction,Drama,21000000.00,132092958.00,95224439.00,227317397.00,David O. Russell,Director,,207638990.50,,Limited,122
+Sinister,2012,Fantasy,Thriller/Suspense,3000000.00,48086903.00,39640904.00,87727807.00,Juliet Rylance,Supporting,2,84727807.00,,Wide,110
+Sinister,2012,Fantasy,Thriller/Suspense,3000000.00,48086903.00,39640904.00,87727807.00,Scott Derrickson,Director,,84727807.00,,Wide,110
+Sinister,2012,Fantasy,Thriller/Suspense,3000000.00,48086903.00,39640904.00,87727807.00,Ethan Hawke,Leading,1,55110096.33,,Wide,110
+Skyfall,2012,Contemporary Fiction,Action,200000000.00,304360277.00,804333804.00,1108694081.00,Javier Bardem,Leading,2,908694081.00,James Bond,Wide,143
+Skyfall,2012,Contemporary Fiction,Action,200000000.00,304360277.00,804333804.00,1108694081.00,Sam Mendes,Director,,908694081.00,James Bond,Wide,143
+Skyfall,2012,Contemporary Fiction,Action,200000000.00,304360277.00,804333804.00,1108694081.00,Daniel Craig,Leading,1,354924879.00,James Bond,Wide,143
+Snitch,2012,Contemporary Fiction,Thriller/Suspense,15000000.00,42930462.00,5190492.00,48120954.00,Dwayne Johnson,Leading,1,141794901.75,,Wide,95
+Snitch,2012,Contemporary Fiction,Thriller/Suspense,15000000.00,42930462.00,5190492.00,48120954.00,Barry Pepper,Supporting,2,33120954.00,,Wide,95
+Snitch,2012,Contemporary Fiction,Thriller/Suspense,15000000.00,42930462.00,5190492.00,48120954.00,Ric Roman Waugh,Director,,33120954.00,,Wide,95
+Snow White and the Huntsman,2011,Fantasy,Adventure,170000000.00,155136755.00,245774445.00,400911200.00,Kristen Stewart,Leading,1,503269964.70,Snow White and the Huntsman,Wide,127
+Snow White and the Huntsman,2011,Fantasy,Adventure,170000000.00,155136755.00,245774445.00,400911200.00,Rupert Sanders,Director,,230911200.00,Snow White and the Huntsman,Wide,127
+Snow White and the Huntsman,2011,Fantasy,Adventure,170000000.00,155136755.00,245774445.00,400911200.00,Charlize Theron,Leading,2,120830778.00,Snow White and the Huntsman,Wide,127
+Son of God,2013,Dramatization,Drama,22000000.00,59673274.00,7812962.00,67486236.00,Diogo Morgado,Leading,1,45486236.00,,Wide,138
+Son of God,2013,Dramatization,Drama,22000000.00,59673274.00,7812962.00,67486236.00,Greg Hicks,Supporting,2,45486236.00,,Wide,138
+Son of God,2013,Dramatization,Drama,22000000.00,59646236.00,7812962.00,67459198.00,Christopher Spencer,Director,,45484333.00,,Wide,138
+Sparkle,2012,Historical Fiction,Drama,10000000.00,24397469.00,262854.00,24660323.00,Jordin Sparks,Lead Ensemble Member,1,14660323.00,,Wide,112
+Sparkle,2012,Historical Fiction,Drama,10000000.00,24397469.00,262854.00,24660323.00,Whitney Houston,Lead Ensemble Member,2,14660323.00,,Wide,112
+Sparkle,2012,Historical Fiction,Drama,10000000.00,24397469.00,262854.00,24660323.00,Salim Akil,Director,,22909462.00,,Wide,112
+Spring Breakers,2012,Contemporary Fiction,Thriller/Suspense,5000000.00,14124286.00,16545245.00,30669531.00,James Franco,Leading,1,199848744.00,,Limited,0
+Spring Breakers,2012,Contemporary Fiction,Thriller/Suspense,5000000.00,14124286.00,16545245.00,30669531.00,Harmony Korine,Director,,25669531.00,,Limited,0
+Spring Breakers,2012,Contemporary Fiction,Thriller/Suspense,5000000.00,14124286.00,16545245.00,30669531.00,Selena Gomez,Leading,2,9085734.50,,Limited,0
+Spy Kids: All the Time in the World,2011,Kids Fiction,Adventure,27000000.00,38536376.00,42144807.00,80681183.00,Jessica Alba,Leading,1,53681183.00,Spy Kids,Wide,89
+Spy Kids: All the Time in the World,2011,Kids Fiction,Adventure,27000000.00,38536376.00,42144807.00,80681183.00,Joel McHale,Leading,2,53681183.00,Spy Kids,Wide,89
+Spy Kids: All the Time in the World,2011,Kids Fiction,Adventure,27000000.00,38536376.00,42144807.00,80681183.00,Robert Rodriguez,Director,,30544672.00,Spy Kids,Wide,89
+Star Trek Into Darkness,2012,Science Fiction,Adventure,190000000.00,228778661.00,238200000.00,466978661.00,J.J. Abrams,Director,,276978661.00,Star Trek,Wide,132
+Star Trek Into Darkness,2012,Science Fiction,Adventure,190000000.00,228778661.00,238200000.00,466978661.00,John Cho,Lead Ensemble Member,1,276978661.00,Star Trek,Wide,132
+Star Trek Into Darkness,2012,Science Fiction,Adventure,190000000.00,228778661.00,238200000.00,466978661.00,Benedict Cumberbatch,Lead Ensemble Member,2,128566416.50,Star Trek,Wide,132
+Step Up Revolution,2011,Contemporary Fiction,Drama,33000000.00,35074677.00,130477613.00,165552290.00,Kathryn McCormick,Lead Ensemble Member,2,132552290.00,Step Up,Wide,97
+Step Up Revolution,2011,Contemporary Fiction,Drama,33000000.00,35074677.00,130477613.00,165552290.00,Ryan Guzman,Lead Ensemble Member,1,132552290.00,Step Up,Wide,97
+Step Up Revolution,2011,Contemporary Fiction,Drama,33000000.00,35074677.00,130477613.00,165552290.00,Scott Speer,Director,,132552290.00,Step Up,Wide,97
+Sucker Punch,2011,Fantasy,Action,75000000.00,36392502.00,53365887.00,89758389.00,Zack Snyder,Director,,228878953.50,,Wide,110
+Sucker Punch,2011,Fantasy,Action,75000000.00,36392502.00,53365887.00,89758389.00,Abbie Cornish,Lead Ensemble Member,2,14758389.00,,Wide,110
+Sucker Punch,2011,Fantasy,Action,75000000.00,36392502.00,53365887.00,89758389.00,Emily Browning,Lead Ensemble Member,1,14758389.00,,Wide,110
+Take Shelter,2011,Fantasy,Drama,4750000.00,1728953.00,1400000.00,3128953.00,Jessica Chastain,Supporting,2,72213640.67,,Limited,120
+Take Shelter,2011,Fantasy,Drama,4750000.00,1728953.00,1400000.00,3128953.00,Michael Shannon,Leading,1,-4432481.67,,Limited,120
+Take Shelter,2011,Fantasy,Drama,4750000.00,1728953.00,1400000.00,3128953.00,Jeff Nichols,Director,,-1621047.00,,Limited,120
+Ted,2011,Contemporary Fiction,Comedy,50000000.00,218665740.00,330778834.00,549444574.00,Mark Wahlberg,Leading,1,131927016.80,Ted,Wide,106
+Ted,2011,Contemporary Fiction,Comedy,50000000.00,218665740.00,330778834.00,549444574.00,Mila Kunis,Supporting,2,394507785.00,Ted,Wide,106
+Ted,2011,Contemporary Fiction,Comedy,50000000.00,218665740.00,330778834.00,549444574.00,Seth MacFarlane,Director,,499444574.00,Ted,Wide,106
+Texas Chainsaw 3D,2012,Contemporary Fiction,Horror,20000000.00,34341945.00,4751372.00,39093317.00,Dan Yeager,Leading,2,19093317.00,Texas Chainsaw Massacre,Wide,92
+Texas Chainsaw 3D,2012,Contemporary Fiction,Horror,20000000.00,34341945.00,4751372.00,39093317.00,John Luessenhop,Director,,19093317.00,Texas Chainsaw Massacre,Wide,92
+Texas Chainsaw 3D,2012,Contemporary Fiction,Horror,20000000.00,34341945.00,4751372.00,39093317.00,Alexandra Daddario,Supporting,1,64976435.50,Texas Chainsaw Massacre,Wide,92
+That Awkward Moment,2013,Contemporary Fiction,Romantic Comedy,8000000.00,26068955.00,27000000.00,53068955.00,Miles Teller,Leading,2,37132360.50,,Wide,94
+That Awkward Moment,2013,Contemporary Fiction,Romantic Comedy,8000000.00,26068955.00,27000000.00,53068955.00,Tom Gormican,Director,,45068955.00,,Wide,94
+That Awkward Moment,2013,Contemporary Fiction,Romantic Comedy,8000000.00,26068955.00,27000000.00,53068955.00,Zac Efron,Leading,1,81094801.67,,Wide,94
+That's My Boy,2011,Contemporary Fiction,Comedy,67500000.00,36931089.00,21127278.00,58058367.00,Adam Sandler,Leading,1,143934729.70,,Wide,115
+That's My Boy,2011,Contemporary Fiction,Comedy,67500000.00,36931089.00,21127278.00,58058367.00,Andy Samberg,Leading,2,132390190.50,,Wide,115
+That's My Boy,2011,Contemporary Fiction,Comedy,67500000.00,36931089.00,21127278.00,58058367.00,Sean Anders,Director,,-9441633.00,,Wide,115
+The Adventures of Tintin,2011,Contemporary Fiction,Adventure,130000000.00,77591831.00,296402120.00,373993951.00,Andy Serkis,Leading,2,243993951.00,Tintin,Wide,104
+The Adventures of Tintin,2011,Contemporary Fiction,Adventure,130000000.00,77591831.00,296402120.00,373993951.00,Jamie Bell,Leading,1,243993951.00,Tintin,Wide,104
+The Adventures of Tintin,2011,Contemporary Fiction,Adventure,130000000.00,77591831.00,296402120.00,373993951.00,Steven Spielberg,Director,,179603480.00,Tintin,Wide,104
+The Amazing Spider-Man,2012,Super Hero,Adventure,220000000.00,262030663.00,495859604.00,757890267.00,Andrew Garfield,Leading,1,448990823.50,Spider-Man,Wide,136
+The Amazing Spider-Man,2012,Super Hero,Adventure,220000000.00,262030663.00,495859604.00,757890267.00,Marc Webb,Director,,448990823.50,Spider-Man,Wide,136
+The Amazing Spider-Man,2012,Super Hero,Adventure,220000000.00,262030663.00,495859604.00,757890267.00,Emma Stone,Leading,2,445350025.00,Spider-Man,Wide,136
+The Amazing Spider-Man 2,2013,Super Hero,Action,200000000.00,148108337.00,278229314.00,426337651.00,Andrew Garfield,Leading,1,448990823.50,Spider-Man,Wide,141
+The Amazing Spider-Man 2,2013,Super Hero,Action,200000000.00,148108337.00,278229314.00,426337651.00,Marc Webb,Director,,448990823.50,Spider-Man,Wide,141
+The Amazing Spider-Man 2,2013,Super Hero,Action,200000000.00,148108337.00,278229314.00,426337651.00,Emma Stone,Leading,2,445350024.00,Spider-Man,Wide,141
+The Apparition,2011,Contemporary Fiction,Horror,17000000.00,4936819.00,1972848.00,6909667.00,Todd Lincoln,Director,,-10090333.00,,Wide,82
+The Apparition,2011,Contemporary Fiction,Horror,17000000.00,4936819.00,1972848.00,6909667.00,Ashley Greene,Leading,1,-10090333.00,,Wide,82
+The Apparition,2011,Contemporary Fiction,Horror,17000000.00,4936819.00,1972848.00,6909667.00,Sebastian Stan,Supporting,2,-10090333.00,,Wide,82
+The Artist,2011,Historical Fiction,Drama,16000000.00,44667095.00,83589617.00,128256712.00,Bérénice Bejo,Leading,2,112256712.00,,Limited,100
+The Artist,2011,Historical Fiction,Drama,16000000.00,44667095.00,83589617.00,128256712.00,Jean Dujardin,Leading,1,112256712.00,,Limited,100
+The Artist,2011,Historical Fiction,Drama,16000000.00,44667095.00,83589617.00,128256712.00,Michel Hazanavicius,Director,,112256712.00,,Limited,100
+The Best Exotic Marigold Hotel,2011,Contemporary Fiction,Comedy,10000000.00,46383639.00,88345708.00,134729347.00,Bill Nighy,Lead Ensemble Member,2,65624406.00,,Limited,122
+The Best Exotic Marigold Hotel,2011,Contemporary Fiction,Comedy,10000000.00,46383639.00,88345708.00,134729347.00,Judi Dench,Lead Ensemble Member,1,124729347.00,,Limited,122
+The Best Exotic Marigold Hotel,2011,Contemporary Fiction,Comedy,10000000.00,46383639.00,88345708.00,134729347.00,John Madden,Director,,124729347.00,,Limited,122
+The Best Man Holiday,2013,Contemporary Fiction,Comedy,17000000.00,70525195.00,1100000.00,71625195.00,Morris Chestnut,Lead Ensemble Member,1,54625195.00,The Best Man,Wide,122
+The Best Man Holiday,2013,Contemporary Fiction,Comedy,17000000.00,70525195.00,1100000.00,71625195.00,Taye Diggs,Lead Ensemble Member,2,54625195.00,The Best Man,Wide,122
+The Best Man Holiday,2013,Contemporary Fiction,Comedy,17000000.00,70525195.00,1100000.00,71625195.00,Malcolm D. Lee,Director,,49043254.50,The Best Man,Wide,122
+The Big Wedding,2011,Contemporary Fiction,Romantic Comedy,32500000.00,21819348.00,13951373.00,35770721.00,Katherine Heigl,Lead Ensemble Member,2,-1266029.00,,Wide,90
+The Big Wedding,2011,Contemporary Fiction,Romantic Comedy,32500000.00,21819348.00,13951373.00,35770721.00,Justin Zackham,Director,,3270721.00,,Wide,90
+The Big Wedding,2011,Contemporary Fiction,Romantic Comedy,32500000.00,21819348.00,13951373.00,35770721.00,Robert De Niro,Lead Ensemble Member,1,36421143.00,,Wide,90
+The Book Thief,2013,Historical Fiction,Drama,19000000.00,21488481.00,55300000.00,76788481.00,Emily Watson,Supporting,2,57788481.00,,Exclusive,127
+The Book Thief,2013,Historical Fiction,Drama,19000000.00,21488481.00,55300000.00,76788481.00,Geoffrey Rush,Leading,1,57788481.00,,Exclusive,127
+The Book Thief,2013,Historical Fiction,Drama,19000000.00,21488481.00,55300000.00,76788481.00,Brian Percival,Director,,57788481.00,,Exclusive,127
+The Call,2013,Contemporary Fiction,Thriller/Suspense,13000000.00,51872378.00,7066390.00,58938768.00,Abigail Breslin,Supporting,2,45938768.00,,Wide,96
+The Call,2013,Contemporary Fiction,Thriller/Suspense,13000000.00,51872378.00,7066390.00,58938768.00,Brad Anderson,Director,,45938768.00,,Wide,96
+The Call,2013,Contemporary Fiction,Thriller/Suspense,13000000.00,51872378.00,7066390.00,58938768.00,Halle Berry,Leading,1,27604283.33,,Wide,96
+The Change-Up,2011,Contemporary Fiction,Comedy,52000000.00,37081475.00,38746792.00,75828267.00,Jason Bateman,Leading,2,82548994.00,,Wide,114
+The Change-Up,2011,Contemporary Fiction,Comedy,52000000.00,37081475.00,38746792.00,75828267.00,Ryan Reynolds,Leading,1,38219379.00,,Wide,114
+The Change-Up,2011,Contemporary Fiction,Comedy,52000000.00,37081475.00,38746792.00,75828267.00,David Dobkin,Director,,23828267.00,,Wide,114
+The Cold Light of Day,2011,Contemporary Fiction,Thriller/Suspense,20000000.00,3763583.00,8661802.00,12425385.00,Henry Cavill,Leading,1,190662446.00,,Wide,93
+The Cold Light of Day,2011,Contemporary Fiction,Thriller/Suspense,20000000.00,3763583.00,8661802.00,12425385.00,Mabrouk El Mechri,Director,,-7574615.00,,Wide,93
+The Cold Light of Day,2011,Contemporary Fiction,Thriller/Suspense,20000000.00,3763583.00,8661802.00,12425385.00,Veronica Echegui,Supporting,2,-7574615.00,,Wide,93
+The Conjuring,2013,Fantasy,Horror,20000000.00,137400141.00,180600000.00,318000141.00,Vera Farmiga,Leading,1,148529661.50,The Conjuring,Wide,111
+The Conjuring,2013,Fantasy,Horror,20000000.00,137400141.00,180600000.00,318000141.00,Patrick Wilson,Supporting,2,155223859.33,The Conjuring,Wide,111
+The Conjuring,2013,Fantasy,Horror,20000000.00,137400141.00,180600000.00,318000141.00,James Wan,Director,,227460611.00,The Conjuring,Wide,111
+The Counselor,2013,Contemporary Fiction,Thriller/Suspense,25000000.00,16973715.00,53400000.00,70373715.00,Penelope Cruz,Lead Ensemble Member,2,419518795.00,,Wide,111
+The Counselor,2013,Contemporary Fiction,Thriller/Suspense,25000000.00,16973715.00,53400000.00,70373715.00,Michael Fassbender,Lead Ensemble Member,1,100858925.30,,Wide,111
+The Counselor,2013,Contemporary Fiction,Thriller/Suspense,25000000.00,16973715.00,53400000.00,70373715.00,Ridley Scott,Director,,45373715.00,,Wide,111
+The Croods,2012,Kids Fiction,Adventure,135000000.00,187168425.00,385900000.00,573068425.00,Emma Stone,Lead Ensemble Member,2,445350026.00,,Wide,98
+The Croods,2012,Kids Fiction,Adventure,135000000.00,187168425.00,385900000.00,573068425.00,Chris Sanders,Director,,438068425.00,,Wide,98
+The Croods,2012,Kids Fiction,Adventure,135000000.00,187168425.00,385900000.00,573068425.00,Kirk De Micco,Director,,438068425.00,,Wide,98
+The Croods,2012,Kids Fiction,Adventure,135000000.00,187168425.00,385900000.00,573068425.00,Nicolas Cage,Lead Ensemble Member,1,438068425.00,,Wide,98
+The Dark Knight Rises,2012,Super Hero,Action,275000000.00,448139099.00,631204844.00,1079343943.00,Christopher Nolan,Director,,804343943.00,Batman,Wide,164
+The Dark Knight Rises,2012,Super Hero,Action,275000000.00,448139099.00,631204844.00,1079343943.00,Michael Caine,Supporting,2,525602116.50,Batman,Wide,164
+The Dark Knight Rises,2012,Super Hero,Action,275000000.00,448139099.00,631204844.00,1079343943.00,Christian Bale,Leading,1,335675320.33,Batman,Wide,164
+The Devil's Double,2011,Dramatization,Drama,19100000.00,1361512.00,1045154.00,2406666.00,Dominic Cooper,Leading,1,15462902.50,,Limited,109
+The Devil's Double,2011,Dramatization,Drama,19100000.00,1361512.00,1045154.00,2406666.00,Ludivine Sagnier,Supporting,2,-16693334.00,,Limited,109
+The Devil's Double,2011,Dramatization,Drama,19100000.00,1361512.00,1045154.00,2406666.00,Lee Tamahori,Director,,-16693334.00,,Limited,109
+The Dictator,2011,Contemporary Fiction,Comedy,65000000.00,59650222.00,119729310.00,179379532.00,Anna Faris,Supporting,2,155368410.50,,Wide,83
+The Dictator,2011,Contemporary Fiction,Comedy,65000000.00,59650222.00,119729310.00,179379532.00,Sacha Baron Cohen,Leading,1,59706373.50,,Wide,83
+The Dictator,2011,Contemporary Fiction,Comedy,65000000.00,59650222.00,119729310.00,179379532.00,Larry Charles,Director,,114379532.00,,Wide,83
+The Divide,2011,Science Fiction,Thriller/Suspense,3000000.00,18000.00,0.00,18000.00,Lauren German,Lead Ensemble Member,1,-2982000.00,,Limited,110
+The Divide,2011,Science Fiction,Thriller/Suspense,3000000.00,18000.00,0.00,18000.00,Michael Biehn,Lead Ensemble Member,2,-2982000.00,,Limited,110
+The Divide,2011,Science Fiction,Thriller/Suspense,3000000.00,18000.00,0.00,18000.00,Xavier Gens,Director,,-2982000.00,,Limited,110
+The Expendables 2,2012,Contemporary Fiction,Action,100000000.00,85028192.00,226951064.00,311979256.00,Simon West,Director,,211979256.00,The Expendables,Wide,103
+The Expendables 2,2012,Contemporary Fiction,Action,100000000.00,85028192.00,226951064.00,311979256.00,Sylvester Stallone,Lead Ensemble Member,1,68117958.00,The Expendables,Wide,103
+The Expendables 2,2012,Contemporary Fiction,Action,100000000.00,85028192.00,226951064.00,311979256.00,Jason Statham,Lead Ensemble Member,2,54899556.50,The Expendables,Wide,103
+The Family,2013,Contemporary Fiction,Black Comedy,30000000.00,36918811.00,14159730.00,51078541.00,Luc Besson,Director,,21078541.00,,Wide,111
+The Family,2013,Contemporary Fiction,Black Comedy,30000000.00,36918811.00,14159730.00,51078541.00,Robert De Niro,Leading,1,36421143.00,,Wide,111
+The Family,2013,Contemporary Fiction,Black Comedy,30000000.00,36918811.00,14159730.00,51078541.00,Michelle Pfeiffer,Leading,2,69371220.00,,Wide,111
+The Fifth Estate,2013,Dramatization,Drama,26000000.00,3254172.00,2900000.00,6154172.00,Benedict Cumberbatch,Leading,1,128566416.50,,Wide,128
+The Fifth Estate,2013,Dramatization,Drama,26000000.00,3254172.00,2900000.00,6154172.00,Daniel Bruhl,Leading,2,18689383.50,,Wide,128
+The Fifth Estate,2013,Dramatization,Drama,26000000.00,3254172.00,2900000.00,6154172.00,Bill Condon,Director,,419684288.67,,Wide,128
+The Gatekeepers,2012,Factual,Documentary,1500000.00,2408553.00,0.00,2408553.00,Ami Ayalon,Inverviewee,1,908553.00,,Limited,97
+The Gatekeepers,2012,Factual,Documentary,1500000.00,2408553.00,0.00,2408553.00,Dror Moreh,Director,,908553.00,,Limited,97
+The Gatekeepers,2012,Factual,Documentary,1500000.00,2408553.00,0.00,2408553.00,Avraham Shalom,Inverviewee,2,908553.00,,Limited,97
+The Girl with the Dragon Tattoo,2011,Contemporary Fiction,Thriller/Suspense,90000000.00,102515793.00,130654445.00,233170238.00,Daniel Craig,Leading,1,354924880.00,,Wide,160
+The Girl with the Dragon Tattoo,2011,Contemporary Fiction,Thriller/Suspense,90000000.00,102515793.00,130654445.00,233170238.00,David Fincher,Director,,143170238.00,,Wide,160
+The Girl with the Dragon Tattoo,2011,Contemporary Fiction,Thriller/Suspense,90000000.00,102515793.00,130654445.00,233170238.00,Rooney Mara,Leading,2,86729300.50,,Wide,160
+The Great Gatsby,2012,Historical Fiction,Drama,190000000.00,144840419.00,206200000.00,351040419.00,Leonardo DiCaprio,Lead Ensemble Member,1,225341453.50,,Wide,141
+The Great Gatsby,2012,Historical Fiction,Drama,190000000.00,144840419.00,206200000.00,351040419.00,Tobey Maguire,Lead Ensemble Member,2,161040419.00,,Wide,141
+The Great Gatsby,2012,Historical Fiction,Drama,190000000.00,144840419.00,206200000.00,351040419.00,Baz Luhrmann,Director,,161040419.00,,Wide,141
+The Grey,2011,Contemporary Fiction,Thriller/Suspense,25000000.00,51580136.00,32759560.00,84339696.00,Liam Neeson,Leading,1,114826961.30,,Wide,117
+The Grey,2011,Contemporary Fiction,Thriller/Suspense,25000000.00,51580136.00,32759560.00,84339696.00,Frank Grillo,Supporting,2,59339696.00,,Wide,117
+The Grey,2011,Contemporary Fiction,Thriller/Suspense,25000000.00,51580136.00,32759560.00,84339696.00,Joe Carnahan,Director,,59339696.00,,Wide,117
+The Guilt Trip,2011,Contemporary Fiction,Comedy,40000000.00,37134215.00,0.00,37134215.00,Barbra Streisand,Leading,1,-2865785.00,,Wide,95
+The Guilt Trip,2011,Contemporary Fiction,Comedy,40000000.00,37134215.00,0.00,37134215.00,Seth Rogen,Leading,2,38192203.67,,Wide,95
+The Guilt Trip,2011,Contemporary Fiction,Comedy,40000000.00,37134215.00,0.00,37134215.00,Anne Fletcher,Director,,-2865785.00,,Wide,95
+The Hangover 3,2013,Contemporary Fiction,Comedy,103000000.00,112200072.00,249800000.00,362000072.00,Bradley Cooper,Lead Ensemble Member,1,125865374.00,Hangover,Wide,100
+The Hangover 3,2013,Contemporary Fiction,Comedy,103000000.00,112200072.00,249800000.00,362000072.00,Ed Helms,Lead Ensemble Member,2,271140159.00,Hangover,Wide,100
+The Hangover 3,2013,Contemporary Fiction,Comedy,103000000.00,112200072.00,249800000.00,362000072.00,Todd Phillips,Director,,259000072.00,Hangover,Wide,100
+The Heat,2013,Contemporary Fiction,Comedy,43000000.00,159581587.00,71200000.00,230781587.00,Melissa McCarthy,Leading,2,164525654.00,,Wide,117
+The Heat,2013,Contemporary Fiction,Comedy,43000000.00,159581587.00,71200000.00,230781587.00,Sandra Bullock,Leading,1,397087146.00,,Wide,117
+The Heat,2013,Contemporary Fiction,Comedy,43000000.00,159581587.00,71200000.00,230781587.00,Paul Feig,Director,,222272361.50,,Wide,117
+The Hobbit: An Unexpected Journey,2012,Fantasy,Adventure,250000000.00,303003568.00,711700000.00,1014703568.00,Ian McKellen,Lead Ensemble Member,1,732585211.50,Peter Jackson's Lord of the Rings,Wide,169
+The Hobbit: An Unexpected Journey,2012,Fantasy,Adventure,250000000.00,303003568.00,711700000.00,1014703568.00,Peter Jackson,Director,,732585211.50,Peter Jackson's Lord of the Rings,Wide,169
+The Hobbit: An Unexpected Journey,2012,Fantasy,Adventure,250000000.00,303003568.00,711700000.00,1014703568.00,Martin Freeman,Lead Ensemble Member,2,511416842.70,Peter Jackson's Lord of the Rings,Wide,169
+The Hobbit: The Desolation of Smaug,2013,Fantasy,Adventure,250000000.00,258366855.00,692100000.00,950466855.00,Ian McKellen,Supporting,2,732585211.50,Peter Jackson's Lord of the Rings,Wide,201
+The Hobbit: The Desolation of Smaug,2013,Fantasy,Adventure,250000000.00,258366855.00,692100000.00,950466855.00,Peter Jackson,Director,,732585211.50,Peter Jackson's Lord of the Rings,Wide,201
+The Hobbit: The Desolation of Smaug,2013,Fantasy,Adventure,250000000.00,258366855.00,692100000.00,950466855.00,Martin Freeman,Leading,1,511416842.70,Peter Jackson's Lord of the Rings,Wide,201
+The Host,2012,Science Fiction,Thriller/Suspense,50000000.00,26623701.00,31564683.00,58188384.00,Andrew Niccol,Director,,71626524.00,,Wide,88
+The Host,2012,Science Fiction,Thriller/Suspense,50000000.00,26623701.00,31564683.00,58188384.00,Jake Abel,Leading,2,8188384.00,,Wide,88
+The Host,2012,Science Fiction,Thriller/Suspense,50000000.00,26623701.00,31564683.00,58188384.00,Saoirse Ronan,Leading,1,8188384.00,,Wide,88
+The Hunger Games,2011,Science Fiction,Thriller/Suspense,80000000.00,408010692.00,276500000.00,684510692.00,Gary Ross,Director,,604510692.00,Hunger Games,Wide,142
+The Hunger Games,2011,Science Fiction,Thriller/Suspense,80000000.00,408010692.00,276500000.00,684510692.00,Jennifer Lawrence,Leading,1,512832045.30,Hunger Games,Wide,142
+The Hunger Games,2011,Science Fiction,Thriller/Suspense,80000000.00,408010692.00,276500000.00,684510692.00,Josh Hutcherson,Lead Ensemble Member,2,500199140.30,Hunger Games,Wide,142
+The Hunger Games: Catching Fire,2013,Science Fiction,Adventure,130000000.00,424668047.00,433000000.00,857668047.00,Francis Lawrence,Director,,727668047.00,Hunger Games,Wide,146
+The Hunger Games: Catching Fire,2013,Science Fiction,Adventure,130000000.00,424668047.00,433000000.00,857668047.00,Jennifer Lawrence,Leading,1,512832045.30,Hunger Games,Wide,146
+The Hunger Games: Catching Fire,2013,Science Fiction,Adventure,130000000.00,424668047.00,433000000.00,857668047.00,Josh Hutcherson,Lead Ensemble Member,2,500199140.30,Hunger Games,Wide,146
+The Iceman,2012,Dramatization,Drama,10000000.00,1930401.00,0.00,1930401.00,Michael Shannon,Leading,1,-4432481.67,,Limited,105
+The Iceman,2012,Dramatization,Drama,10000000.00,1930401.00,0.00,1930401.00,Winona Ryder,Supporting,2,-8069599.00,,Limited,105
+The Iceman,2012,Dramatization,Drama,10000000.00,1930401.00,0.00,1930401.00,Ariel Vromen,Director,,-8069599.00,,Limited,105
+The Ides of March,2011,Contemporary Fiction,Drama,23000000.00,40962534.00,36773391.00,77735925.00,George Clooney,Leading,1,248726824.30,,Wide,101
+The Ides of March,2011,Contemporary Fiction,Drama,23000000.00,40962534.00,36773391.00,77735925.00,Ryan Gosling,Leading,2,49934066.33,,Wide,101
+The Ides of March,2011,Contemporary Fiction,Drama,23000000.00,40962534.00,36773391.00,77735925.00,George Clooney,Director,,69893884.00,,Wide,101
+The Impossible,2011,Dramatization,Drama,40000000.00,19019882.00,150570724.00,169590606.00,Ewan McGregor,Leading,2,64383398.00,,Limited,114
+The Impossible,2011,Dramatization,Drama,40000000.00,19019882.00,150570724.00,169590606.00,Naomi Watts,Leading,1,129590606.00,,Limited,114
+The Impossible,2011,Dramatization,Drama,40000000.00,19019882.00,150570724.00,169590606.00,Juan Antonio Bayona,Director,,129590606.00,,Limited,114
+The Inbetweeners,2011,Contemporary Fiction,Comedy,5700000.00,35955.00,86015365.00,86051320.00,James Buckley,Leading,2,80351320.00,,Limited,96
+The Inbetweeners,2011,Contemporary Fiction,Comedy,5700000.00,35955.00,86015365.00,86051320.00,Simon Bird,Leading,1,80351320.00,,Limited,96
+The Inbetweeners,2011,Contemporary Fiction,Comedy,5700000.00,35955.00,86015365.00,86051320.00,Ben Palmer,Director,,80351320.00,,Limited,96
+The Incredible Burt Wonderstone,2012,Contemporary Fiction,Comedy,32000000.00,22537881.00,1718076.00,24255957.00,Steve Buscemi,Leading,2,-7744043.00,,Wide,100
+The Incredible Burt Wonderstone,2012,Contemporary Fiction,Comedy,32000000.00,22537881.00,1718076.00,24255957.00,Steve Carell,Leading,1,257688615.50,,Wide,100
+The Incredible Burt Wonderstone,2012,Contemporary Fiction,Comedy,32000000.00,22537881.00,1718076.00,24255957.00,Don Scardino,Director,,-7744043.00,,Wide,100
+The Internship,2013,Contemporary Fiction,Comedy,58000000.00,44672764.00,49000000.00,93672764.00,Owen Wilson,Leading,2,138336042.30,,Wide,119
+The Internship,2013,Contemporary Fiction,Comedy,58000000.00,44672764.00,49000000.00,93672764.00,Vince Vaughn,Leading,1,20814590.00,,Wide,119
+The Internship,2013,Contemporary Fiction,Comedy,58000000.00,44672764.00,49000000.00,93672764.00,Shawn Levy,Director,,35672764.00,,Wide,119
+The Iron Lady,2011,Dramatization,Drama,14000000.00,29959436.00,85632668.00,115592104.00,Jim Broadbent,Supporting,2,101592104.00,,Limited,105
+The Iron Lady,2011,Dramatization,Drama,14000000.00,29959436.00,85632668.00,115592104.00,Meryl Streep,Leading,1,101592104.00,,Limited,105
+The Iron Lady,2011,Dramatization,Drama,14000000.00,29959436.00,85632668.00,115592104.00,Phyllida Lloyd,Director,,101592104.00,,Limited,105
+The Last Exorcism Part II,2013,Fantasy,Horror,4000000.00,15179303.00,3361933.00,18541236.00,Ashley Bell,Leading,1,14541236.00,The Last Exorcism,Wide,88
+The Last Exorcism Part II,2013,Fantasy,Horror,4000000.00,15179303.00,3361933.00,18541236.00,Ed Gass-Donnelly,Director,,14541236.00,The Last Exorcism,Wide,88
+The Last Exorcism Part II,2013,Fantasy,Horror,4000000.00,15179303.00,3361933.00,18541236.00,Julia Garner,Supporting,2,14541236.00,The Last Exorcism,Wide,88
+The Last Stand,2012,Contemporary Fiction,Action,30000000.00,12050299.00,36000000.00,48050299.00,Forest Whitaker,Supporting,2,43027305.33,,Wide,107
+The Last Stand,2012,Contemporary Fiction,Action,30000000.00,12050299.00,36000000.00,48050299.00,Arnold Schwarzenegger,Leading,1,25931701.00,,Wide,107
+The Last Stand,2012,Contemporary Fiction,Action,30000000.00,12050299.00,36000000.00,48050299.00,Kim Jee-woon,Director,,18050299.00,,Wide,107
+The Legend of Hercules,2013,Fantasy,Adventure,70000000.00,18848538.00,42258093.00,61106631.00,Kellan Lutz,Leading,1,-8720548.00,,Wide,98
+The Legend of Hercules,2013,Fantasy,Adventure,70000000.00,18848538.00,42258093.00,61106631.00,Scott Adkins,Supporting,2,-8720548.00,,Wide,98
+The Legend of Hercules,2013,Fantasy,Adventure,70000000.00,18848538.00,42258093.00,61106631.00,Renny Harlin,Director,,-10351534.50,,Wide,98
+The Lego Movie,2013,Kids Fiction,Adventure,60000000.00,253178106.00,200000000.00,453178106.00,Christopher Miller,Director,,393817652.00,,Wide,110
+The Lego Movie,2013,Kids Fiction,Adventure,60000000.00,253178106.00,200000000.00,453178106.00,Phil Lord,Director,,393817652.00,,Wide,110
+The Lego Movie,2013,Kids Fiction,Adventure,60000000.00,253178106.00,200000000.00,453178106.00,Chris Pratt,Lead Ensemble Member,1,204117829.00,,Wide,110
+The Lego Movie,2013,Kids Fiction,Adventure,60000000.00,253178106.00,200000000.00,453178106.00,Will Ferrell,Lead Ensemble Member,2,173074726.30,,Wide,110
+The Lone Ranger,2013,Historical Fiction,Western,275000000.00,89289910.00,170700000.00,259989910.00,Armie Hammer,Lead Ensemble Member,2,-15010090.00,,Wide,149
+The Lone Ranger,2013,Historical Fiction,Western,275000000.00,89289910.00,170700000.00,259989910.00,Gore Verbinski,Director,,47747242.00,,Wide,149
+The Lone Ranger,2013,Historical Fiction,Western,275000000.00,89289910.00,170700000.00,259989910.00,Johnny Depp,Lead Ensemble Member,1,296386119.67,,Wide,149
+The Man with the Iron Fists,2011,Contemporary Fiction,Action,15000000.00,15634090.00,6351005.00,21985095.00,Russell Crowe,Lead Ensemble Member,1,126584918.00,,Wide,95
+The Man with the Iron Fists,2011,Contemporary Fiction,Action,15000000.00,15634090.00,6351005.00,21985095.00,RZA,Director,,6985095.00,,Wide,95
+The Man with the Iron Fists,2011,Contemporary Fiction,Action,15000000.00,15634090.00,6351005.00,21985095.00,RZA,Lead Ensemble Member,2,6985095.00,,Wide,95
+The Master,2012,Historical Fiction,Drama,37500000.00,16247159.00,8869581.00,25116740.00,Joaquin Phoenix,Leading,1,5303433.00,,Limited,136
+The Master,2012,Historical Fiction,Drama,37500000.00,16247159.00,8869581.00,25116740.00,Philip Seymour Hoffman,Leading,2,-12383260.00,,Limited,136
+The Master,2012,Historical Fiction,Drama,37500000.00,16247159.00,8869581.00,25116740.00,Paul Thomas Anderson,Director,,-12383260.00,,Limited,136
+The Monuments Men,2013,Historical Fiction,Drama,70000000.00,77951843.00,77100000.00,155051843.00,George Clooney,Lead Ensemble Member,1,248726824.30,,Wide,118
+The Monuments Men,2013,Historical Fiction,Drama,70000000.00,77951843.00,77100000.00,155051843.00,Matt Damon,Lead Ensemble Member,2,78617205.00,,Wide,118
+The Monuments Men,2013,Historical Fiction,Drama,70000000.00,77842897.00,77100000.00,154942897.00,George Clooney,Director,,69893884.00,,Wide,118
+The Mortal Instruments: City of Bones,2013,Fantasy,Adventure,60000000.00,31165421.00,44800146.00,75965567.00,Lily Collins,Supporting,1,49788779.00,,Wide,130
+The Mortal Instruments: City of Bones,2013,Fantasy,Adventure,60000000.00,31165421.00,44800146.00,75965567.00,Harald Zwart,Director,,15965567.00,,Wide,130
+The Mortal Instruments: City of Bones,2013,Fantasy,Adventure,60000000.00,31165421.00,44800146.00,75965567.00,Kevin Durand,Supporting,2,15965567.00,,Wide,130
+The Muppets,2011,Kids Fiction,Comedy,45000000.00,88625922.00,72346000.00,160971922.00,Amy Adams,Lead Ensemble Member,2,155748212.60,Muppets,Wide,98
+The Muppets,2011,Kids Fiction,Comedy,45000000.00,88625922.00,72346000.00,160971922.00,Jason Segel,Lead Ensemble Member,1,70280062.00,Muppets,Wide,98
+The Muppets,2011,Kids Fiction,Comedy,45000000.00,88625922.00,72346000.00,160971922.00,James Bobin,Director,,64149430.50,Muppets,Wide,98
+The Nut Job,2013,Kids Fiction,Adventure,30000000.00,64251538.00,2000000.00,66251538.00,Peter Lepeniotis,Director,,36251538.00,Nut Job,Wide,86
+The Nut Job,2013,Kids Fiction,Adventure,30000000.00,64251538.00,2000000.00,66251538.00,Will Arnett,Leading,1,36251538.00,Nut Job,Wide,86
+The Nut Job,2013,Kids Fiction,Adventure,30000000.00,64251538.00,2000000.00,66251538.00,Brendan Fraser,Supporting,2,31353174.50,Nut Job,Wide,86
+The Pirates! Band of Misfits,2011,Kids Fiction,Adventure,55000000.00,31051126.00,93028979.00,124080105.00,Martin Freeman,Supporting,2,511416842.70,,Wide,88
+The Pirates! Band of Misfits,2011,Kids Fiction,Adventure,55000000.00,31051126.00,93028979.00,124080105.00,Hugh Grant,Leading,1,69080105.00,,Wide,88
+The Pirates! Band of Misfits,2011,Kids Fiction,Adventure,55000000.00,31051126.00,93028979.00,124080105.00,Peter Lord,Director,,69080105.00,,Wide,88
+The Place Beyond the Pines,2012,Contemporary Fiction,Drama,15000000.00,21403519.00,25607930.00,47011449.00,Bradley Cooper,Leading,2,125865374.00,,Limited,140
+The Place Beyond the Pines,2012,Contemporary Fiction,Drama,15000000.00,21403519.00,25607930.00,47011449.00,Ryan Gosling,Leading,1,49934066.33,,Limited,140
+The Place Beyond the Pines,2012,Contemporary Fiction,Drama,15000000.00,21403519.00,25607930.00,47011449.00,Derek Cianfrance,Director,,32011449.00,,Limited,140
+The Purge,2013,Science Fiction,Thriller/Suspense,3000000.00,64473115.00,26627426.00,91100541.00,James DeMonaco,Director,,88100541.00,,Wide,85
+The Purge,2013,Science Fiction,Thriller/Suspense,3000000.00,64473115.00,26627426.00,91100541.00,Lena Headey,Leading,2,88100541.00,,Wide,85
+The Purge,2013,Science Fiction,Thriller/Suspense,3000000.00,64473115.00,26627426.00,91100541.00,Ethan Hawke,Leading,1,55110097.33,,Wide,85
+The Secret Life of Walter Mitty,2012,Contemporary Fiction,Comedy,91000000.00,58236838.00,130300000.00,188536838.00,Ben Stiller,Leading,1,195070365.30,,Wide,114
+The Secret Life of Walter Mitty,2012,Contemporary Fiction,Comedy,91000000.00,58236838.00,130300000.00,188536838.00,Kristen Wiig,Supporting,2,416225820.30,,Wide,114
+The Secret Life of Walter Mitty,2012,Contemporary Fiction,Comedy,91000000.00,58236838.00,130300000.00,188536838.00,Ben Stiller,Director,,97536838.00,,Wide,114
+The Smurfs,2011,Kids Fiction,Adventure,110000000.00,142614158.00,420452393.00,563066551.00,Jayma Mays,Supporting,2,453066551.00,The Smurfs,Wide,103
+The Smurfs,2011,Kids Fiction,Adventure,110000000.00,142614158.00,420452393.00,563066551.00,Raja Gosnell,Director,,345807037.00,The Smurfs,Wide,103
+The Smurfs,2011,Kids Fiction,Adventure,110000000.00,142614158.00,420452393.00,563066551.00,Neil Patrick Harris,Supporting,1,345807037.00,The Smurfs,Wide,103
+The Smurfs 2,2013,Kids Fiction,Adventure,110000000.00,71017784.00,277529739.00,348547523.00,Raja Gosnell,Director,,345807037.00,The Smurfs,Wide,104
+The Smurfs 2,2013,Kids Fiction,Adventure,110000000.00,71017784.00,277529739.00,348547523.00,Neil Patrick Harris,Supporting,1,345807037.00,The Smurfs,Wide,104
+The Smurfs 2,2013,Kids Fiction,Adventure,110000000.00,71017784.00,277529739.00,348547523.00,Brendan Gleeson,Supporting,2,238547523.00,The Smurfs,Wide,104
+The Son of No One,2011,Contemporary Fiction,Drama,15000000.00,30680.00,1117898.00,1148578.00,Channing Tatum,Lead Ensemble Member,1,69735708.33,,Limited,93
+The Son of No One,2011,Contemporary Fiction,Drama,15000000.00,30680.00,1117898.00,1148578.00,Tracy Morgan,Lead Ensemble Member,2,13851422.00,,Limited,93
+The Son of No One,2011,Contemporary Fiction,Drama,15000000.00,30680.00,1117898.00,1148578.00,Dito Montiel,Director,,-13851422.00,,Limited,93
+The Three Stooges,2011,Contemporary Fiction,Comedy,30000000.00,44338224.00,9463420.00,53801644.00,Sean Hayes,Leading,1,23801644.00,,Wide,92
+The Three Stooges,2011,Contemporary Fiction,Comedy,30000000.00,44338224.00,9463420.00,53801644.00,Will Sasso,Supporting,2,23801644.00,,Wide,92
+The Three Stooges,2011,Contemporary Fiction,Comedy,30000000.00,44338224.00,9463420.00,53801644.00,Bobby Farrelly,Director,,23801644.00,,Wide,92
+The Three Stooges,2011,Contemporary Fiction,Comedy,30000000.00,44338224.00,9463420.00,53801644.00,Peter Farrelly,Director,,18328581.00,,Wide,92
+The To Do List,2013,Historical Fiction,Comedy,1500000.00,3491669.00,0.00,3491669.00,Aubrey Plaza,Lead Ensemble Member,1,1991669.00,,Wide,103
+The To Do List,2013,Historical Fiction,Comedy,1500000.00,3491669.00,0.00,3491669.00,Johnny Simmons,Lead Ensemble Member,2,1991669.00,,Wide,103
+The To Do List,2013,Historical Fiction,Comedy,1500000.00,3491669.00,0.00,3491669.00,Maggie Carey,Director,,1991669.00,,Wide,103
+The Twilight Saga: Breaking Dawn Part 1,2011,Fantasy,Drama,127500000.00,281287133.00,428651524.00,709938657.00,Kristen Stewart,Leading,1,503269964.70,Twilight,Wide,117
+The Twilight Saga: Breaking Dawn Part 1,2011,Fantasy,Drama,127500000.00,281287133.00,428651524.00,709938657.00,Robert Pattinson,Leading,2,639449347.00,Twilight,Wide,117
+The Twilight Saga: Breaking Dawn Part 1,2011,Fantasy,Drama,127500000.00,281287133.00,428651524.00,709938657.00,Bill Condon,Director,,419684288.67,Twilight,Wide,117
+The Twilight Saga: Breaking Dawn Part 2,2012,Fantasy,Drama,136200000.00,292324737.00,540335300.00,832660037.00,Kristen Stewart,Leading,1,503269964.70,Twilight,Wide,115
+The Twilight Saga: Breaking Dawn Part 2,2012,Fantasy,Drama,136200000.00,292324737.00,540335300.00,832660037.00,Robert Pattinson,Leading,2,639449347.00,Twilight,Wide,115
+The Twilight Saga: Breaking Dawn Part 2,2012,Fantasy,Drama,136200000.00,292324737.00,540335300.00,832660037.00,Bill Condon,Director,,419684288.67,Twilight,Wide,115
+The Vow,2011,Historical Fiction,Drama,30000000.00,125014030.00,72604130.00,197618160.00,Channing Tatum,Leading,2,69735708.33,,Wide,104
+The Vow,2011,Historical Fiction,Drama,30000000.00,125014030.00,72604130.00,197618160.00,Rachel McAdams,Leading,1,121563203.50,,Wide,104
+The Vow,2011,Historical Fiction,Drama,30000000.00,125014030.00,72604130.00,197618160.00,Michael Sucsy,Director,,167618160.00,,Wide,104
+The Watch,2011,Contemporary Fiction,Comedy,55000000.00,34353000.00,33000000.00,67353000.00,Ben Stiller,Leading,1,195070365.30,,Wide,87
+The Watch,2011,Contemporary Fiction,Comedy,55000000.00,34353000.00,33000000.00,67353000.00,Vince Vaughn,Leading,2,20814590.00,,Wide,87
+The Watch,2011,Contemporary Fiction,Comedy,55000000.00,34353000.00,33000000.00,67353000.00,Akiva Schaffer,Director,,12353000.00,,Wide,87
+The Way Way Back,2013,Contemporary Fiction,Comedy,5000000.00,21502690.00,4658753.00,26161443.00,Steve Carell,Lead Ensemble Member,1,257688615.50,,Limited,103
+The Way Way Back,2013,Contemporary Fiction,Comedy,5000000.00,21502690.00,4658753.00,26161443.00,Toni Collette,Lead Ensemble Member,2,21161443.00,,Limited,103
+The Way Way Back,2013,Contemporary Fiction,Comedy,5000000.00,21502690.00,4658753.00,26161443.00,Jim Rash,Director,,21161443.00,,Limited,103
+The Way Way Back,2013,Contemporary Fiction,Comedy,5000000.00,21502690.00,4658753.00,26161443.00,Nat Faxon,Director,,21161443.00,,Limited,103
+The Wolf of Wall Street,2011,Dramatization,Black Comedy,100000000.00,116900694.00,272741794.00,389642488.00,Martin Scorsese,Director,,147337851.50,,Wide,165
+The Wolf of Wall Street,2011,Dramatization,Black Comedy,100000000.00,116900694.00,272741794.00,389642488.00,Jonah Hill,Supporting,2,191968376.00,,Wide,165
+The Wolf of Wall Street,2011,Dramatization,Black Comedy,100000000.00,116900694.00,272741794.00,389642488.00,Leonardo DiCaprio,Leading,1,225341453.50,,Wide,165
+The Wolverine,2013,Super Hero,Action,115000000.00,132556852.00,283900000.00,416456852.00,James Mangold,Director,,301456852.00,Wolverine,Wide,126
+The Wolverine,2013,Super Hero,Action,115000000.00,132556852.00,283900000.00,416456852.00,Hugh Jackman,Leading,1,248627349.30,Wolverine,Wide,126
+The Wolverine,2013,Super Hero,Action,115000000.00,132556852.00,283900000.00,416456852.00,Hiroyuki Sanada,Supporting,2,138709663.50,Wolverine,Wide,126
+The Woman in Black,2011,Fantasy,Thriller/Suspense,15000000.00,54333290.00,74622608.00,128955898.00,Ciaran Hinds,Supporting,2,113955898.00,,Wide,95
+The Woman in Black,2011,Fantasy,Thriller/Suspense,15000000.00,54333290.00,74622608.00,128955898.00,Daniel Radcliffe,Leading,1,113955898.00,,Wide,95
+The Woman in Black,2011,Fantasy,Thriller/Suspense,15000000.00,54333290.00,74622608.00,128955898.00,James Watkins,Director,,113955898.00,,Wide,95
+The Words,2012,Contemporary Fiction,Drama,6000000.00,11494838.00,637740.00,12132578.00,Bradley Cooper,Leading,1,125865374.00,,Wide,97
+The Words,2012,Contemporary Fiction,Drama,6000000.00,11494838.00,637740.00,12132578.00,Jeremy Irons,Supporting,2,6132578.00,,Wide,97
+The Words,2012,Contemporary Fiction,Drama,6000000.00,11494838.00,637740.00,12132578.00,Brian Klugman,Director,,6132578.00,,Wide,97
+The Words,2012,Contemporary Fiction,Drama,6000000.00,11494838.00,637740.00,12132578.00,Lee Sternthal,Director,,6132578.00,,Wide,97
+The World's End,2011,Science Fiction,Comedy,20000000.00,26004851.00,21103452.00,47108303.00,Nick Frost,Lead Ensemble Member,1,27108303.00,Three Flavours Cornetto Trilogy,Wide,2013
+The World's End,2011,Science Fiction,Comedy,20000000.00,26004851.00,21103452.00,47108303.00,Simon Pegg,Lead Ensemble Member,2,27108303.00,Three Flavours Cornetto Trilogy,Wide,2013
+The World's End,2011,Science Fiction,Comedy,20000000.00,26004851.00,21038073.00,47042924.00,Edgar Wright,Director,,27108303.00,Three Flavours Cornetto Trilogy,Wide,2013
+There Be Dragons,2011,Dramatization,Drama,36000000.00,1069334.00,2951656.00,4020990.00,Charlie Cox,Leading,1,-31979010.00,,Limited,120
+There Be Dragons,2011,Dramatization,Drama,36000000.00,1069334.00,2951656.00,4020990.00,Wes Bentley,Supporting,2,-31979010.00,,Limited,120
+There Be Dragons,2011,Dramatization,Drama,36000000.00,1069334.00,2951656.00,4020990.00,Roland Joffe,Director,,-31979010.00,,Limited,120
+Think Like a Man,2012,Contemporary Fiction,Romantic Comedy,12000000.00,91547205.00,4607919.00,96155124.00,Jerry Ferrara,Lead Ensemble Member,2,84155124.00,Think Like a Man,Wide,122
+Think Like a Man,2012,Contemporary Fiction,Romantic Comedy,12000000.00,91547205.00,4607919.00,96155124.00,Michael Ealy,Lead Ensemble Member,1,84155124.00,Think Like a Man,Wide,122
+Think Like a Man,2012,Contemporary Fiction,Romantic Comedy,12000000.00,91547205.00,4607919.00,96155124.00,Tim Story,Director,,106140727.00,Think Like a Man,Wide,122
+This is the End,2013,Science Fiction,Comedy,32000000.00,101470202.00,24824062.00,126294264.00,James Franco,Lead Ensemble Member,1,199848744.00,,Wide,106
+This is the End,2013,Science Fiction,Comedy,32000000.00,101470202.00,24824062.00,126294264.00,Jonah Hill,Lead Ensemble Member,2,191968376.00,,Wide,106
+This is the End,2013,Science Fiction,Comedy,32000000.00,101470202.00,24824062.00,126294264.00,Evan Goldberg,Director,,94294264.00,,Wide,106
+This is the End,2013,Science Fiction,Comedy,32000000.00,101470202.00,24824062.00,126294264.00,Seth Rogen,Director,,94294264.00,,Wide,106
+Thor,2011,Super Hero,Action,150000000.00,181030624.00,268295994.00,449326618.00,Natalie Portman,Supporting,2,381343318.00,Thor,Wide,113
+Thor,2011,Super Hero,Action,150000000.00,181030624.00,268295994.00,449326618.00,Chris Hemsworth,Leading,1,273303743.67,Thor,Wide,113
+Thor,2011,Super Hero,Action,150000000.00,181030624.00,268295994.00,449326618.00,Kenneth Branagh,Director,,185352015.00,Thor,Wide,113
+Thor: The Dark World,2013,Super Hero,Adventure,170000000.00,206360018.00,427000000.00,633360018.00,Alan Taylor,Director,,463360018.00,Thor,Wide,111
+Thor: The Dark World,2013,Super Hero,Adventure,170000000.00,206360018.00,427000000.00,633360018.00,Natalie Portman,Lead Ensemble Member,2,381343318.00,Thor,Wide,111
+Thor: The Dark World,2013,Super Hero,Adventure,170000000.00,206360018.00,427000000.00,633360018.00,Chris Hemsworth,Lead Ensemble Member,1,273303744.67,Thor,Wide,111
+Tinker Tailor Soldier Spy,2011,Historical Fiction,Thriller/Suspense,21000000.00,24149393.00,57303418.00,81452811.00,Kathy Burke,Supporting,2,60452811.00,,Limited,128
+Tinker Tailor Soldier Spy,2011,Historical Fiction,Thriller/Suspense,21000000.00,24149393.00,57303418.00,81452811.00,Tomas Alfedson,Director,,60452811.00,,Limited,128
+Tinker Tailor Soldier Spy,2011,Historical Fiction,Thriller/Suspense,21000000.00,24149393.00,57303418.00,81452811.00,Gary Oldman,Lead Ensemble Member,1,50136611.67,,Limited,128
+To Rome with Love,2012,Contemporary Fiction,Romantic Comedy,21500000.00,16684352.00,57679425.00,74363777.00,Woody Allen,Director,,51685323.00,,Limited,112
+To Rome with Love,2012,Contemporary Fiction,Romantic Comedy,21500000.00,16684352.00,57679425.00,74363777.00,Woody Allen,Lead Ensemble Member,1,52863777.00,,Limited,112
+To Rome with Love,2012,Contemporary Fiction,Romantic Comedy,21500000.00,16684352.00,57679425.00,74363777.00,Alec Baldwin,Lead Ensemble Member,2,88423849.33,,Limited,112
+Total Recall,2012,Science Fiction,Action,125000000.00,58877969.00,139738027.00,198615996.00,Kate Beckinsale,Lead Ensemble Member,2,79134260.33,,Wide,117
+Total Recall,2012,Science Fiction,Action,125000000.00,58877969.00,139738027.00,198615996.00,Len Wiseman,Director,,73615996.00,,Wide,117
+Total Recall,2012,Science Fiction,Action,125000000.00,58877969.00,139738027.00,198615996.00,Colin Farrell,Lead Ensemble Member,1,53623904.00,,Wide,117
+Tower Heist,2011,Contemporary Fiction,Comedy,85000000.00,78046570.00,75423782.00,153470352.00,Ben Stiller,Lead Ensemble Member,1,195070365.30,,Wide,104
+Tower Heist,2011,Contemporary Fiction,Comedy,85000000.00,78046570.00,75423782.00,153470352.00,Eddie Murphy,Lead Ensemble Member,2,23460239.50,,Wide,104
+Tower Heist,2011,Contemporary Fiction,Comedy,85000000.00,78046570.00,75423782.00,153470352.00,Brett Ratner,Director,,40662935.00,,Wide,104
+Trance,2012,Contemporary Fiction,Thriller/Suspense,16000000.00,2322593.00,20271459.00,22594052.00,Danny Boyle,Director,,6594052.00,,Limited,0
+Trance,2012,Contemporary Fiction,Thriller/Suspense,16000000.00,2322593.00,20271459.00,22594052.00,James McAvoy,Supporting,1,88209002.00,,Limited,0
+Trance,2012,Contemporary Fiction,Thriller/Suspense,16000000.00,2322593.00,20271459.00,22594052.00,Vincent Cassel,Supporting,2,6594052.00,,Limited,0
+Transformers: Dark of the Moon,2011,Science Fiction,Action,195000000.00,352390543.00,771403533.00,1123794076.00,John Turturro,Supporting,2,928794076.00,Transformers,Wide,154
+Transformers: Dark of the Moon,2011,Science Fiction,Action,195000000.00,352390543.00,771403533.00,1123794076.00,Shia LaBeouf,Leading,1,928794076.00,Transformers,Wide,154
+Transformers: Dark of the Moon,2011,Science Fiction,Action,195000000.00,352390543.00,771403533.00,1123794076.00,Michael Bay,Director,,492034683.50,Transformers,Wide,154
+Trouble with the Curve,2012,Contemporary Fiction,Drama,60000000.00,35763137.00,12055776.00,47818913.00,Amy Adams,Leading,2,155748212.60,,Wide,111
+Trouble with the Curve,2012,Contemporary Fiction,Drama,60000000.00,35763137.00,12055776.00,47818913.00,Clint Eastwood,Leading,1,-12181087.00,,Wide,111
+Trouble with the Curve,2012,Contemporary Fiction,Drama,60000000.00,35763137.00,12055776.00,47818913.00,Robert Lorenz,Director,,-12181087.00,,Wide,111
+Tucker & Dale vs. Evil,2011,Contemporary Fiction,Black Comedy,5000000.00,223838.00,5252955.00,5476793.00,Alan Tudyk,Leading,2,476793.00,,Limited,88
+Tucker & Dale vs. Evil,2011,Contemporary Fiction,Black Comedy,5000000.00,223838.00,5252955.00,5476793.00,Eli Craig,Director,,476793.00,,Limited,88
+Tucker & Dale vs. Evil,2011,Contemporary Fiction,Black Comedy,5000000.00,223838.00,5252955.00,5476793.00,Tyler Labine,Leading,1,476793.00,,Limited,88
+Turbo,2013,Kids Fiction,Adventure,135000000.00,83028130.00,200800000.00,283828130.00,David Soren,Director,,148828130.00,,Wide,96
+Turbo,2013,Kids Fiction,Adventure,135000000.00,83028130.00,200800000.00,283828130.00,Paul Giamatti,Supporting,2,148828130.00,,Wide,96
+Turbo,2013,Kids Fiction,Adventure,135000000.00,83028130.00,200800000.00,283828130.00,Ryan Reynolds,Lead Ensemble Member,1,38219379.00,,Wide,96
+Tyler Perry's A Madea Christmas,2013,Contemporary Fiction,Comedy,25000000.00,52543354.00,0.00,52543354.00,Kathy Najimy,Supporting,2,27543354.00,Madea,Wide,100
+Tyler Perry's A Madea Christmas,2013,Contemporary Fiction,Comedy,25000000.00,52543354.00,0.00,52543354.00,Tyler Perry,Leading,1,24284572.50,Madea,Wide,100
+Tyler Perry's A Madea Christmas,2013,Contemporary Fiction,Comedy,25000000.00,52543354.00,0.00,52543354.00,Tyler Perry,Director,,24284572.50,Madea,Wide,100
+Tyler Perry's Good Deeds,2011,Contemporary Fiction,Drama,14000000.00,35025791.00,0.00,35025791.00,Thandie Newton,Leading,2,21025791.00,,Wide,111
+Tyler Perry's Good Deeds,2011,Contemporary Fiction,Drama,14000000.00,35025791.00,0.00,35025791.00,Tyler Perry,Leading,1,24284572.50,,Wide,111
+Tyler Perry's Good Deeds,2011,Contemporary Fiction,Drama,14000000.00,35025791.00,0.00,35025791.00,Tyler Perry,Director,,24284572.50,,Wide,111
+Underworld: Awakening,2011,Fantasy,Action,70000000.00,62321039.00,98058891.00,160379930.00,Björn Stein,Director,,90379930.00,Underworld,Wide,89
+Underworld: Awakening,2011,Fantasy,Action,70000000.00,62321039.00,98058891.00,160379930.00,Mans Marlind,Director,,90379930.00,Underworld,Wide,89
+Underworld: Awakening,2011,Fantasy,Action,70000000.00,62321039.00,98058891.00,160379930.00,Stephen Rea,Supporting,2,90379930.00,Underworld,Wide,89
+Underworld: Awakening,2011,Fantasy,Action,70000000.00,62321039.00,98058891.00,160379930.00,Kate Beckinsale,Leading,1,79134260.33,Underworld,Wide,89
+Walking with Dinosaurs,2012,Kids Fiction,Adventure,80000000.00,36076121.00,94504609.00,130580730.00,John Leguizamo,Supporting,1,417672933.50,,Wide,87
+Walking with Dinosaurs,2012,Kids Fiction,Adventure,80000000.00,36076121.00,94504609.00,130580730.00,Barry Cook,Director,,50580730.00,,Wide,87
+Walking with Dinosaurs,2012,Kids Fiction,Adventure,80000000.00,36076121.00,94504609.00,130580730.00,Justin Long,Supporting,2,50580730.00,,Wide,87
+Walking with Dinosaurs,2012,Kids Fiction,Adventure,80000000.00,36076121.00,94504609.00,130580730.00,Neil Nightingale,Director,,50580730.00,,Wide,87
+War Horse,2011,Contemporary Fiction,Drama,70000000.00,79883359.00,76932170.00,156815529.00,Jeremy Irvine,Leading,1,86815529.00,,Wide,146
+War Horse,2011,Contemporary Fiction,Drama,70000000.00,79883359.00,76932170.00,156815529.00,Peter Mullan,Supporting,2,86815529.00,,Wide,146
+War Horse,2011,Contemporary Fiction,Drama,70000000.00,79883359.00,76932170.00,156815529.00,Steven Spielberg,Director,,179603480.00,,Wide,146
+Warm Bodies,2012,Fantasy,Romantic Comedy,30000000.00,66380662.00,50262948.00,116643610.00,Nicholas Hoult,Leading,1,44515606.50,,Wide,97
+Warm Bodies,2012,Fantasy,Romantic Comedy,30000000.00,66380662.00,50262948.00,116643610.00,Jonathan Levine,Director,,59989172.50,,Wide,97
+Warm Bodies,2012,Fantasy,Romantic Comedy,30000000.00,66380662.00,50262948.00,116643610.00,Teresa Palmer,Leading,2,86643610.00,,Wide,97
+We Bought a Zoo,2011,Dramatization,Drama,50000000.00,75624550.00,43300000.00,118924550.00,Matt Damon,Leading,1,78617205.00,,Wide,124
+We Bought a Zoo,2011,Dramatization,Drama,50000000.00,75624550.00,43300000.00,118924550.00,Scarlett Johansson,Leading,2,44901127.00,,Wide,124
+We Bought a Zoo,2011,Dramatization,Drama,50000000.00,75624550.00,43300000.00,118924550.00,Cameron Crowe,Director,,68924550.00,,Wide,124
+We're the Millers,2013,Contemporary Fiction,Comedy,37000000.00,150394119.00,119606000.00,270000119.00,Jason Sudeikis,Leading,2,233000119.00,,Wide,100
+We're the Millers,2013,Contemporary Fiction,Comedy,37000000.00,150394119.00,119606000.00,270000119.00,Jennifer Aniston,Leading,1,233000119.00,,Wide,100
+We're the Millers,2013,Contemporary Fiction,Comedy,37000000.00,150394119.00,119606000.00,270000119.00,Rawson Thurber,Director,,233000119.00,,Wide,100
+What to Expect When You're Expecting,2012,Contemporary Fiction,Romantic Comedy,37500000.00,41152203.00,39500000.00,80652203.00,Jennifer Lopez,Lead Ensemble Member,2,27249427.00,,Wide,109
+What to Expect When You're Expecting,2012,Contemporary Fiction,Romantic Comedy,37500000.00,41152203.00,39500000.00,80652203.00,Kirk Jones,Director,,43152203.00,,Wide,109
+What to Expect When You're Expecting,2012,Contemporary Fiction,Romantic Comedy,37500000.00,41152203.00,39500000.00,80652203.00,Cameron Diaz,Lead Ensemble Member,1,120282234.00,,Wide,109
+White House Down,2013,Contemporary Fiction,Thriller/Suspense,150000000.00,73103784.00,132336603.00,205440387.00,Jamie Foxx,Leading,2,190407037.50,,Wide,131
+White House Down,2013,Contemporary Fiction,Thriller/Suspense,150000000.00,73103784.00,132336603.00,205440387.00,Channing Tatum,Leading,1,69735708.33,,Wide,131
+White House Down,2013,Contemporary Fiction,Thriller/Suspense,150000000.00,73103784.00,132336603.00,205440387.00,Roland Emmerich,Director,,21877948.00,,Wide,131
+Winter's Tale,2013,Fantasy,Drama,60000000.00,12600231.00,9868389.00,22468620.00,Colin Farrell,Leading,1,53623904.00,,Wide,118
+Winter's Tale,2013,Fantasy,Drama,60000000.00,12600231.00,9868389.00,22468620.00,Jessica Brown Findlay,Leading,2,-37531380.00,,Wide,118
+Winter's Tale,2013,Fantasy,Drama,60000000.00,12600231.00,9868389.00,22468620.00,Akiva Goldsman,Director,,-37531380.00,,Wide,118
+Won't Back Down,2011,Contemporary Fiction,Drama,19000000.00,5310554.00,120932.00,5431486.00,Maggie Gyllenhaal,Leading,1,-13568514.00,,Wide,121
+Won't Back Down,2011,Contemporary Fiction,Drama,19000000.00,5310554.00,120932.00,5431486.00,Viola Davis,Leading,2,-13568514.00,,Wide,121
+Won't Back Down,2011,Contemporary Fiction,Drama,19000000.00,5310554.00,120932.00,5431486.00,Daniel Barnz,Director,,-13568514.00,,Wide,121
+World War Z,2011,Science Fiction,Action,190000000.00,202359711.00,337200000.00,539559711.00,Marc Forster,Director,,349559711.00,,Wide,115
+World War Z,2011,Science Fiction,Action,190000000.00,202359711.00,337200000.00,539559711.00,Mireille Enos,Supporting,2,349559711.00,,Wide,115
+World War Z,2011,Science Fiction,Action,190000000.00,202359711.00,337200000.00,539559711.00,Brad Pitt,Leading,1,185899242.50,,Wide,115
+Wrath of the Titans,2012,Fantasy,Adventure,150000000.00,83670083.00,218300000.00,301970083.00,Jonathan Liebesman,Director,,151970083.00,Clash of the Titans,Wide,99
+Wrath of the Titans,2012,Fantasy,Adventure,150000000.00,83670083.00,218300000.00,301970083.00,Sam Worthington,Leading,1,151970083.00,Clash of the Titans,Wide,99
+Wrath of the Titans,2012,Fantasy,Adventure,150000000.00,83670083.00,218300000.00,301970083.00,Liam Neeson,Leading,2,114826961.30,Clash of the Titans,Wide,99
+Wreck-It Ralph,2012,Kids Fiction,Adventure,165000000.00,189412677.00,284000000.00,473412677.00,John C. Reilly,Lead Ensemble Member,1,308412677.00,,Wide,101
+Wreck-It Ralph,2012,Kids Fiction,Adventure,165000000.00,189412677.00,284000000.00,473412677.00,Rich Moore,Director,,308412677.00,,Wide,101
+Wreck-It Ralph,2012,Kids Fiction,Adventure,165000000.00,189412677.00,284000000.00,473412677.00,Sarah Silverman,Lead Ensemble Member,2,308412677.00,,Wide,101
+Xinhai geming,2011,Historical Fiction,Drama,30000000.00,135739.00,8457415.00,8593154.00,Jackie Chan,Leading,1,-21406846.00,,Limited,118
+Xinhai geming,2011,Historical Fiction,Drama,30000000.00,135739.00,8457415.00,8593154.00,Li Bingbing,Supporting,2,79709806.50,,Limited,118
+Xinhai geming,2011,Historical Fiction,Drama,30000000.00,135739.00,8457415.00,8593154.00,Adam Sandler,Director,,-21406846.00,,Limited,118
+Xinhai geming,2011,Historical Fiction,Drama,30000000.00,135739.00,8457415.00,8593154.00,Jackie Chan,Director,,-21406846.00,,Limited,118
+X-Men: First Class,2011,Super Hero,Action,160000000.00,146408305.00,209000000.00,355408305.00,Matthew Vaughn,Director,,195408305.00,X-Men,Wide,132
+X-Men: First Class,2011,Super Hero,Action,160000000.00,146408305.00,209000000.00,355408305.00,Michael Fassbender,Lead Ensemble Member,2,100858925.30,X-Men,Wide,132
+X-Men: First Class,2011,Super Hero,Action,160000000.00,146408305.00,209000000.00,355408305.00,James McAvoy,Lead Ensemble Member,1,88209002.00,X-Men,Wide,132
+Young Adult,2011,Contemporary Fiction,Comedy,12000000.00,16311571.00,6438785.00,22750356.00,Charlize Theron,Leading,1,120830778.00,,Exclusive,94
+Young Adult,2011,Contemporary Fiction,Comedy,12000000.00,16311571.00,6438785.00,22750356.00,Patrick Wilson,Supporting,2,155223859.30,,Exclusive,94
+Young Adult,2011,Contemporary Fiction,Comedy,12000000.00,16311571.00,6438785.00,22750356.00,Jason Reitman,Director,,3060942.00,,Exclusive,94
+Zero Dark Thirty,2012,Dramatization,Drama,52500000.00,95720716.00,42000000.00,137720716.00,Jason Clarke,Supporting,2,85220716.00,,Exclusive,137
+Zero Dark Thirty,2012,Dramatization,Drama,52500000.00,95720716.00,42000000.00,137720716.00,Jessica Chastain,Leading,1,72213640.67,,Exclusive,137
+Zero Dark Thirty,2012,Dramatization,Drama,52500000.00,95720716.00,42000000.00,137720716.00,Kathryn Bigelow,Director,,85220716.00,,Exclusive,137
