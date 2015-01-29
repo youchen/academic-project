@@ -1,4 +1,4 @@
-School_projects
+Coding projects
 ===============
 
 These are the coding projects for school classes.
