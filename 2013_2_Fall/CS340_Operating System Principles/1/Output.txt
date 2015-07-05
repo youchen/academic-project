@@ -1,0 +1,173 @@
+[0]	Visitor-4 is waiting for entering the Museum.
+[0]	Visitor-1 is waiting for entering the Museum.
+[1]	Visitor-5 is waiting for entering the Museum.
+[1]	Visitor-2 is waiting for entering the Museum.
+[1]	Visitor-3 is waiting for entering the Museum.
+[22]	Visitor-6 is waiting for entering the Museum.
+[38]	Visitor-7 is waiting for entering the Museum.
+[59]	Visitor-8 is waiting for entering the Museum.
+[81]	Visitor-9 is waiting for entering the Museum.
+[108]	Visitor-10 is waiting for entering the Museum.
+[141]	Visitor-11 is waiting for entering the Museum.
+[142]	Visitor-12 is waiting for entering the Museum.
+[153]	Visitor-13 is waiting for entering the Museum.
+[163]	Visitor-14 is waiting for entering the Museum.
+[173]	Visitor-15 is waiting for entering the Museum.
+[194] Speaker arrived.
+[194] The Museum is Open!
+[194]	Visitor-7 is waiting in the lobby.
+[194]	Visitor-14 is waiting in the lobby.
+[194]	Visitor-15 is waiting in the lobby.
+[197]	Visitor-11 is waiting in the lobby.
+[194]	Visitor-13 is waiting in the lobby.
+[194]	Visitor-12 is waiting in the lobby.
+[207]	Visitor-6 is waiting in the lobby.
+[210]	Visitor-5 is waiting in the lobby.
+[215]	Visitor-10 is waiting in the lobby.
+[216]	Visitor-2 is waiting in the lobby.
+[219]	Visitor-1 is waiting in the lobby.
+[224]	Visitor-3 is waiting in the lobby.
+[225]	Visitor-4 is waiting in the lobby.
+[231]	Visitor-8 is waiting in the lobby.
+[234]	Visitor-9 is waiting in the lobby.
+
+
+
+
+[495] Speaker announced session starts, seats could be occupied.
+
+
+
+[495]	Visitor-9 took the seats and wait for Presentation to Start.
+[495]	Visitor-4 took the seats and wait for Presentation to Start.
+[495]	Visitor-8 took the seats and wait for Presentation to Start.
+[495]	Visitor-5 took the seats and wait for Presentation to Start.
+[495]	Visitor-12 took the seats and wait for Presentation to Start.
+[495]	Visitor-11 took the seats and wait for Presentation to Start.
+[507]	Visitor-10 no more seats available, leave the room. Wait for 2nd Movie Session.
+[508]	Visitor-2 no more seats available, leave the room. Wait for 2nd Movie Session.
+[508]	Visitor-6 no more seats available, leave the room. Wait for 2nd Movie Session.
+[520]	Visitor-14 no more seats available, leave the room. Wait for 2nd Movie Session.
+[523]	Visitor-3 no more seats available, leave the room. Wait for 2nd Movie Session.
+[523]	Visitor-15 no more seats available, leave the room. Wait for 2nd Movie Session.
+[523]	Visitor-1 no more seats available, leave the room. Wait for 2nd Movie Session.
+[523]	Visitor-7 no more seats available, leave the room. Wait for 2nd Movie Session.
+[523]	Visitor-13 no more seats available, leave the room. Wait for 2nd Movie Session.
+
+
+
+
+
+				Session 1.
+
+
+
+
+
+[596] Speaker announced that presentation starts.
+[596]	Visitor-12 listening Presentation.
+[596]	Visitor-11 listening Presentation.
+[598]	Visitor-5 listening Presentation.
+[602]	Visitor-8 listening Presentation.
+[598]	Visitor-9 listening Presentation.
+[602]	Visitor-4 listening Presentation.
+[818]	Visitor-12 wait for the movie to start.
+[818]	Visitor-9 wait for the movie to start.
+[821]	Visitor-5 wait for the movie to start.
+[818]	Visitor-11 wait for the movie to start.
+[818]	Visitor-8 wait for the movie to start.
+[818]	Visitor-4 wait for the movie to start.
+[838] Speaker announced that Movie starts.
+[838]	Visitor-4 watching movie.
+[838]	Visitor-11 watching movie.
+[838]	Visitor-5 watching movie.
+[838]	Visitor-8 watching movie.
+[849]	Visitor-12 watching movie.
+[856]	Visitor-9 watching movie.
+[2339] Speaker announced 1st Movie session is end. 
+		The 2nd Movie Session will be Started in 15 minutes
+[2339]	Visitor-8 watched movie and continue to visiting the museum.
+[2339]	Visitor-10 took the seats and wait for Presentation to Start.
+[2339]	Visitor-14 took the seats and wait for Presentation to Start.
+[2343]	Visitor-9 watched movie and continue to visiting the museum.
+[2343]	Visitor-7 took the seats and wait for Presentation to Start.
+[2370]	Visitor-4 watched movie and continue to visiting the museum.
+[2371]	Visitor-13 took the seats and wait for Presentation to Start.
+[2481]	Visitor-5 watched movie and continue to visiting the museum.
+[2487]	Visitor-11 watched movie and continue to visiting the museum.
+[2487]	Visitor-3 took the seats and wait for Presentation to Start.
+[2487]	Visitor-6 took the seats and wait for Presentation to Start.
+[2487]	Visitor-12 watched movie and continue to visiting the museum.
+
+
+
+
+
+				Session 2.
+
+
+
+
+
+[2641] Speaker announced that presentation starts.
+[2641]	Visitor-3 listening Presentation.
+[2641]	Visitor-13 listening Presentation.
+[2642]	Visitor-10 listening Presentation.
+[2651]	Visitor-14 listening Presentation.
+[2661]	Visitor-7 listening Presentation.
+[2681]	Visitor-6 listening Presentation.
+[2862]	Visitor-3 wait for the movie to start.
+[2863]	Visitor-6 wait for the movie to start.
+[2864]	Visitor-13 wait for the movie to start.
+[2876]	Visitor-14 wait for the movie to start.
+[2876]	Visitor-7 wait for the movie to start.
+[2880]	Visitor-10 wait for the movie to start.
+[2883] Speaker announced that Movie starts.
+[2883]	Visitor-7 watching movie.
+[2883]	Visitor-14 watching movie.
+[2883]	Visitor-10 watching movie.
+[2886]	Visitor-6 watching movie.
+[2892]	Visitor-3 watching movie.
+[2883]	Visitor-13 watching movie.
+[2919]	Visitor-15 not watched movie, he/she gives up and continue to visiting the museum.
+[2921]	Visitor-1 not watched movie, he/she gives up and continue to visiting the museum.
+[2941]	Visitor-2 not watched movie, he/she gives up and continue to visiting the museum.
+[4383] Speaker announced 2nd Movie session is end. 
+		Sorry, No more movie sessions today.
+
+
+
+
+
+				No more Movie Sessions for today!
+
+
+
+
+
+[4384]	Visitor-7 watched movie and continue to visiting the museum.
+[4386]	Visitor-14 watched movie and continue to visiting the museum.
+[4394]	Visitor-10 watched movie and continue to visiting the museum.
+[4404]	Visitor-13 watched movie and continue to visiting the museum.
+[4406]	Visitor-6 watched movie and continue to visiting the museum.
+[4414]	Visitor-3 watched movie and continue to visiting the museum.
+
+
+
+This is end of the day, Museum is closed now.
+[4592]	Visitor-15 go home.
+[4598]	Visitor-14 go home.
+[4608]	Visitor-13 go home.
+[4622]	Visitor-12 go home.
+[4622]	Visitor-11 go home.
+[4626]	Visitor-10 go home.
+[4632]	Visitor-9 go home.
+[4652]	Visitor-8 go home.
+[4662]	Visitor-7 go home.
+[4662]	Visitor-6 go home.
+[4671]	Visitor-5 go home.
+[4671]	Visitor-4 go home.
+[4671]	Visitor-3 go home.
+[4671]	Visitor-2 go home.
+[4671]	Visitor-1 go home.
+[4671] All visitors gone, Speaker left the museum.
