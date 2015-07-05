@@ -39,7 +39,7 @@
 			Consumer Secret (API Secret) and
 			Access Token
 			Access Token Secret
-		from  apps.twitter.com, then add them into twt_search.java line 69 - 72.
+		from  https://apps.twitter.com, then add them into twt_search.java line 69 - 72.
 
 
 
