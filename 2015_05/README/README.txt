@@ -31,6 +31,18 @@
 
 
 3. Run:
+	
+	0> IMPORTANT!
+			If you need to run the source code on your machine, please claim the free
+					Consumer Key (API Key)
+					Consumer Secret (API Secret) and
+					Access Token
+					Access Token Secret
+			from  apps.twitter.com
+		then add them into twt_search.java line 69 - 72.
+
+
+
 	1> With legal Arguments:
 
 			0> $ java -jar TwitterSearch.jar
