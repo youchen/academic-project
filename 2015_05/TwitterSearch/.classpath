@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/Users/Youchen/Documents/WorkSpace/eclipse/API_Twitter Project/api_only/mysql-connector-java-5.0.8-bin.jar"/>
+	<classpathentry kind="lib" path="/Users/Youchen/Documents/WorkSpace/eclipse/API_Twitter Project/api_only/poi-3.11-20141221.jar"/>
+	<classpathentry kind="lib" path="/Users/Youchen/Documents/WorkSpace/eclipse/API_Twitter Project/api_only/poi-ooxml-3.11-20141221.jar"/>
+	<classpathentry kind="lib" path="/Users/Youchen/Documents/WorkSpace/eclipse/API_Twitter Project/api_only/poi-ooxml-schemas-3.11-20141221.jar"/>
+	<classpathentry kind="lib" path="/Users/Youchen/Documents/WorkSpace/eclipse/API_Twitter Project/api_only/twitter4j-core-4.0.3.jar"/>
+	<classpathentry kind="lib" path="/Users/Youchen/Documents/WorkSpace/eclipse/API_Twitter Project/api_only/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
