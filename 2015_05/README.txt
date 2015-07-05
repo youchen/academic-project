@@ -20,7 +20,8 @@
 
 2. Compile the program:
 	No need to compile.
-	Runnable jar file - "Runnable jar file" has been created since so many API involved.
+	Your machine needs to have Java Runtime Environment(JRE) 7 or higher installed.
+	
 
 
 
@@ -46,7 +47,7 @@
 	1> With legal Arguments:
 
 			0> $ java -jar TwitterSearch.jar
-				(OR Simply double-click the jar file)
+				(OR Simply double-click the "Runnable jar file")
 
 
 
@@ -57,7 +58,8 @@
 
 			1> First, please enter your credentials in the input box after "Username" and "Password" on the GUI.
 				If the JDBC connection is different than the default one. Please input yours.
-				Then click "Configurate".
+				Then click "Configurate". Then the confirmation message "Database Configured successful! " will be printed if
+				your configuration succeeded.
 
 			2> You may enter whatever you want to search on Twitter in "Keyword" input box.
 				The Default "Respond Count" is 30 tweets. if you want more or less, you may input yours, Integers please.
@@ -110,12 +112,13 @@
 
 
 
-		Sample Runing Result: (in JTextArea):
-							
+		Sample Running Result: (in JTextArea):
+			<SAVED IN THE FILE - Sample Running Result_GUI Console.txt>
+			https://github.com/Youchen/Coding-Projects/blob/master/2015_05/README/Sample%20Running%20Result_GUI%20Console.txt
 
-
-
-		<SAVED IN THE FILE - Sample Running Result_GUI Console.txt>
+		Sample Runnning Result: (for Relational Database):
+			<SAVED IN THE FILE - Sample Running Result_Database.txt>
+			https://github.com/Youchen/Coding-Projects/blob/master/2015_05/README/Sample%20Running%20Result_Database.txt
 
 
 
