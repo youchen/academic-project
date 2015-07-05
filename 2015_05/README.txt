@@ -1,9 +1,10 @@
 1. Overview
 	This project is supported by using API from:
-	Apache POI
-		https://poi.apache.org
-	Twitter4j
-		http://twitter4j.org/en/index.html
+		Apache POI
+			https://poi.apache.org
+		Twitter4j
+			http://twitter4j.org/en/index.html
+	The Relational Database Management System is manipulated by MySQL at Back-end.
 
 	This program is to get the tweets from the search response on https://twitter.com and
 		 parse the response stream by using Twitter4j API, store the data to 2 place:
