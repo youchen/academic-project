@@ -1,0 +1,563 @@
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,1407522933591,1189,/index.php,200,OK,Thread Group 1-7,text,true,5062,1030
+1407522932831,2113,/index.php,200,OK,Thread Group 1-3,text,true,5062,1788
+1407522933579,1189,/index.php,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-7,,true,5062,1030
+1407522932824,2113,/index.php,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,5062,1788
+1407522934106,1100,/index.php,200,OK,Thread Group 1-8,text,true,5062,804
+1407522933987,1100,/index.php,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-8,,true,5062,804
+1407522931891,3317,/index.php,200,OK,Thread Group 1-1,text,true,5062,3159
+1407522931172,3317,/index.php,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,5062,3159
+1407522934411,1122,/index.php,200,OK,Thread Group 1-9,text,true,5062,979
+1407522934399,1122,/index.php,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-9,,true,5062,979
+1407522932830,2717,/index.php,200,OK,Thread Group 1-4,text,true,5062,2560
+1407522931891,3656,/index.php,200,OK,Thread Group 1-2,text,true,5062,3499
+1407522932825,2717,/index.php,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,5062,2560
+1407522931570,3656,/index.php,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,5062,3499
+1407522933176,2466,/index.php,200,OK,Thread Group 1-6,text,true,5062,2216
+1407522933171,2466,/index.php,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-6,,true,5062,2216
+1407522932832,2811,/index.php,200,OK,Thread Group 1-5,text,true,5062,2560
+1407522932824,2811,/index.php,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,5062,2560
+1407522935078,615,/index.php?doLogin=1,200,OK,Thread Group 1-7,text,true,3012,614
+1407522935078,614,/index.php?doLogin=1,200,OK,Thread Group 1-3,text,true,3012,614
+1407522935077,615,/index.php?doLogin=1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-7,,true,3012,614
+1407522935078,614,/index.php?doLogin=1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,3012,614
+1407522935209,605,/index.php?doLogin=1,200,OK,Thread Group 1-8,text,true,3012,605
+1407522935210,605,/index.php?doLogin=1,200,OK,Thread Group 1-1,text,true,3012,605
+1407522935208,605,/index.php?doLogin=1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-8,,true,3012,605
+1407522935210,605,/index.php?doLogin=1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,3012,605
+1407522935055,876,/index.php,200,OK,Thread Group 1-10,text,true,5062,758
+1407522935028,876,/index.php,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-10,,true,5062,758
+1407522935555,542,/index.php?doLogin=1,200,OK,Thread Group 1-2,text,true,3012,542
+1407522935555,542,/index.php?doLogin=1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,3012,542
+1407522935193,934,/index.php,200,OK,Thread Group 1-11,text,true,5062,802
+1407522935188,934,/index.php,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-11,,true,5062,802
+1407522935555,641,/index.php?doLogin=1,200,OK,Thread Group 1-4,text,true,3012,640
+1407522935548,648,/index.php?doLogin=1,200,OK,Thread Group 1-9,text,true,3012,647
+1407522935555,641,/index.php?doLogin=1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,3012,640
+1407522935548,648,/index.php?doLogin=1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-9,,true,3012,647
+1407522935644,754,/index.php?doLogin=1,200,OK,Thread Group 1-6,text,true,3012,753
+1407522935647,751,/index.php?doLogin=1,200,OK,Thread Group 1-5,text,true,3012,751
+1407522935644,754,/index.php?doLogin=1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-6,,true,3012,753
+1407522935647,751,/index.php?doLogin=1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,3012,751
+1407522935817,2006,/index.php?mod=crs&act=client_save_new,200,OK,Thread Group 1-8,text,true,2018,2006
+1407522936199,1602,/index.php?mod=crs&act=client_save_new,200,OK,Thread Group 1-4,text,true,2018,1602
+1407522935818,2006,/index.php?mod=crs&act=client_save_new,200,OK,Thread Group 1-1,text,true,2018,2005
+1407522936199,1625,/index.php?mod=crs&act=client_save_new,200,OK,Thread Group 1-9,text,true,2018,1625
+1407522936130,1710,/index.php?doLogin=1,200,OK,Thread Group 1-11,text,true,3012,1710
+1407522935933,1928,/index.php?doLogin=1,200,OK,Thread Group 1-10,text,true,3012,1928
+1407522935713,2160,/index.php?mod=crs&act=client_save_new,200,OK,Thread Group 1-7,text,true,12129,2159
+1407522936100,1773,/index.php?mod=crs&act=client_save_new,200,OK,Thread Group 1-2,text,true,12129,1772
+1407522935719,2154,/index.php?mod=crs&act=client_save_new,200,OK,Thread Group 1-3,text,true,12129,2153
+1407522935817,2006,/index.php?mod=crs&act=client_save_new,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,2018,2005
+1407522936199,1602,/index.php?mod=crs&act=client_save_new,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,2018,1602
+1407522935817,2006,/index.php?mod=crs&act=client_save_new,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-8,,true,2018,2006
+1407522935713,2160,/index.php?mod=crs&act=client_save_new,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-7,,true,12129,2159
+1407522936100,1773,/index.php?mod=crs&act=client_save_new,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,12129,1772
+1407522935933,1928,/index.php?doLogin=1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-10,,true,3012,1928
+1407522936199,1625,/index.php?mod=crs&act=client_save_new,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-9,,true,2018,1625
+1407522936129,1710,/index.php?doLogin=1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-11,,true,3012,1710
+1407522935719,2154,/index.php?mod=crs&act=client_save_new,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,12129,2153
+1407522936000,2531,/index.php,200,OK,Thread Group 1-13,text,true,5062,2213
+1407522935596,2935,/index.php,200,OK,Thread Group 1-12,text,true,5062,2617
+1407522935997,2531,/index.php,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-13,,true,5062,2213
+1407522935590,2935,/index.php,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-12,,true,5062,2617
+1407522937967,696,/index.php?mod=crs&act=client_save_new,200,OK,Thread Group 1-10,text,true,2018,695
+1407522937960,696,/index.php?mod=crs&act=client_save_new,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-10,,true,2018,695
+1407522937784,999,/index.php,200,OK,Thread Group 1-17,text,true,5062,874
+1407522937782,999,/index.php,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-17,,true,5062,874
+1407522936400,2407,/index.php?mod=crs&act=client_save_new,200,OK,Thread Group 1-6,text,true,12129,2404
+1407522936400,2407,/index.php?mod=crs&act=client_save_new,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-6,,true,12129,2404
+1407522938010,849,/index.php,200,OK,Thread Group 1-18,text,true,5062,703
+1407522938006,849,/index.php,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-18,,true,5062,703
+1407522936402,2550,/index.php?mod=crs&act=client_save_new,200,OK,Thread Group 1-5,text,true,12129,2545
+1407522936402,2550,/index.php?mod=crs&act=client_save_new,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,12129,2545
+1407522937805,1235,/index.php,200,OK,Thread Group 1-16,text,true,5062,1059
+1407522937803,1235,/index.php,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-16,,true,5062,1059
+1407522937824,1219,/index.php,200,OK,Thread Group 1-15,text,true,5062,1038
+1407522937879,1164,/index.php,200,OK,Thread Group 1-14,text,true,5062,984
+1407522936401,1164,/index.php,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-14,,true,5062,984
+1407522937822,1219,/index.php,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-15,,true,5062,1038
+1407522938534,528,/index.php?doLogin=1,200,OK,Thread Group 1-13,text,true,3012,528
+1407522938534,528,/index.php?doLogin=1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-13,,true,3012,528
+1407522938534,626,/index.php?doLogin=1,200,OK,Thread Group 1-12,text,true,3012,626
+1407522938534,626,/index.php?doLogin=1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-12,,true,3012,626
+1407522937972,1290,/index.php?mod=crs&act=client_save_new,200,OK,Thread Group 1-11,text,true,12129,1108
+1407522937972,1290,/index.php?mod=crs&act=client_save_new,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-11,,true,12129,1108
+1407522938414,869,/index.php,200,OK,Thread Group 1-19,text,true,5062,746
+1407522938408,869,/index.php,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-19,,true,5062,746
+1407522938871,491,/index.php?doLogin=1,200,OK,Thread Group 1-18,text,true,3012,491
+1407522938871,491,/index.php?doLogin=1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-18,,true,3012,491
+1407522938794,671,/index.php?doLogin=1,200,OK,Thread Group 1-17,text,true,3012,671
+1407522938793,671,/index.php?doLogin=1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-17,,true,3012,671
+1407522939046,619,/index.php?doLogin=1,200,OK,Thread Group 1-14,text,true,3012,619
+1407522939046,620,/index.php?doLogin=1,200,OK,Thread Group 1-15,text,true,3012,619
+1407522939044,622,/index.php?doLogin=1,200,OK,Thread Group 1-16,text,true,3012,621
+1407522939046,620,/index.php?doLogin=1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-15,,true,3012,619
+1407522939043,622,/index.php?doLogin=1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-16,,true,3012,621
+1407522939046,619,/index.php?doLogin=1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-14,,true,3012,619
+1407522939678,849,/index.php?mod=crs&act=client_save_new,200,OK,Thread Group 1-14,text,true,2018,848
+1407522939676,851,/index.php?mod=crs&act=client_save_new,200,OK,Thread Group 1-16,text,true,12129,851
+1407522939676,852,/index.php?mod=crs&act=client_save_new,200,OK,Thread Group 1-15,text,true,12129,851
+1407522939364,1164,/index.php?mod=crs&act=client_save_new,200,OK,Thread Group 1-18,text,true,12129,1163
+1407522939467,1062,/index.php?mod=crs&act=client_save_new,200,OK,Thread Group 1-17,text,true,2018,1062
+1407522939162,1367,/index.php?mod=crs&act=client_save_new,200,OK,Thread Group 1-12,text,true,12129,1366
+1407522939674,851,/index.php?mod=crs&act=client_save_new,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-16,,true,12129,851
+1407522939678,849,/index.php?mod=crs&act=client_save_new,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-14,,true,2018,848
+1407522939674,852,/index.php?mod=crs&act=client_save_new,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-15,,true,12129,851
+1407522939364,1164,/index.php?mod=crs&act=client_save_new,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-18,,true,12129,1163
+1407522939162,1367,/index.php?mod=crs&act=client_save_new,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-12,,true,12129,1366
+1407522939467,1062,/index.php?mod=crs&act=client_save_new,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-17,,true,2018,1062
+1407522939065,1471,/index.php?mod=crs&act=client_save_new,200,OK,Thread Group 1-13,text,true,12129,1470
+1407522938873,1680,/index.php,200,OK,Thread Group 1-20,text,true,5062,791
+1407522939287,1253,/index.php?doLogin=1,200,OK,Thread Group 1-19,text,true,3012,1253
+1407522939064,1471,/index.php?mod=crs&act=client_save_new,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-13,,true,12129,1470
+1407522938810,1680,/index.php,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-20,,true,5062,791
+1407522939287,1253,/index.php?doLogin=1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-19,,true,3012,1253
+1407522939216,1447,/index.php,200,OK,Thread Group 1-21,text,true,5062,1335
+1407522939211,1447,/index.php,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-21,,true,5062,1335
+1407522940649,422,/index.php?doLogin=1,200,OK,Thread Group 1-20,text,true,3012,422
+1407522940649,422,/index.php?doLogin=1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-20,,true,3012,422
+1407522940671,501,/index.php?doLogin=1,200,OK,Thread Group 1-21,text,true,3012,501
+1407522940671,501,/index.php?doLogin=1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-21,,true,3012,501
+1407522940606,785,/index.php,200,OK,Thread Group 1-23,text,true,5062,668
+1407522940612,780,/index.php,200,OK,Thread Group 1-24,text,true,5062,662
+1407522940604,785,/index.php,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-23,,true,5062,668
+1407522940609,780,/index.php,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-24,,true,5062,662
+1407522940650,920,/index.php?mod=crs&act=client_save_new,200,OK,Thread Group 1-19,text,true,12129,611
+1407522939667,1914,/index.php,200,OK,Thread Group 1-22,text,true,5062,1708
+1407522940649,920,/index.php?mod=crs&act=client_save_new,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-19,,true,12129,611
+1407522939663,1914,/index.php,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-22,,true,5062,1708
+1407522940818,1331,/index.php,200,OK,Thread Group 1-25,text,true,5062,750
+1407522940814,1331,/index.php,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-25,,true,5062,750
+1407522941072,1196,/index.php?mod=crs&act=client_save_new,200,OK,Thread Group 1-20,text,true,12129,1115
+1407522941072,1196,/index.php?mod=crs&act=client_save_new,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-20,,true,12129,1115
+1407522941217,1066,/index.php,200,OK,Thread Group 1-26,text,true,5062,958
+1407522941214,1066,/index.php,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-26,,true,5062,958
+1407522941174,1114,/index.php?mod=crs&act=client_save_new,200,OK,Thread Group 1-21,text,true,12129,1111
+1407522941174,1114,/index.php?mod=crs&act=client_save_new,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-21,,true,12129,1111
+1407522941393,955,/index.php?doLogin=1,200,OK,Thread Group 1-23,text,true,3012,955
+1407522941393,955,/index.php?doLogin=1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-23,,true,3012,955
+1407522942152,630,/index.php?doLogin=1,200,OK,Thread Group 1-25,text,true,3012,630
+1407522941656,1126,/index.php?doLogin=1,200,OK,Thread Group 1-22,text,true,3012,1126
+1407522941394,1388,/index.php?doLogin=1,200,OK,Thread Group 1-24,text,true,3012,1388
+1407522941656,1126,/index.php?doLogin=1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-22,,true,3012,1126
+1407522942151,630,/index.php?doLogin=1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-25,,true,3012,630
+1407522941393,1388,/index.php?doLogin=1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-24,,true,3012,1388
+1407522942350,499,/index.php?mod=crs&act=client_save_new,200,OK,Thread Group 1-23,text,true,12129,495
+1407522942350,499,/index.php?mod=crs&act=client_save_new,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-23,,true,12129,495
+1407522942288,595,/index.php?doLogin=1,200,OK,Thread Group 1-26,text,true,3012,594
+1407522942288,595,/index.php?doLogin=1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-26,,true,3012,594
+1407522942151,835,/index.php,200,OK,Thread Group 1-28,text,true,5062,731
+1407522942051,835,/index.php,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-28,,true,5062,731
+1407522942430,782,/index.php,200,OK,Thread Group 1-29,text,true,5062,655
+1407522942425,782,/index.php,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-29,,true,5062,655
+1407522941618,1786,/index.php,200,OK,Thread Group 1-27,text,true,5062,1668
+1407522941615,1786,/index.php,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-27,,true,5062,1668
+1407522942789,631,/index.php?mod=crs&act=client_save_new,200,OK,Thread Group 1-24,text,true,12129,627
+1407522942789,631,/index.php?mod=crs&act=client_save_new,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-24,,true,12129,627
+1407522942885,558,/index.php?mod=crs&act=client_save_new,200,OK,Thread Group 1-26,text,true,2018,558
+1407522942884,558,/index.php?mod=crs&act=client_save_new,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-26,,true,2018,558
+1407522942789,809,/index.php?mod=crs&act=client_save_new,200,OK,Thread Group 1-25,text,true,12129,806
+1407522942839,901,/index.php,200,OK,Thread Group 1-30,text,true,5062,757
+1407522942789,809,/index.php?mod=crs&act=client_save_new,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-25,,true,12129,806
+1407522942834,901,/index.php,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-30,,true,5062,757
+1407522942988,608,/index.php?doLogin=1,200,OK,Thread Group 1-28,text,true,3012,608
+1407522942987,608,/index.php?doLogin=1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-28,,true,3012,608
+1407522943214,585,/index.php?doLogin=1,200,OK,Thread Group 1-29,text,true,3012,585
+1407522942788,1012,/index.php?mod=crs&act=client_save_new,200,OK,Thread Group 1-22,text,true,12129,821
+1407522943214,585,/index.php?doLogin=1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-29,,true,3012,585
+1407522942788,1012,/index.php?mod=crs&act=client_save_new,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-22,,true,12129,821
+1407522943407,494,/index.php?doLogin=1,200,OK,Thread Group 1-27,text,true,3012,494
+1407522943406,494,/index.php?doLogin=1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-27,,true,3012,494
+1407522943233,875,/index.php,200,OK,Thread Group 1-31,text,true,5062,769
+1407522943229,875,/index.php,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-31,,true,5062,769
+1407522943796,812,/index.php?doLogin=1,200,OK,Thread Group 1-30,text,true,3012,812
+1407522943805,805,/index.php?mod=crs&act=client_save_new,200,OK,Thread Group 1-28,text,true,12129,801
+1407522943795,812,/index.php?doLogin=1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-30,,true,3012,812
+1407522943803,805,/index.php?mod=crs&act=client_save_new,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-28,,true,12129,801
+1407522943632,1093,/index.php,200,OK,Thread Group 1-32,text,true,5062,976
+1407522943629,1093,/index.php,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-32,,true,5062,976
+1407522943807,935,/index.php?mod=crs&act=client_save_new,200,OK,Thread Group 1-29,text,true,12129,932
+1407522943807,935,/index.php?mod=crs&act=client_save_new,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-29,,true,12129,932
+1407522944110,698,/index.php?doLogin=1,200,OK,Thread Group 1-31,text,true,3012,697
+1407522944110,698,/index.php?doLogin=1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-31,,true,3012,697
+1407522943903,979,/index.php?mod=crs&act=client_save_new,200,OK,Thread Group 1-27,text,true,12129,976
+1407522943903,979,/index.php?mod=crs&act=client_save_new,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-27,,true,12129,976
+1407522944026,921,/index.php,200,OK,Thread Group 1-33,text,true,5062,781
+1407522944022,921,/index.php,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-33,,true,5062,781
+1407522944727,503,/index.php?doLogin=1,200,OK,Thread Group 1-32,text,true,3012,502
+1407522944727,503,/index.php?doLogin=1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-32,,true,3012,502
+1407522944427,808,/index.php,200,OK,Thread Group 1-34,text,true,5062,688
+1407522944422,808,/index.php,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-34,,true,5062,688
+1407522944665,617,/index.php?mod=crs&act=client_save_new,200,OK,Thread Group 1-30,text,true,12129,581
+1407522944665,617,/index.php?mod=crs&act=client_save_new,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-30,,true,12129,581
+1407522944810,551,/index.php?mod=crs&act=client_save_new,200,OK,Thread Group 1-31,text,true,12129,548
+1407522944810,551,/index.php?mod=crs&act=client_save_new,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-31,,true,12129,548
+1407522944949,463,/index.php?doLogin=1,200,OK,Thread Group 1-33,text,true,3012,463
+1407522944949,463,/index.php?doLogin=1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-33,,true,3012,463
+1407522944826,839,/index.php,200,OK,Thread Group 1-35,text,true,5062,687
+1407522944823,839,/index.php,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-35,,true,5062,687
+1407522945239,475,/index.php?doLogin=1,200,OK,Thread Group 1-34,text,true,3012,475
+1407522945239,475,/index.php?doLogin=1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-34,,true,3012,475
+1407522945234,630,/index.php,200,OK,Thread Group 1-36,text,true,5062,527
+1407522945229,630,/index.php,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-36,,true,5062,527
+1407522945415,609,/index.php?mod=crs&act=client_save_new,200,OK,Thread Group 1-33,text,true,12129,606
+1407522945414,609,/index.php?mod=crs&act=client_save_new,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-33,,true,12129,606
+1407522945235,885,/index.php?mod=crs&act=client_save_new,200,OK,Thread Group 1-32,text,true,12129,683
+1407522945678,442,/index.php?doLogin=1,200,OK,Thread Group 1-35,text,true,3012,442
+1407522945235,885,/index.php?mod=crs&act=client_save_new,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-32,,true,12129,683
+1407522945678,442,/index.php?doLogin=1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-35,,true,3012,442
+1407522945867,308,/index.php?doLogin=1,200,OK,Thread Group 1-36,text,true,3012,308
+1407522945866,308,/index.php?doLogin=1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-36,,true,3012,308
+1407522945720,748,/index.php?mod=crs&act=client_save_new,200,OK,Thread Group 1-34,text,true,12129,511
+1407522945661,809,/index.php,200,OK,Thread Group 1-37,text,true,5062,659
+1407522945720,748,/index.php?mod=crs&act=client_save_new,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-34,,true,12129,511
+1407522945634,809,/index.php,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-37,,true,5062,659
+1407522946123,708,/index.php?mod=crs&act=client_save_new,200,OK,Thread Group 1-35,text,true,12129,705
+1407522946123,708,/index.php?mod=crs&act=client_save_new,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-35,,true,12129,705
+1407522946177,696,/index.php?mod=crs&act=client_save_new,200,OK,Thread Group 1-36,text,true,12129,497
+1407522946029,846,/index.php,200,OK,Thread Group 1-38,text,true,5062,739
+1407522946177,696,/index.php?mod=crs&act=client_save_new,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-36,,true,12129,497
+1407522946026,846,/index.php,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-38,,true,5062,739
+1407522946479,494,/index.php?doLogin=1,200,OK,Thread Group 1-37,text,true,3012,494
+1407522946478,494,/index.php?doLogin=1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-37,,true,3012,494
+1407522946471,708,/index.php,200,OK,Thread Group 1-39,text,true,5062,603
+1407522946466,708,/index.php,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-39,,true,5062,603
+1407522946883,490,/index.php?doLogin=1,200,OK,Thread Group 1-38,text,true,3012,490
+1407522946883,490,/index.php?doLogin=1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-38,,true,3012,490
+1407522946835,740,/index.php,200,OK,Thread Group 1-40,text,true,5062,637
+1407522946831,740,/index.php,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-40,,true,5062,637
+1407522947180,528,/index.php?doLogin=1,200,OK,Thread Group 1-39,text,true,3012,528
+1407522946975,799,/index.php?mod=crs&act=client_save_new,200,OK,Thread Group 1-37,text,true,12129,595
+1407522947180,528,/index.php?doLogin=1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-39,,true,3012,528
+1407522946975,799,/index.php?mod=crs&act=client_save_new,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-37,,true,12129,595
+1407522947237,738,/index.php,200,OK,Thread Group 1-41,text,true,5062,638
+1407522947232,738,/index.php,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-41,,true,5062,638
+1407522947375,704,/index.php?mod=crs&act=client_save_new,200,OK,Thread Group 1-38,text,true,12129,458
+1407522947577,502,/index.php?doLogin=1,200,OK,Thread Group 1-40,text,true,3012,502
+1407522947375,704,/index.php?mod=crs&act=client_save_new,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-38,,true,12129,458
+1407522947576,502,/index.php?doLogin=1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-40,,true,3012,502
+1407522947799,653,/index.php?mod=crs&act=client_save_new,200,OK,Thread Group 1-39,text,true,12129,520
+1407522947799,653,/index.php?mod=crs&act=client_save_new,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-39,,true,12129,520
+1407522947791,773,/index.php,200,OK,Thread Group 1-42,text,true,5062,661
+1407522947633,773,/index.php,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-42,,true,5062,661
+1407522947977,675,/index.php?doLogin=1,200,OK,Thread Group 1-41,text,true,3012,675
+1407522947977,675,/index.php?doLogin=1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-41,,true,3012,675
+1407522948082,599,/index.php?mod=crs&act=client_save_new,200,OK,Thread Group 1-40,text,true,12129,595
+1407522948081,599,/index.php?mod=crs&act=client_save_new,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-40,,true,12129,595
+1407522948039,821,/index.php,200,OK,Thread Group 1-43,text,true,5062,712
+1407522948033,821,/index.php,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-43,,true,5062,712
+1407522948454,585,/index.php,200,OK,Thread Group 1-44,text,true,5062,469
+1407522948449,585,/index.php,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-44,,true,5062,469
+1407522948566,490,/index.php?doLogin=1,200,OK,Thread Group 1-42,text,true,3012,490
+1407522948566,490,/index.php?doLogin=1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-42,,true,3012,490
+1407522948654,487,/index.php?mod=crs&act=client_save_new,200,OK,Thread Group 1-41,text,true,12129,479
+1407522948654,487,/index.php?mod=crs&act=client_save_new,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-41,,true,12129,479
+1407522949041,821,/index.php?doLogin=1,200,OK,Thread Group 1-44,text,true,3012,820
+1407522949040,821,/index.php?doLogin=1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-44,,true,3012,820
+1407522948861,1162,/index.php?doLogin=1,200,OK,Thread Group 1-43,text,true,3012,1162
+1407522948861,1162,/index.php?doLogin=1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-43,,true,3012,1162
+1407522949058,1006,/index.php?mod=crs&act=client_save_new,200,OK,Thread Group 1-42,text,true,12129,1005
+1407522949057,1006,/index.php?mod=crs&act=client_save_new,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-42,,true,12129,1005
+1407522949646,585,/index.php,200,OK,Thread Group 1-47,text,true,5062,484
+1407522949643,585,/index.php,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-47,,true,5062,484
+1407522948839,1573,/index.php,200,OK,Thread Group 1-45,text,true,5062,1429
+1407522948834,1573,/index.php,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-45,,true,5062,1429
+1407522949864,681,/index.php?mod=crs&act=client_save_new,200,OK,Thread Group 1-44,text,true,12129,679
+1407522949864,681,/index.php?mod=crs&act=client_save_new,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-44,,true,12129,679
+1407522950025,711,/index.php?mod=crs&act=client_save_new,200,OK,Thread Group 1-43,text,true,12129,705
+1407522950232,513,/index.php?doLogin=1,200,OK,Thread Group 1-47,text,true,3012,513
+1407522950025,711,/index.php?mod=crs&act=client_save_new,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-43,,true,12129,705
+1407522950232,513,/index.php?doLogin=1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-47,,true,3012,513
+1407522950414,533,/index.php?doLogin=1,200,OK,Thread Group 1-45,text,true,3012,533
+1407522950414,533,/index.php?doLogin=1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-45,,true,3012,533
+1407522949241,1729,/index.php,200,OK,Thread Group 1-46,text,true,5062,1607
+1407522950087,883,/index.php,200,OK,Thread Group 1-48,text,true,5062,758
+1407522949236,1729,/index.php,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-46,,true,5062,1607
+1407522950038,883,/index.php,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-48,,true,5062,758
+1407522950547,706,/index.php,200,OK,Thread Group 1-49,text,true,5062,602
+1407522950543,706,/index.php,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-49,,true,5062,602
+1407522950777,478,/index.php?mod=crs&act=client_save_new,200,OK,Thread Group 1-47,text,true,12129,475
+1407522950777,478,/index.php?mod=crs&act=client_save_new,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-47,,true,12129,475
+1407522950972,579,/index.php?doLogin=1,200,OK,Thread Group 1-48,text,true,3012,579
+1407522950972,579,/index.php?doLogin=1,200,OK,Thread Group 1-46,text,true,3012,579
+1407522950972,579,/index.php?doLogin=1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-48,,true,3012,579
+1407522950972,579,/index.php?doLogin=1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-46,,true,3012,579
+1407522950842,813,/index.php,200,OK,Thread Group 1-50,text,true,5062,708
+1407522950838,813,/index.php,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-50,,true,5062,708
+1407522951255,504,/index.php?doLogin=1,200,OK,Thread Group 1-49,text,true,3012,501
+1407522951255,504,/index.php?doLogin=1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-49,,true,3012,501
+1407522950949,907,/index.php?mod=crs&act=client_save_new,200,OK,Thread Group 1-45,text,true,12129,721
+1407522950949,907,/index.php?mod=crs&act=client_save_new,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-45,,true,12129,721
+1407522951246,869,/index.php,200,OK,Thread Group 1-51,text,true,5062,707
+1407522951241,869,/index.php,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-51,,true,5062,707
+1407522951656,499,/index.php?doLogin=1,200,OK,Thread Group 1-50,text,true,3012,499
+1407522951656,499,/index.php?doLogin=1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-50,,true,3012,499
+1407522951647,598,/index.php,200,OK,Thread Group 1-52,text,true,5062,487
+1407522951643,598,/index.php,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-52,,true,5062,487
+1407522951553,826,/index.php?mod=crs&act=client_save_new,200,OK,Thread Group 1-48,text,true,12129,572
+1407522951553,826,/index.php?mod=crs&act=client_save_new,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-48,,true,12129,572
+1407522951553,829,/index.php?mod=crs&act=client_save_new,200,OK,Thread Group 1-46,text,true,12129,823
+1407522951553,829,/index.php?mod=crs&act=client_save_new,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-46,,true,12129,823
+1407522951811,646,/index.php?mod=crs&act=client_save_new,200,OK,Thread Group 1-49,text,true,12129,570
+1407522951811,646,/index.php?mod=crs&act=client_save_new,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-49,,true,12129,570
+1407522952133,445,/index.php?doLogin=1,200,OK,Thread Group 1-51,text,true,3012,445
+1407522952133,445,/index.php?doLogin=1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-51,,true,3012,445
+1407522952045,733,/index.php,200,OK,Thread Group 1-53,text,true,5062,634
+1407522952247,532,/index.php?doLogin=1,200,OK,Thread Group 1-52,text,true,3012,532
+1407522952041,733,/index.php,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-53,,true,5062,634
+1407522952247,532,/index.php?doLogin=1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-52,,true,3012,532
+1407522952157,652,/index.php?mod=crs&act=client_save_new,200,OK,Thread Group 1-50,text,true,12129,646
+1407522952157,652,/index.php?mod=crs&act=client_save_new,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-50,,true,12129,646
+1407522952580,607,/index.php?mod=crs&act=client_save_new,200,OK,Thread Group 1-51,text,true,12129,476
+1407522952580,607,/index.php?mod=crs&act=client_save_new,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-51,,true,12129,476
+1407522952444,754,/index.php,200,OK,Thread Group 1-54,text,true,5062,637
+1407522952442,754,/index.php,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-54,,true,5062,637
+1407522952811,510,/index.php?mod=crs&act=client_save_new,200,OK,Thread Group 1-52,text,true,12129,503
+1407522952811,510,/index.php?mod=crs&act=client_save_new,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-52,,true,12129,503
+1407522952804,613,/index.php?doLogin=1,200,OK,Thread Group 1-53,text,true,3012,612
+1407522952804,613,/index.php?doLogin=1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-53,,true,3012,612
+1407522953204,295,/index.php?doLogin=1,200,OK,Thread Group 1-54,text,true,3012,295
+1407522953203,295,/index.php?doLogin=1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-54,,true,3012,295
+1407522952846,782,/index.php,200,OK,Thread Group 1-55,text,true,5062,672
+1407522952843,782,/index.php,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-55,,true,5062,672
+1407522953419,490,/index.php?mod=crs&act=client_save_new,200,OK,Thread Group 1-53,text,true,12129,488
+1407522953418,490,/index.php?mod=crs&act=client_save_new,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-53,,true,12129,488
+1407522953247,777,/index.php,200,OK,Thread Group 1-56,text,true,5062,674
+1407522953242,777,/index.php,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-56,,true,5062,674
+1407522953500,549,/index.php?mod=crs&act=client_save_new,200,OK,Thread Group 1-54,text,true,12129,546
+1407522953500,549,/index.php?mod=crs&act=client_save_new,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-54,,true,12129,546
+1407522953640,483,/index.php?doLogin=1,200,OK,Thread Group 1-55,text,true,3012,482
+1407522953640,483,/index.php?doLogin=1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-55,,true,3012,482
+1407522953646,724,/index.php,200,OK,Thread Group 1-57,text,true,5062,578
+1407522953643,724,/index.php,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-57,,true,5062,578
+1407522954026,518,/index.php?doLogin=1,200,OK,Thread Group 1-56,text,true,3012,518
+1407522954026,518,/index.php?doLogin=1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-56,,true,3012,518
+1407522954049,705,/index.php,200,OK,Thread Group 1-58,text,true,5062,595
+1407522954044,705,/index.php,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-58,,true,5062,595
+1407522954124,708,/index.php?mod=crs&act=client_save_new,200,OK,Thread Group 1-55,text,true,12129,704
+1407522954124,708,/index.php?mod=crs&act=client_save_new,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-55,,true,12129,704
+1407522954371,576,/index.php?doLogin=1,200,OK,Thread Group 1-57,text,true,3012,576
+1407522954371,576,/index.php?doLogin=1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-57,,true,3012,576
+1407522954547,523,/index.php?mod=crs&act=client_save_new,200,OK,Thread Group 1-56,text,true,12129,520
+1407522954547,523,/index.php?mod=crs&act=client_save_new,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-56,,true,12129,520
+1407522954502,852,/index.php,200,OK,Thread Group 1-59,text,true,5062,647
+1407522954756,598,/index.php?doLogin=1,200,OK,Thread Group 1-58,text,true,3012,598
+1407522954755,598,/index.php?doLogin=1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-58,,true,3012,598
+1407522954447,852,/index.php,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-59,,true,5062,647
+1407522954949,708,/index.php?mod=crs&act=client_save_new,200,OK,Thread Group 1-57,text,true,12129,486
+1407522954948,708,/index.php?mod=crs&act=client_save_new,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-57,,true,12129,486
+1407522954852,836,/index.php,200,OK,Thread Group 1-60,text,true,5062,703
+1407522954847,836,/index.php,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-60,,true,5062,703
+1407522955358,498,/index.php?doLogin=1,200,OK,Thread Group 1-59,text,true,3012,498
+1407522955358,498,/index.php?doLogin=1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-59,,true,3012,498
+1407522955358,592,/index.php?mod=crs&act=client_save_new,200,OK,Thread Group 1-58,text,true,12129,588
+1407522955358,592,/index.php?mod=crs&act=client_save_new,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-58,,true,12129,588
+1407522955695,464,/index.php?doLogin=1,200,OK,Thread Group 1-60,text,true,3012,464
+1407522955694,464,/index.php?doLogin=1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-60,,true,3012,464
+1407522955356,819,/index.php,200,OK,Thread Group 1-61,text,true,5062,702
+1407522955352,819,/index.php,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-61,,true,5062,702
+1407522955857,554,/index.php?mod=crs&act=client_save_new,200,OK,Thread Group 1-59,text,true,12129,552
+1407522955652,759,/index.php,200,OK,Thread Group 1-62,text,true,5062,606
+1407522955649,759,/index.php,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-62,,true,5062,606
+1407522955857,554,/index.php?mod=crs&act=client_save_new,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-59,,true,12129,552
+1407522956178,539,/index.php?doLogin=1,200,OK,Thread Group 1-61,text,true,3012,538
+1407522956177,539,/index.php?doLogin=1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-61,,true,3012,538
+1407522956160,616,/index.php?mod=crs&act=client_save_new,200,OK,Thread Group 1-60,text,true,12129,613
+1407522956160,616,/index.php?mod=crs&act=client_save_new,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-60,,true,12129,613
+1407522956054,765,/index.php,200,OK,Thread Group 1-63,text,true,5062,661
+1407522956050,765,/index.php,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-63,,true,5062,661
+1407522956413,502,/index.php?doLogin=1,200,OK,Thread Group 1-62,text,true,3012,502
+1407522956413,502,/index.php?doLogin=1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-62,,true,3012,502
+1407522956721,475,/index.php?mod=crs&act=client_save_new,200,OK,Thread Group 1-61,text,true,12129,471
+1407522956721,475,/index.php?mod=crs&act=client_save_new,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-61,,true,12129,471
+1407522956455,765,/index.php,200,OK,Thread Group 1-64,text,true,5062,662
+1407522956450,765,/index.php,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-64,,true,5062,662
+1407522956833,617,/index.php?doLogin=1,200,OK,Thread Group 1-63,text,true,3012,617
+1407522956833,617,/index.php?doLogin=1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-63,,true,3012,617
+1407522956917,635,/index.php?mod=crs&act=client_save_new,200,OK,Thread Group 1-62,text,true,12129,433
+1407522956916,635,/index.php?mod=crs&act=client_save_new,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-62,,true,12129,433
+1407522957224,428,/index.php?doLogin=1,200,OK,Thread Group 1-64,text,true,3012,428
+1407522957223,428,/index.php?doLogin=1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-64,,true,3012,428
+1407522956877,784,/index.php,200,OK,Thread Group 1-65,text,true,5062,675
+1407522956852,784,/index.php,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-65,,true,5062,675
+1407522957258,585,/index.php,200,OK,Thread Group 1-66,text,true,5062,474
+1407522957253,585,/index.php,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-66,,true,5062,474
+1407522957453,482,/index.php?mod=crs&act=client_save_new,200,OK,Thread Group 1-63,text,true,12129,479
+1407522957452,482,/index.php?mod=crs&act=client_save_new,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-63,,true,12129,479
+1407522957672,481,/index.php?doLogin=1,200,OK,Thread Group 1-65,text,true,3012,481
+1407522957671,481,/index.php?doLogin=1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-65,,true,3012,481
+1407522957654,564,/index.php?mod=crs&act=client_save_new,200,OK,Thread Group 1-64,text,true,12129,558
+1407522957653,564,/index.php?mod=crs&act=client_save_new,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-64,,true,12129,558
+1407522957845,540,/index.php?doLogin=1,200,OK,Thread Group 1-66,text,true,3012,539
+1407522957844,540,/index.php?doLogin=1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-66,,true,3012,539
+1407522957657,741,/index.php,200,OK,Thread Group 1-67,text,true,5062,625
+1407522957653,741,/index.php,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-67,,true,5062,625
+1407522958060,724,/index.php,200,OK,Thread Group 1-68,text,true,5062,626
+1407522958056,724,/index.php,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-68,,true,5062,626
+1407522958399,491,/index.php?doLogin=1,200,OK,Thread Group 1-67,text,true,3012,491
+1407522958399,491,/index.php?doLogin=1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-67,,true,3012,491
+1407522958386,556,/index.php?mod=crs&act=client_save_new,200,OK,Thread Group 1-66,text,true,12129,553
+1407522958386,556,/index.php?mod=crs&act=client_save_new,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-66,,true,12129,553
+1407522958155,834,/index.php?mod=crs&act=client_save_new,200,OK,Thread Group 1-65,text,true,12129,642
+1407522958155,834,/index.php?mod=crs&act=client_save_new,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-65,,true,12129,642
+1407522958459,812,/index.php,200,OK,Thread Group 1-69,text,true,5062,630
+1407522958456,812,/index.php,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-69,,true,5062,630
+1407522958796,675,/index.php?doLogin=1,200,OK,Thread Group 1-68,text,true,3012,675
+1407522958795,675,/index.php?doLogin=1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-68,,true,3012,675
+1407522958892,580,/index.php?mod=crs&act=client_save_new,200,OK,Thread Group 1-67,text,true,12130,410
+1407522958892,580,/index.php?mod=crs&act=client_save_new,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-67,,true,12130,410
+1407522958860,813,/index.php,200,OK,Thread Group 1-70,text,true,5062,711
+1407522958856,813,/index.php,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-70,,true,5062,711
+1407522959302,471,/index.php?doLogin=1,200,OK,Thread Group 1-69,text,true,3012,471
+1407522959302,471,/index.php?doLogin=1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-69,,true,3012,471
+1407522959473,492,/index.php?mod=crs&act=client_save_new,200,OK,Thread Group 1-68,text,true,12130,490
+1407522959472,492,/index.php?mod=crs&act=client_save_new,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-68,,true,12130,490
+1407522959301,785,/index.php,200,OK,Thread Group 1-71,text,true,5062,678
+1407522959269,785,/index.php,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-71,,true,5062,678
+1407522959677,602,/index.php?doLogin=1,200,OK,Thread Group 1-70,text,true,3012,602
+1407522959676,602,/index.php?doLogin=1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-70,,true,3012,602
+1407522959782,505,/index.php?mod=crs&act=client_save_new,200,OK,Thread Group 1-69,text,true,12130,496
+1407522959782,505,/index.php?mod=crs&act=client_save_new,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-69,,true,12130,496
+1407522959661,762,/index.php,200,OK,Thread Group 1-72,text,true,5062,618
+1407522959657,762,/index.php,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-72,,true,5062,618
+1407522960088,492,/index.php?doLogin=1,200,OK,Thread Group 1-71,text,true,3012,492
+1407522960088,492,/index.php?doLogin=1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-71,,true,3012,492
+1407522960063,839,/index.php,200,OK,Thread Group 1-73,text,true,5062,718
+1407522960281,623,/index.php?mod=crs&act=client_save_new,200,OK,Thread Group 1-70,text,true,12130,619
+1407522960059,839,/index.php,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-73,,true,5062,718
+1407522960281,623,/index.php?mod=crs&act=client_save_new,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-70,,true,12130,619
+1407522960425,559,/index.php?doLogin=1,200,OK,Thread Group 1-72,text,true,3012,559
+1407522960425,559,/index.php?doLogin=1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-72,,true,3012,559
+1407522960582,562,/index.php?mod=crs&act=client_save_new,200,OK,Thread Group 1-71,text,true,12130,559
+1407522960582,562,/index.php?mod=crs&act=client_save_new,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-71,,true,12130,559
+1407522960463,859,/index.php,200,OK,Thread Group 1-74,text,true,5062,646
+1407522960459,859,/index.php,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-74,,true,5062,646
+1407522960910,609,/index.php?doLogin=1,200,OK,Thread Group 1-73,text,true,3012,609
+1407522960910,609,/index.php?doLogin=1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-73,,true,3012,609
+1407522960986,593,/index.php?mod=crs&act=client_save_new,200,OK,Thread Group 1-72,text,true,12130,589
+1407522960986,593,/index.php?mod=crs&act=client_save_new,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-72,,true,12130,589
+1407522960864,856,/index.php,200,OK,Thread Group 1-75,text,true,5062,756
+1407522960860,856,/index.php,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-75,,true,5062,756
+1407522961325,496,/index.php?doLogin=1,200,OK,Thread Group 1-74,text,true,3012,496
+1407522961324,496,/index.php?doLogin=1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-74,,true,3012,496
+1407522961521,468,/index.php?mod=crs&act=client_save_new,200,OK,Thread Group 1-73,text,true,12130,466
+1407522961521,468,/index.php?mod=crs&act=client_save_new,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-73,,true,12130,466
+1407522961728,312,/index.php?doLogin=1,200,OK,Thread Group 1-75,text,true,3012,312
+1407522961728,312,/index.php?doLogin=1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-75,,true,3012,312
+1407522961325,729,/index.php,200,OK,Thread Group 1-76,text,true,5062,598
+1407522961321,729,/index.php,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-76,,true,5062,598
+1407522961823,629,/index.php?mod=crs&act=client_save_new,200,OK,Thread Group 1-74,text,true,12130,468
+1407522961666,786,/index.php,200,OK,Thread Group 1-77,text,true,5062,685
+1407522961662,786,/index.php,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-77,,true,5062,685
+1407522961823,629,/index.php?mod=crs&act=client_save_new,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-74,,true,12130,468
+1407522962056,501,/index.php?doLogin=1,200,OK,Thread Group 1-76,text,true,3012,501
+1407522962056,501,/index.php?doLogin=1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-76,,true,3012,501
+1407522962042,599,/index.php?mod=crs&act=client_save_new,200,OK,Thread Group 1-75,text,true,12130,589
+1407522962042,599,/index.php?mod=crs&act=client_save_new,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-75,,true,12130,589
+1407522962064,717,/index.php,200,OK,Thread Group 1-78,text,true,5062,590
+1407522962061,717,/index.php,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-78,,true,5062,590
+1407522962454,501,/index.php?doLogin=1,200,OK,Thread Group 1-77,text,true,3012,501
+1407522962454,501,/index.php?doLogin=1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-77,,true,3012,501
+1407522962558,483,/index.php?mod=crs&act=client_save_new,200,OK,Thread Group 1-76,text,true,12130,478
+1407522962558,483,/index.php?mod=crs&act=client_save_new,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-76,,true,12130,478
+1407522962466,702,/index.php,200,OK,Thread Group 1-79,text,true,5062,589
+1407522962462,702,/index.php,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-79,,true,5062,589
+1407522962795,563,/index.php?doLogin=1,200,OK,Thread Group 1-78,text,true,3012,563
+1407522962795,563,/index.php?doLogin=1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-78,,true,3012,563
+1407522962957,563,/index.php?mod=crs&act=client_save_new,200,OK,Thread Group 1-77,text,true,12130,559
+1407522962957,563,/index.php?mod=crs&act=client_save_new,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-77,,true,12130,559
+1407522962866,697,/index.php,200,OK,Thread Group 1-80,text,true,5062,595
+1407522962863,697,/index.php,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-80,,true,5062,595
+1407522963170,494,/index.php?doLogin=1,200,OK,Thread Group 1-79,text,true,3012,494
+1407522963170,494,/index.php?doLogin=1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-79,,true,3012,494
+1407522963360,492,/index.php?mod=crs&act=client_save_new,200,OK,Thread Group 1-78,text,true,12130,471
+1407522963360,492,/index.php?mod=crs&act=client_save_new,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-78,,true,12130,471
+1407522963565,509,/index.php?doLogin=1,200,OK,Thread Group 1-80,text,true,3012,508
+1407522963266,809,/index.php,200,OK,Thread Group 1-81,text,true,5062,595
+1407522963565,509,/index.php?doLogin=1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-80,,true,3012,508
+1407522963264,809,/index.php,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-81,,true,5062,595
+1407522963669,602,/index.php?mod=crs&act=client_save_new,200,OK,Thread Group 1-79,text,true,12130,407
+1407522963668,602,/index.php?mod=crs&act=client_save_new,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-79,,true,12130,407
+1407522964099,475,/index.php?doLogin=1,200,OK,Thread Group 1-81,text,true,3012,475
+1407522964099,475,/index.php?doLogin=1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-81,,true,3012,475
+1407522963668,991,/index.php,200,OK,Thread Group 1-82,text,true,5062,808
+1407522963664,991,/index.php,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-82,,true,5062,808
+1407522964099,617,/index.php?mod=crs&act=client_save_new,200,OK,Thread Group 1-80,text,true,12130,614
+1407522964098,617,/index.php?mod=crs&act=client_save_new,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-80,,true,12130,614
+1407522964072,723,/index.php,200,OK,Thread Group 1-83,text,true,5062,607
+1407522964068,723,/index.php,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-83,,true,5062,607
+1407522964469,756,/index.php,200,OK,Thread Group 1-84,text,true,5062,610
+1407522964465,756,/index.php,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-84,,true,5062,610
+1407522964802,577,/index.php?doLogin=1,200,OK,Thread Group 1-83,text,true,3012,577
+1407522964802,577,/index.php?doLogin=1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-83,,true,3012,577
+1407522964576,894,/index.php?mod=crs&act=client_save_new,200,OK,Thread Group 1-81,text,true,12130,891
+1407522964576,894,/index.php?mod=crs&act=client_save_new,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-81,,true,12130,891
+1407522964661,820,/index.php?doLogin=1,200,OK,Thread Group 1-82,text,true,3012,819
+1407522964661,820,/index.php?doLogin=1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-82,,true,3012,819
+1407522965226,457,/index.php?doLogin=1,200,OK,Thread Group 1-84,text,true,3012,457
+1407522965226,457,/index.php?doLogin=1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-84,,true,3012,457
+1407522964868,823,/index.php,200,OK,Thread Group 1-85,text,true,5062,712
+1407522964865,823,/index.php,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-85,,true,5062,712
+1407522965381,523,/index.php?mod=crs&act=client_save_new,200,OK,Thread Group 1-83,text,true,12130,521
+1407522965381,523,/index.php?mod=crs&act=client_save_new,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-83,,true,12130,521
+1407522965269,829,/index.php,200,OK,Thread Group 1-86,text,true,5062,614
+1407522965482,619,/index.php?mod=crs&act=client_save_new,200,OK,Thread Group 1-82,text,true,12130,613
+1407522965266,829,/index.php,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-86,,true,5062,614
+1407522965482,619,/index.php?mod=crs&act=client_save_new,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-82,,true,12130,613
+1407522965686,576,/index.php?mod=crs&act=client_save_new,200,OK,Thread Group 1-84,text,true,12130,571
+1407522965686,576,/index.php?mod=crs&act=client_save_new,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-84,,true,12130,571
+1407522965694,603,/index.php?doLogin=1,200,OK,Thread Group 1-85,text,true,3012,603
+1407522965693,603,/index.php?doLogin=1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-85,,true,3012,603
+1407522966102,319,/index.php?doLogin=1,200,OK,Thread Group 1-86,text,true,3012,319
+1407522966102,319,/index.php?doLogin=1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-86,,true,3012,319
+1407522965673,831,/index.php,200,OK,Thread Group 1-87,text,true,5062,724
+1407522965669,831,/index.php,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-87,,true,5062,724
+1407522966100,755,/index.php,200,OK,Thread Group 1-88,text,true,5062,600
+1407522966095,755,/index.php,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-88,,true,5062,600
+1407522966505,356,/index.php?doLogin=1,200,OK,Thread Group 1-87,text,true,3012,355
+1407522966505,356,/index.php?doLogin=1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-87,,true,3012,355
+1407522966299,663,/index.php?mod=crs&act=client_save_new,200,OK,Thread Group 1-85,text,true,12130,661
+1407522966299,663,/index.php?mod=crs&act=client_save_new,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-85,,true,12130,661
+1407522966423,662,/index.php?mod=crs&act=client_save_new,200,OK,Thread Group 1-86,text,true,12130,659
+1407522966469,732,/index.php,200,OK,Thread Group 1-89,text,true,5062,632
+1407522966422,662,/index.php?mod=crs&act=client_save_new,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-86,,true,12130,659
+1407522966863,466,/index.php?mod=crs&act=client_save_new,200,OK,Thread Group 1-87,text,true,12130,461
+1407522966857,545,/index.php?doLogin=1,200,OK,Thread Group 1-88,text,true,3012,545
+1407522966467,732,/index.php,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-89,,true,5062,632
+1407522966863,466,/index.php?mod=crs&act=client_save_new,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-87,,true,12130,461
+1407522966857,545,/index.php?doLogin=1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-88,,true,3012,545
+1407522966871,736,/index.php,200,OK,Thread Group 1-90,text,true,5062,632
+1407522966868,736,/index.php,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-90,,true,5062,632
+1407522967623,267,/index.php?doLogin=1,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-90,text,false,2691,0
+1407522967622,267,/index.php?doLogin=1,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-90,,false,2691,0
+1407522967555,388,/index.php?doLogin=1,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-89,text,false,2124,0
+1407522967562,437,/index.php?mod=crs&act=client_save_new,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-88,text,false,2056,398
+1407522967274,732,/index.php,200,OK,Thread Group 1-91,text,true,5062,631
+1407522967555,388,/index.php?doLogin=1,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-89,,false,2124,0
+1407522967268,732,/index.php,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-91,,true,5062,631
+1407522967561,437,/index.php?mod=crs&act=client_save_new,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-88,,false,2056,398
+1407522968029,13,/index.php?doLogin=1,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-91,text,false,2691,0
+1407522968029,13,/index.php?doLogin=1,,"Number of samples in transaction : 1, number of failing samples : 1",Thread Group 1-91,,false,2691,0
+1407522967678,832,/index.php,200,OK,Thread Group 1-92,text,true,5062,730
+1407522967669,832,/index.php,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-92,,true,5062,730
