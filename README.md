@@ -1,9 +1,4 @@
-Coding projects
-===============
-
-These are the coding projects for school classes.
-
-Content:
+Grad-school projects
 
 
  May 2015
